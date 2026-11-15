@@ -3,6 +3,7 @@
 
   var COURSE = window.COURSE || { sessions: [], datasets: [] };
   var CONFIG = window.SITE_CONFIG || {};
+  var DRIVE = window.DRIVE || { sessions: {}, data: {} };
   var S = COURSE.sessions;
   var app = document.getElementById("app");
   var STORE_KEY = "dsp-course-settings-v1";
@@ -51,7 +52,15 @@
     return s.files.indexOf(name) >= 0 ? name : null;
   }
   function localUrl(s, f) { return "materials/" + s.slug + "/" + f; }
+  function driveId(s, f) {
+    var rec = DRIVE.sessions && DRIVE.sessions[String(s.n)];
+    return rec && f ? rec[f.split("_").slice(1).join("_")] || null : null;
+  }
+  function driveView(id) { return "https://drive.google.com/file/d/" + id + "/view"; }
+  function driveFolder(id) { return "https://drive.google.com/drive/folders/" + id; }
   function colabUrl(s, f) {
+    var id = driveId(s, f);
+    if (id && /\.ipynb$/.test(f)) return "https://colab.research.google.com/drive/" + id;
     var r = repoInfo();
     if (!r.user || !r.repo || !f) return null;
     return "https://colab.research.google.com/github/" + r.user + "/" + r.repo + "/blob/" + r.branch + "/materials/" + s.slug + "/" + f;
@@ -182,7 +191,12 @@
       '<div class="stat"><b>8</b><span>مراحل</span></div><div class="stat"><b>4</b><span>مشاريع</span></div>' +
       '<div class="stat"><b>' + COURSE.datasets.length + '</b><span>ملف داتا</span></div></div></section>';
 
-    if (!r.user || !r.repo) {
+    if (DRIVE.root) {
+      html += '<div class="card next-card" style="margin-bottom:16px"><div><div style="font-weight:700;color:var(--navy)">كل مواد الكورس على Google Drive</div>' +
+        '<div class="muted small">مجلد واحد فيه كل الجلسات مرتبة حسب المستوى والمرحلة، والداتا والقوالب. كل الملفات مشاركة Viewer.</div></div>' +
+        '<a class="btn primary" target="_blank" rel="noopener" href="' + driveFolder(DRIVE.root) + '">' + ICON.ext + 'افتح مجلد الكورس</a></div>';
+    }
+    if (!DRIVE.root && (!r.user || !r.repo)) {
       html += '<div class="note" style="margin-bottom:16px">روابط Colab لسا ما اشتغلت: اكتب اسم حسابك على GitHub واسم الـ repository بصفحة <a href="#/settings">الإعدادات</a>. إذا الموقع منشور على GitHub Pages بيتعرّف عليهن لحاله.</div>';
     }
     if (nextN) {
@@ -235,6 +249,11 @@
         : '<a class="btn primary" aria-disabled="true" title="اكتب حساب GitHub بالإعدادات">' + ICON.ext + 'افتح بـ Colab</a>';
       actions += '<button class="btn" data-copy="' + esc(colab || "") + '"' + (colab ? "" : ' aria-disabled="true"') + '>' + ICON.copy + 'انسخ الرابط</button>';
     }
+    var did = driveId(s, f);
+    if (!/\.ipynb$/.test(f) && did) {
+      actions += '<a class="btn primary" target="_blank" rel="noopener" href="' + esc(driveView(did)) + '">' + ICON.ext + 'افتح بـ Drive</a>';
+      actions += '<button class="btn" data-copy="' + esc(driveView(did)) + '">' + ICON.copy + 'انسخ الرابط</button>';
+    }
     actions += '<a class="btn" href="' + esc(localUrl(s, f)) + '" download>' + ICON.down + 'تنزيل</a>';
     if (extra) actions += extra;
     return '<div class="card mat"><div class="kind"><span class="ico">' + icon + '</span><h3>' + title + '</h3></div>' +
@@ -250,11 +269,11 @@
     var html = '<div class="crumbs"><a href="#/">الجلسات</a> / المرحلة ' + s.stage + ' · <span class="en">' + esc(s.stageName) + '</span></div>';
     html += '<div class="s-head"><div><div class="eyebrow">الجلسة ' + pad(s.n) + ' من 52 · المستوى ' + s.level + (d ? " · " + esc(fmtDate(d)) : "") + '</div>' +
       '<h1>' + esc(s.title) + '</h1>' + (s.project ? '<span class="pill project">' + projectAr(s.n) + '</span>' : "") + '</div>' +
-      '<div class="s-nav">' + (prev ? '<a class="btn" href="#/s/' + pad(prev.n) + '">السابقة</a>' : "") + (next ? '<a class="btn" href="#/s/' + pad(next.n) + '">التالية</a>' : "") + '</div></div>';
+      '<div class="s-nav">' + (DRIVE.sessions && DRIVE.sessions[String(s.n)] ? '<a class="btn" target="_blank" rel="noopener" href="' + driveFolder(DRIVE.sessions[String(s.n)].folder) + '">مجلد الجلسة بـ Drive</a>' : "") + (prev ? '<a class="btn" href="#/s/' + pad(prev.n) + '">السابقة</a>' : "") + (next ? '<a class="btn" href="#/s/' + pad(next.n) + '">التالية</a>' : "") + '</div></div>';
 
     html += '<div class="materials">' +
       matCard(ICON.slides, "العرض التقديمي", "ملف PowerPoint مع ملاحظات المدرب تحت كل شريحة.", s, "slides.pptx",
-        pdf ? '<a class="btn" target="_blank" rel="noopener" href="' + esc(localUrl(s, pdf)) + '">PDF</a>' : "") +
+        pdf ? '<a class="btn" target="_blank" rel="noopener" href="' + esc(driveId(s, pdf) ? driveView(driveId(s, pdf)) : localUrl(s, pdf)) + '">PDF</a>' : "") +
       matCard(ICON.book, "دفتر المحاضرة", "الشرح والكود اللي بتشغّله بالجلسة، مع تمارين الصف.", s, "lecture.ipynb") +
       matCard(ICON.pen, "الوظيفة", "تمارين A و B و C و D مع كويز. هاد الرابط اللي بتبعته للطلاب.", s, "exercises.ipynb") +
       matCard(ICON.check, "الحلول", "حل تمارين الصف والوظيفة والكويز. ابعته بعد آخر موعد للتسليم.", s, "solutions.ipynb") +
@@ -327,7 +346,7 @@
       '<tr><td>بعد الجلسة</td><td>انشر رسالة "الوظيفة".</td></tr>' +
       '<tr><td>بعد آخر موعد</td><td>صحّح الوظائف وانشر رسالة "حل الوظيفة".</td></tr></tbody></table></div>' +
       '<h2>روابط Colab</h2>' +
-      '<p>كل الدفاتر محفوظة بالـ repository على GitHub، وزر "افتح بـ Colab" بيفتحها مباشرة. ما بتحتاج تشاركها من Drive ولا تغيّر صلاحيات. الشرط الوحيد إنه الـ repository يكون <b>Public</b>.</p>' +
+      '<p>زر "افتح بـ Colab" بيفتح الدفتر من Google Drive، والدفاتر كلها مشاركة Viewer، فما بتحتاج تغيّر أي صلاحيات.</p>' +
       '<p>لما الطالب يفتح الرابط بيشوف الدفتر، بس ما بيقدر يحفظ عليه. لحتى يحفظ شغله لازم يعمل <code>File</code> ثم <code>Save a copy in Drive</code>. هالخطوة مكتوبة بالرسائل.</p>' +
       '<h2>إذا الطالب ما قدر يفتح الرابط</h2>' +
       '<ul><li><b>فاتح من تطبيق Drive عالموبايل:</b> التطبيق ما بيفتح دفاتر Colab. لازم يفتح الرابط من Chrome.</li>' +
@@ -340,6 +359,10 @@
       '<li>بيبعت الرابط بالفورم. حط رابط الفورم بالإعدادات لحتى يطلع بالرسالة.</li></ol>' +
       '<h2>الداتا</h2>' +
       '<p>الدفاتر بتحمّل الداتا من مجلد <code>data</code> بهاد الـ repository. تفاصيل كل ملف بصفحة <a href="#/data">الداتا</a>.</p>' +
+      '<h2>Google Drive</h2>' +
+      '<p>كل مواد الكورس كمان موجودة على Google Drive بحساب eng.mohammad.labania@gmail.com، بمجلد اسمه Data Science with Python - Teknova. أزرار "افتح بـ Colab" بالموقع بتفتح الدفاتر من الـ Drive، وكل الملفات مشاركة Viewer لأي حدا معه الرابط.</p>' +
+      (DRIVE.root ? '<p><a class="btn primary" target="_blank" rel="noopener" href="' + driveFolder(DRIVE.root) + '">افتح مجلد الكورس</a></p>' : "") +
+      '<p class="muted small">انتبه: مجلد الكورس نفسه فيه الحلول. شارك روابط الملفات مع الطلاب، مو رابط المجلد.</p>' +
       '<h2>رابط الموقع</h2>' +
       '<p>بعد ما ينفعل GitHub Pages بيصير رابط الموقع هيك:</p><pre class="code">' + esc(site) + '</pre>' +
       '<p class="muted small">الرسائل والإعدادات بتنحفظ بالمتصفح اللي فاتح منه الموقع بس. إذا فتحت من جهاز تاني لازم تعيد تعبي الإعدادات.</p>' +
@@ -351,7 +374,7 @@
     var r = repoInfo();
     var base = r.user && r.repo ? "https://raw.githubusercontent.com/" + r.user + "/" + r.repo + "/" + r.branch + "/data/" : "https://raw.githubusercontent.com/USERNAME/ds-python-course/main/data/";
     var rows = COURSE.datasets.map(function (d) {
-      return '<tr><td class="en"><a href="data/' + esc(d.file) + '" download>' + esc(d.file) + '</a></td><td class="en">' + d.rows.toLocaleString("en") +
+      return '<tr><td class="en"><a href="data/' + esc(d.file) + '" download>' + esc(d.file) + '</a>' + (DRIVE.data && DRIVE.data[d.file] ? ' · <a target="_blank" rel="noopener" href="' + driveView(DRIVE.data[d.file]) + '">Drive</a>' : "") + '</td><td class="en">' + d.rows.toLocaleString("en") +
         '</td><td class="en">' + d.cols + '</td><td class="en">' + esc(d.desc) + '</td><td class="en small">' + esc(d.sessions) + '</td></tr>';
     }).join("");
     app.innerHTML = '<div class="prose"><h2>ملفات الداتا</h2>' +
