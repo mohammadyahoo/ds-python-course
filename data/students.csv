@@ -1,0 +1,31 @@
+student_id,name,age,city,major,gpa,credits,scholarship
+S100,Basel Shami,24,Damascus,Business,3.85,18,False
+S101,Sofia Sabbagh,18,Damascus,Computer Science,3.7,83,True
+S102,Emma Khoury,19,Damascus,Business,2.06,104,False
+S103,Basel Darwish,24,Beirut,Engineering,3.62,63,False
+S104,Lina Issa,22,Amman,Design,3.35,30,False
+S105,Aya Haddad,24,Homs,Medicine,3.18,42,False
+S106,Tariq Jaber,21,Damascus,Medicine,2.56,52,True
+S107,Sara Jaber,25,Damascus,Engineering,2.8,79,False
+S108,Khaled Haddad,22,Amman,Engineering,2.91,37,False
+S109,Karim Farah,19,Beirut,Medicine,2.37,55,False
+S110,Omar Saleh,20,Damascus,Design,3.56,32,False
+S111,Sofia Yousef,26,Amman,Design,3.4,63,False
+S112,Reem Saleh,19,Damascus,Medicine,2.99,105,False
+S113,Nour Yousef,25,Latakia,Computer Science,2.57,87,False
+S114,Dana Zein,18,Amman,Business,3.61,86,False
+S115,Rami Zein,26,Amman,Computer Science,3.29,79,False
+S116,Fadi Yousef,19,Damascus,Engineering,3.48,35,False
+S117,Hadi Saleh,26,Amman,Medicine,2.81,118,False
+S118,Khaled Hamdan,24,Aleppo,Business,4.0,32,False
+S119,Emma Aziz,23,Latakia,Business,2.94,47,True
+S120,Lina Zein,24,Amman,Computer Science,3.88,56,True
+S121,Dima Aziz,21,Homs,Medicine,2.1,76,False
+S122,Khaled Shami,22,Amman,Design,3.14,80,False
+S123,Jana Sabbagh,18,Aleppo,Computer Science,3.04,100,False
+S124,Noah Nassar,26,Beirut,Computer Science,1.87,66,True
+S125,Khaled Hamdan,24,Amman,Computer Science,2.71,47,False
+S126,Sami Bakri,25,Aleppo,Business,2.45,101,False
+S127,Dima Sabbagh,23,Damascus,Design,2.37,50,True
+S128,Dima Yousef,23,Homs,Business,2.66,90,True
+S129,Yara Shami,23,Aleppo,Engineering,2.47,68,False

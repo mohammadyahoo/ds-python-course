@@ -1,0 +1,2001 @@
+customer_id,gender,senior,tenure_months,contract,internet,monthly_charges,total_charges,support_calls,payment_method,paperless_billing,churn
+T10000,Male,False,6,Month-to-month,Fiber,80.4,472.65,0,Card,True,No
+T10001,Male,False,5,Month-to-month,DSL,78.65,398.29,0,Bank transfer,False,Yes
+T10002,Female,True,30,Month-to-month,DSL,49.27,1423.94,1,Card,True,Yes
+T10003,Female,False,25,One year,Fiber,92.85,2351.07,0,Card,True,No
+T10004,Female,False,33,Two year,Fiber,89.46,2903.42,1,Bank transfer,True,No
+T10005,Male,False,12,Month-to-month,Fiber,89.07,1031.67,0,Bank transfer,True,Yes
+T10006,Female,False,64,One year,DSL,55.52,3661.09,2,Card,True,No
+T10007,Female,False,10,Month-to-month,None,21.91,230.59,1,Electronic check,True,No
+T10008,Female,True,50,One year,DSL,59.59,2982.99,2,Card,True,No
+T10009,Male,False,3,Month-to-month,None,40.34,116.79,1,Electronic check,False,Yes
+T10010,Female,True,20,Month-to-month,Fiber,89.42,1980.29,0,Bank transfer,True,Yes
+T10011,Male,False,18,Month-to-month,Fiber,77.6,1363.97,2,Cash,True,Yes
+T10012,Female,False,58,Two year,None,19.79,1134.87,1,Bank transfer,False,No
+T10013,Female,True,5,Month-to-month,DSL,48.53,227.85,2,Electronic check,False,No
+T10014,Male,False,32,Month-to-month,Fiber,103.69,3321.32,1,Electronic check,True,Yes
+T10015,Female,False,12,Month-to-month,None,36.24,426.07,1,Bank transfer,True,No
+T10016,Female,False,70,One year,DSL,74.51,5249.05,2,Bank transfer,False,No
+T10017,Male,False,60,Two year,Fiber,83.34,4974.12,1,Card,True,No
+T10018,Male,False,30,Month-to-month,DSL,69.65,2101.31,1,Card,True,No
+T10019,Male,False,55,Two year,None,34.41,1979.15,3,Electronic check,True,No
+T10020,Male,False,18,Month-to-month,Fiber,85.13,1567.14,0,Card,False,Yes
+T10021,Male,True,61,Two year,None,31.75,1903.38,1,Bank transfer,True,No
+T10022,Male,True,33,One year,Fiber,76.44,2467.43,1,Electronic check,False,No
+T10023,Male,False,40,Two year,Fiber,83.31,3320.82,3,Card,False,Yes
+T10024,Male,False,11,Two year,Fiber,102.94,1119.81,4,Bank transfer,True,Yes
+T10025,Female,False,20,Month-to-month,None,46.34,891.38,3,Bank transfer,True,No
+T10026,Male,True,45,One year,Fiber,82.97,3753.23,1,Electronic check,True,No
+T10027,Female,True,12,Month-to-month,DSL,65.44,745.39,3,Electronic check,True,Yes
+T10028,Female,False,56,One year,DSL,61.85,3427.91,0,Card,False,No
+T10029,Male,True,25,Month-to-month,Fiber,67.38,1621.29,0,Cash,True,No
+T10030,Female,False,11,Month-to-month,DSL,69.94,817.47,0,Cash,False,Yes
+T10031,Female,False,21,Month-to-month,DSL,66.04,1382.21,1,Electronic check,True,No
+T10032,Male,False,37,Month-to-month,Fiber,77.95,2888.27,1,Bank transfer,False,No
+T10033,Male,True,63,One year,None,42.06,2579.01,2,Electronic check,False,No
+T10034,Male,False,18,One year,DSL,54.93,1012.83,1,Electronic check,False,Yes
+T10035,Female,False,49,Two year,DSL,77.44,3827.25,5,Card,False,No
+T10036,Female,True,58,One year,DSL,78.49,4672.44,1,Bank transfer,False,No
+T10037,Female,False,4,Month-to-month,DSL,77.36,315.83,0,Electronic check,False,Yes
+T10038,Male,True,44,One year,Fiber,94.89,4239.6,4,Cash,False,No
+T10039,Female,False,8,Month-to-month,None,20.93,167.36,1,Electronic check,True,Yes
+T10040,Female,False,28,Month-to-month,DSL,75.29,2110.18,0,Cash,False,No
+T10041,Female,False,16,Month-to-month,Fiber,85.49,1394.26,2,Electronic check,False,Yes
+T10042,Male,False,18,Month-to-month,None,33.17,563.8,2,Cash,True,No
+T10043,Male,False,18,One year,Fiber,78.72,1439.27,0,Bank transfer,True,No
+T10044,Female,False,17,Month-to-month,Fiber,86.83,1464.73,0,Cash,True,No
+T10045,Female,False,30,Month-to-month,DSL,66.91,2010.37,1,Cash,True,Yes
+T10046,Male,False,52,One year,Fiber,93.1,4875.0,2,Card,True,No
+T10047,Male,False,37,One year,None,35.22,1317.36,2,Bank transfer,False,No
+T10048,Female,False,9,Month-to-month,None,37.9,332.46,3,Electronic check,False,Yes
+T10049,Female,True,69,One year,None,31.19,2213.62,0,Electronic check,False,No
+T10050,Male,True,24,One year,Fiber,75.86,1834.27,3,Electronic check,False,No
+T10051,Female,False,36,Month-to-month,Fiber,84.24,3015.01,0,Card,True,Yes
+T10052,Female,False,34,One year,DSL,47.59,1566.01,5,Cash,False,No
+T10053,Female,False,45,Two year,DSL,54.86,2400.37,1,Card,True,No
+T10054,Male,False,36,One year,None,26.62,909.06,0,Card,True,No
+T10055,Male,False,54,Two year,Fiber,83.87,4582.0,0,Bank transfer,False,No
+T10056,Male,False,66,One year,Fiber,87.56,5938.36,0,Electronic check,True,No
+T10057,Female,False,16,Month-to-month,DSL,45.26,717.23,2,Cash,False,No
+T10058,Male,False,23,Month-to-month,Fiber,77.11,1701.48,2,Bank transfer,True,No
+T10059,Male,True,19,Month-to-month,Fiber,91.31,1644.8,3,Bank transfer,False,No
+T10060,Female,False,62,Two year,None,41.45,2592.65,3,Electronic check,True,No
+T10061,Male,False,18,Month-to-month,Fiber,74.62,1332.05,2,Electronic check,True,Yes
+T10062,Female,False,2,Month-to-month,DSL,58.17,123.2,1,Electronic check,True,No
+T10063,Female,False,30,Two year,DSL,68.93,2048.29,0,Electronic check,True,No
+T10064,Female,False,6,Month-to-month,DSL,60.2,355.23,1,Cash,True,Yes
+T10065,Male,False,15,Two year,Fiber,79.63,1200.06,2,Electronic check,False,No
+T10066,Female,True,25,Month-to-month,Fiber,90.27,2263.23,3,Bank transfer,True,Yes
+T10067,Female,False,19,One year,Fiber,73.18,1433.34,3,Electronic check,True,No
+T10068,Male,False,13,One year,Fiber,88.92,1104.11,2,Bank transfer,False,No
+T10069,Female,False,32,Month-to-month,Fiber,88.2,2868.56,0,Electronic check,True,No
+T10070,Female,False,28,Month-to-month,None,36.3,989.06,3,Card,False,No
+T10071,Female,False,23,Month-to-month,DSL,77.37,1756.54,0,Bank transfer,True,No
+T10072,Male,False,26,Month-to-month,DSL,66.49,1731.11,2,Cash,True,No
+T10073,Male,False,52,Two year,DSL,61.38,3072.72,2,Bank transfer,True,No
+T10074,Male,False,26,Month-to-month,None,33.46,897.71,1,Bank transfer,True,No
+T10075,Male,False,32,Month-to-month,Fiber,86.44,2689.29,0,Card,True,Yes
+T10076,Male,False,55,One year,Fiber,92.84,5140.72,3,Bank transfer,True,No
+T10077,Female,True,1,Month-to-month,None,43.6,43.82,1,Bank transfer,False,No
+T10078,Female,False,12,One year,Fiber,78.32,914.78,0,Bank transfer,False,No
+T10079,Male,False,45,Two year,Fiber,101.29,4541.55,1,Card,True,No
+T10080,Female,False,37,One year,DSL,59.94,2227.13,0,Electronic check,False,No
+T10081,Female,False,12,One year,Fiber,103.61,1309.01,0,Card,True,No
+T10082,Female,False,36,Month-to-month,DSL,55.72,1939.4,1,Electronic check,False,No
+T10083,Female,False,34,Month-to-month,DSL,56.62,1842.18,1,Bank transfer,False,Yes
+T10084,Male,False,6,Month-to-month,Fiber,89.9,575.03,0,Electronic check,True,Yes
+T10085,Female,True,53,Two year,Fiber,88.05,4616.9,1,Electronic check,True,No
+T10086,Male,False,22,Month-to-month,Fiber,81.16,1710.49,1,Bank transfer,True,No
+T10087,Male,False,25,Month-to-month,Fiber,83.99,2044.84,1,Electronic check,True,No
+T10088,Female,False,19,Month-to-month,DSL,52.88,1057.92,1,Electronic check,False,No
+T10089,Female,False,68,One year,Fiber,85.31,5450.97,1,Card,True,No
+T10090,Male,False,9,Month-to-month,DSL,63.79,522.79,1,Bank transfer,True,Yes
+T10091,Male,False,27,One year,Fiber,85.76,2366.25,2,Bank transfer,True,No
+T10092,Female,False,25,Month-to-month,None,29.34,736.59,3,Electronic check,False,Yes
+T10093,Female,False,23,Month-to-month,Fiber,68.27,1676.23,0,Card,True,No
+T10094,Male,False,63,Two year,None,40.13,2637.55,1,Electronic check,True,No
+T10095,Female,False,30,Two year,Fiber,90.3,2680.49,0,Card,True,No
+T10096,Male,False,35,Two year,Fiber,89.49,3152.06,3,Card,True,No
+T10097,Female,False,25,Month-to-month,Fiber,79.08,1900.88,1,Card,False,Yes
+T10098,Male,False,39,Month-to-month,Fiber,97.88,3900.67,0,Bank transfer,False,No
+T10099,Male,False,30,Month-to-month,Fiber,83.44,2396.82,2,Card,True,Yes
+T10100,Male,False,36,Month-to-month,DSL,65.09,2347.2,0,Electronic check,False,No
+T10101,Female,True,15,Two year,None,23.17,326.39,3,Electronic check,True,No
+T10102,Female,False,52,Two year,None,32.21,1556.47,0,Electronic check,True,No
+T10103,Male,False,20,Month-to-month,Fiber,83.84,1704.4,1,Cash,False,No
+T10104,Male,False,43,One year,Fiber,84.97,3626.18,1,Bank transfer,True,Yes
+T10105,Male,False,9,Month-to-month,Fiber,71.18,631.04,2,Card,False,Yes
+T10106,Male,False,18,Month-to-month,DSL,79.0,1469.39,0,Bank transfer,True,No
+T10107,Male,False,22,Month-to-month,Fiber,76.47,1686.4,1,Electronic check,True,Yes
+T10108,Female,False,15,Month-to-month,Fiber,95.19,1438.67,1,Electronic check,True,No
+T10109,Female,True,15,Month-to-month,DSL,64.18,976.45,1,Card,False,No
+T10110,Female,False,10,Month-to-month,None,28.96,289.84,1,Electronic check,True,No
+T10111,Female,False,31,Month-to-month,Fiber,76.86,2226.03,2,Cash,True,No
+T10112,Male,False,3,Month-to-month,Fiber,78.46,236.9,1,Electronic check,False,No
+T10113,Male,False,30,Month-to-month,Fiber,88.66,2506.1,1,Bank transfer,True,Yes
+T10114,Female,False,23,One year,Fiber,82.16,1915.17,0,Card,True,No
+T10115,Male,False,32,Month-to-month,None,38.51,1256.14,2,Cash,False,No
+T10116,Female,False,70,Two year,Fiber,99.17,7024.88,2,Bank transfer,True,No
+T10117,Female,False,70,One year,Fiber,90.86,6502.98,3,Cash,False,Yes
+T10118,Male,False,46,Two year,Fiber,78.16,3610.32,4,Electronic check,True,No
+T10119,Female,False,25,Month-to-month,DSL,62.42,1607.4,0,Cash,True,Yes
+T10120,Male,False,15,One year,Fiber,70.75,1107.21,0,Card,True,No
+T10121,Female,False,17,Month-to-month,Fiber,84.97,1411.49,0,Electronic check,True,Yes
+T10122,Male,False,56,One year,None,18.0,1051.2,0,Electronic check,True,No
+T10123,Male,False,58,Two year,Fiber,85.19,4849.55,2,Bank transfer,False,No
+T10124,Male,False,5,Month-to-month,Fiber,108.26,554.35,2,Electronic check,True,Yes
+T10125,Male,False,20,Month-to-month,Fiber,79.83,1584.06,0,Cash,True,No
+T10126,Female,False,34,Two year,None,27.42,928.69,0,Bank transfer,False,No
+T10127,Male,False,29,One year,Fiber,106.5,3328.17,3,Bank transfer,False,No
+T10128,Female,False,20,Month-to-month,DSL,67.05,1414.94,1,Electronic check,False,No
+T10129,Male,False,21,Month-to-month,Fiber,66.82,1397.66,0,Card,True,No
+T10130,Female,False,10,Two year,Fiber,80.81,780.79,1,Bank transfer,False,No
+T10131,Female,False,13,Month-to-month,None,28.03,362.8,0,Electronic check,False,No
+T10132,Female,False,46,Two year,DSL,89.09,3952.78,1,Electronic check,True,No
+T10133,Male,True,12,Month-to-month,Fiber,104.15,1180.79,0,Card,False,No
+T10134,Female,False,40,One year,DSL,53.75,2098.46,6,Electronic check,False,No
+T10135,Male,True,35,Month-to-month,DSL,64.05,2280.62,2,Card,True,Yes
+T10136,Male,False,10,Two year,Fiber,81.75,835.38,0,Card,True,No
+T10137,Female,False,51,Two year,DSL,65.16,3195.13,2,Bank transfer,False,No
+T10138,Male,False,37,Two year,Fiber,93.96,3455.2,0,Electronic check,True,No
+T10139,Female,False,14,Month-to-month,Fiber,96.41,1279.45,0,Electronic check,True,Yes
+T10140,Male,False,5,Month-to-month,DSL,72.52,378.85,2,Cash,True,No
+T10141,Female,False,32,Month-to-month,Fiber,91.86,2879.15,2,Card,True,No
+T10142,Female,False,14,Month-to-month,Fiber,89.33,1185.04,2,Bank transfer,False,Yes
+T10143,Female,False,11,One year,DSL,66.07,732.16,1,Card,False,No
+T10144,Male,False,38,Month-to-month,Fiber,78.86,2854.45,2,Card,True,Yes
+T10145,Female,True,19,Month-to-month,None,28.78,542.0,1,Electronic check,False,Yes
+T10146,Female,False,15,One year,DSL,52.02,769.52,0,Card,False,No
+T10147,Female,False,29,Two year,DSL,60.37,1799.19,3,Electronic check,True,No
+T10148,Female,False,15,Month-to-month,Fiber,75.02,1197.79,0,Bank transfer,True,No
+T10149,Male,False,31,Two year,DSL,70.25,2182.31,1,Card,True,No
+T10150,Male,False,15,Month-to-month,Fiber,88.91,1357.05,0,Electronic check,True,Yes
+T10151,Male,False,39,Month-to-month,DSL,71.04,2887.72,3,Card,True,No
+T10152,Female,False,33,Two year,None,43.51,1405.77,1,Card,True,No
+T10153,Male,False,11,Month-to-month,Fiber,75.46,870.32,0,Electronic check,True,No
+T10154,Male,False,42,Two year,Fiber,88.14,3713.65,4,Bank transfer,False,No
+T10155,Female,True,34,Month-to-month,Fiber,80.83,2662.25,1,Electronic check,True,Yes
+T10156,Female,False,8,Month-to-month,Fiber,78.61,641.47,0,Bank transfer,False,Yes
+T10157,Male,False,21,Month-to-month,DSL,51.57,1135.69,1,Bank transfer,False,No
+T10158,Male,False,35,Two year,Fiber,92.84,3168.21,2,Electronic check,True,No
+T10159,Female,False,27,Month-to-month,DSL,62.26,1617.57,0,Electronic check,False,No
+T10160,Female,False,37,Month-to-month,Fiber,91.88,3438.52,0,Electronic check,True,No
+T10161,Male,False,35,Two year,Fiber,78.44,2740.99,1,Card,True,No
+T10162,Female,False,11,Month-to-month,DSL,61.42,663.05,1,Bank transfer,False,No
+T10163,Female,False,33,Month-to-month,None,33.22,1029.97,1,Card,False,No
+T10164,Male,True,22,Two year,Fiber,95.83,2048.56,0,Electronic check,False,Yes
+T10165,Male,False,17,Two year,DSL,62.16,1075.16,0,Bank transfer,True,No
+T10166,Male,False,37,Two year,DSL,48.19,1795.83,4,Card,False,Yes
+T10167,Male,True,20,Month-to-month,DSL,67.01,1309.97,1,Bank transfer,True,Yes
+T10168,Female,False,32,Month-to-month,None,24.22,805.01,0,Bank transfer,True,No
+T10169,Female,False,55,One year,Fiber,90.1,4802.29,2,Card,True,No
+T10170,Female,False,30,Month-to-month,DSL,77.74,2293.27,0,Card,False,No
+T10171,Female,False,69,Two year,DSL,52.52,3544.58,0,Electronic check,True,No
+T10172,Female,False,7,Two year,DSL,71.41,505.16,0,Cash,False,No
+T10173,Male,False,33,Month-to-month,None,38.51,1239.93,0,Electronic check,True,Yes
+T10174,Male,False,21,Month-to-month,DSL,61.5,1278.33,1,Cash,True,Yes
+T10175,Female,False,61,One year,Fiber,98.69,6050.92,0,Cash,False,No
+T10176,Female,False,21,One year,Fiber,91.47,2004.08,0,Card,False,No
+T10177,Male,False,40,Two year,Fiber,89.72,3716.6,1,Electronic check,True,Yes
+T10178,Male,False,37,Two year,Fiber,75.41,2772.23,0,Electronic check,True,No
+T10179,Female,True,8,Two year,Fiber,91.82,737.46,4,Cash,True,No
+T10180,Female,False,18,One year,DSL,73.33,1274.64,1,Electronic check,False,No
+T10181,Male,False,12,Month-to-month,Fiber,109.43,1318.22,5,Card,True,Yes
+T10182,Female,False,30,One year,None,24.87,787.12,1,Bank transfer,True,No
+T10183,Female,False,17,One year,DSL,57.54,957.36,1,Electronic check,True,No
+T10184,Female,True,33,Month-to-month,Fiber,66.55,2243.54,1,Card,False,No
+T10185,Male,False,28,Month-to-month,DSL,63.34,1815.62,2,Electronic check,True,No
+T10186,Male,False,14,Month-to-month,None,23.94,351.55,1,Cash,True,No
+T10187,Female,False,16,Month-to-month,Fiber,82.57,1276.63,1,Cash,True,Yes
+T10188,Female,False,25,Month-to-month,Fiber,88.28,2238.29,3,Bank transfer,True,Yes
+T10189,Female,True,22,Month-to-month,DSL,64.25,1443.17,1,Cash,False,No
+T10190,Female,False,14,Month-to-month,Fiber,76.77,1096.82,1,Bank transfer,False,Yes
+T10191,Male,False,66,Two year,Fiber,90.82,5926.31,1,Bank transfer,False,No
+T10192,Male,True,59,Two year,Fiber,79.62,4737.88,0,Electronic check,True,No
+T10193,Male,False,15,One year,Fiber,84.76,1261.75,1,Cash,False,Yes
+T10194,Female,False,48,Two year,Fiber,74.44,3491.7,0,Card,True,No
+T10195,Female,False,34,Month-to-month,DSL,62.98,2102.88,2,Electronic check,True,Yes
+T10196,Male,False,16,Month-to-month,Fiber,87.83,1413.07,1,Cash,True,Yes
+T10197,Female,False,29,Month-to-month,DSL,59.65,1762.75,2,Card,False,No
+T10198,Female,False,21,Month-to-month,Fiber,88.25,1821.75,1,Electronic check,False,Yes
+T10199,Male,False,28,Two year,DSL,54.3,1534.46,1,Cash,True,No
+T10200,Male,False,1,Month-to-month,None,35.5,35.41,0,Bank transfer,True,No
+T10201,Male,False,12,Month-to-month,Fiber,81.95,1005.06,1,Card,True,No
+T10202,Female,False,39,One year,None,44.29,1691.75,1,Cash,True,No
+T10203,Male,True,39,Month-to-month,None,25.42,985.7,0,Card,True,No
+T10204,Male,False,1,Month-to-month,None,45.19,43.21,0,Bank transfer,False,No
+T10205,Male,False,24,Month-to-month,None,22.65,540.84,0,Card,False,No
+T10206,Male,False,14,Month-to-month,Fiber,80.34,1095.4,0,Card,False,Yes
+T10207,Male,False,24,Month-to-month,None,29.54,700.91,0,Card,False,No
+T10208,Male,False,32,Month-to-month,Fiber,76.06,2422.74,0,Cash,True,Yes
+T10209,Male,False,38,Month-to-month,DSL,62.17,2429.8,1,Cash,True,Yes
+T10210,Female,True,21,Month-to-month,Fiber,79.7,1607.8,0,Electronic check,True,No
+T10211,Female,False,24,One year,DSL,49.25,1196.5,2,Card,False,No
+T10212,Male,False,16,Month-to-month,Fiber,72.36,1167.9,1,Bank transfer,True,Yes
+T10213,Male,True,21,Month-to-month,None,25.32,,2,Card,True,Yes
+T10214,Female,False,34,Month-to-month,None,18.0,605.51,0,Electronic check,True,No
+T10215,Female,False,12,Month-to-month,Fiber,95.21,1079.27,3,Bank transfer,False,Yes
+T10216,Female,False,32,Month-to-month,Fiber,86.1,2837.99,2,Electronic check,True,No
+T10217,Male,True,37,One year,Fiber,86.82,3018.83,2,Card,True,No
+T10218,Female,False,33,Month-to-month,None,18.09,582.17,3,Cash,True,No
+T10219,Male,False,28,One year,Fiber,90.52,2591.95,3,Card,False,Yes
+T10220,Male,False,33,Month-to-month,Fiber,80.45,2728.03,0,Electronic check,False,Yes
+T10221,Male,False,27,One year,Fiber,89.98,2431.41,2,Cash,True,No
+T10222,Male,False,53,One year,Fiber,93.8,5043.19,2,Card,False,No
+T10223,Male,False,12,One year,Fiber,73.53,881.52,1,Bank transfer,True,Yes
+T10224,Female,False,35,Month-to-month,None,33.21,1114.61,3,Electronic check,False,No
+T10225,Male,False,53,One year,DSL,55.17,3055.07,1,Bank transfer,False,No
+T10226,Male,False,10,Month-to-month,DSL,60.73,580.18,0,Electronic check,True,No
+T10227,Male,False,4,Month-to-month,None,19.65,74.17,1,Card,False,No
+T10228,Male,False,34,Month-to-month,DSL,64.43,2358.74,1,Bank transfer,False,No
+T10229,Male,False,17,Month-to-month,None,37.92,604.53,1,Card,False,No
+T10230,Male,False,14,Month-to-month,None,21.59,307.73,2,Card,False,No
+T10231,Female,False,33,Month-to-month,DSL,58.82,1904.84,1,Bank transfer,False,No
+T10232,Male,False,30,Month-to-month,DSL,68.1,2091.21,1,Electronic check,True,Yes
+T10233,Female,False,25,Two year,Fiber,81.57,1929.31,2,Electronic check,True,No
+T10234,Male,True,11,Month-to-month,DSL,58.47,654.61,1,Bank transfer,True,No
+T10235,Male,True,26,One year,DSL,64.41,1658.88,1,Card,True,Yes
+T10236,Female,False,16,Month-to-month,DSL,67.73,1016.74,2,Electronic check,True,Yes
+T10237,Female,False,33,One year,Fiber,97.37,3240.33,1,Cash,False,No
+T10238,Female,False,59,Two year,Fiber,85.21,5208.32,2,Cash,False,No
+T10239,Female,False,7,Month-to-month,Fiber,81.82,563.77,3,Electronic check,True,Yes
+T10240,Male,False,60,Two year,Fiber,99.84,6129.06,1,Electronic check,True,No
+T10241,Male,False,10,Month-to-month,Fiber,104.82,1061.78,4,Electronic check,False,Yes
+T10242,Female,False,30,Two year,DSL,58.1,1819.95,1,Cash,True,No
+T10243,Female,False,9,One year,None,31.61,273.68,2,Card,True,No
+T10244,Male,False,35,Two year,DSL,67.35,2362.45,1,Card,True,No
+T10245,Female,True,30,Month-to-month,Fiber,87.16,2672.14,1,Electronic check,False,Yes
+T10246,Female,True,62,One year,Fiber,84.21,5336.47,2,Cash,True,No
+T10247,Male,False,6,Two year,Fiber,90.96,538.0,2,Cash,False,No
+T10248,Female,False,37,Month-to-month,Fiber,78.2,3049.33,1,Electronic check,True,No
+T10249,Male,False,3,Month-to-month,Fiber,78.52,234.49,2,Electronic check,False,Yes
+T10250,Male,False,8,Two year,Fiber,94.14,739.44,1,Electronic check,True,No
+T10251,Female,False,6,Month-to-month,DSL,48.96,293.68,1,Cash,False,Yes
+T10252,Male,True,8,Month-to-month,DSL,73.2,572.65,4,Electronic check,True,No
+T10253,Male,False,28,Month-to-month,DSL,70.49,2144.05,3,Electronic check,False,No
+T10254,Male,False,9,One year,None,33.93,293.69,1,Card,False,No
+T10255,Male,False,38,Month-to-month,None,39.84,1537.99,3,Bank transfer,True,Yes
+T10256,Male,True,1,Month-to-month,DSL,58.68,59.07,3,Cash,True,Yes
+T10257,Female,False,13,One year,DSL,63.78,819.68,2,Electronic check,False,No
+T10258,Male,True,30,Month-to-month,None,36.17,1147.53,1,Cash,True,No
+T10259,Female,False,27,Month-to-month,DSL,57.17,1551.15,1,Card,False,No
+T10260,Female,False,24,One year,None,29.75,719.0,0,Card,True,No
+T10261,Male,False,35,Month-to-month,DSL,68.59,2429.03,3,Electronic check,False,No
+T10262,Female,False,19,One year,DSL,61.44,1145.42,1,Card,False,No
+T10263,Female,True,33,Two year,Fiber,90.27,3040.32,1,Cash,True,Yes
+T10264,Female,False,63,One year,Fiber,71.18,4317.3,1,Cash,False,No
+T10265,Female,False,45,One year,DSL,70.79,3023.8,0,Card,False,No
+T10266,Male,True,21,One year,Fiber,89.87,1873.37,1,Cash,False,No
+T10267,Male,False,29,Month-to-month,DSL,51.67,1449.06,2,Cash,True,No
+T10268,Male,False,26,Month-to-month,None,42.36,1125.5,0,Card,False,No
+T10269,Male,False,30,Month-to-month,Fiber,85.32,2618.38,4,Card,False,No
+T10270,Female,False,39,Two year,Fiber,82.92,3002.41,0,Bank transfer,False,No
+T10271,Female,False,59,One year,None,40.04,2442.26,0,Card,False,No
+T10272,Male,False,29,Two year,DSL,52.31,1581.8,1,Card,False,No
+T10273,Male,False,22,Month-to-month,Fiber,71.54,1472.2,2,Bank transfer,True,No
+T10274,Female,False,60,Two year,Fiber,94.48,6021.06,1,Card,True,No
+T10275,Male,False,37,Month-to-month,None,37.34,1321.72,3,Card,True,No
+T10276,Male,True,20,Two year,Fiber,94.72,1957.95,2,Bank transfer,False,Yes
+T10277,Female,False,30,Two year,DSL,57.73,1766.23,1,Cash,False,No
+T10278,Male,False,38,Month-to-month,DSL,64.38,2333.89,1,Electronic check,True,Yes
+T10279,Male,False,30,Month-to-month,DSL,79.21,2392.93,0,Electronic check,True,Yes
+T10280,Male,False,13,Month-to-month,DSL,67.02,852.23,0,Card,True,No
+T10281,Female,False,3,Month-to-month,Fiber,85.35,261.82,2,Electronic check,True,Yes
+T10282,Male,False,34,Month-to-month,DSL,53.96,1876.95,3,Electronic check,True,No
+T10283,Female,False,5,Month-to-month,None,28.08,149.33,0,Card,False,No
+T10284,Female,False,18,Month-to-month,Fiber,84.67,1513.77,1,Electronic check,False,No
+T10285,Female,False,69,One year,DSL,50.03,3396.43,1,Cash,True,No
+T10286,Female,False,11,Two year,DSL,71.42,810.54,2,Bank transfer,False,No
+T10287,Male,True,32,Month-to-month,None,29.61,930.46,1,Bank transfer,True,Yes
+T10288,Male,False,21,Two year,DSL,55.18,1133.36,2,Electronic check,True,Yes
+T10289,Male,False,10,Month-to-month,DSL,64.97,640.24,0,Card,False,No
+T10290,Male,False,70,Two year,DSL,65.5,4373.75,1,Bank transfer,True,No
+T10291,Female,False,15,Month-to-month,DSL,53.4,803.15,1,Electronic check,True,Yes
+T10292,Female,False,64,One year,DSL,56.23,3481.11,1,Bank transfer,False,No
+T10293,Female,False,33,One year,DSL,59.42,1946.07,2,Cash,True,Yes
+T10294,Female,False,50,One year,DSL,61.17,3260.33,0,Electronic check,True,Yes
+T10295,Female,False,39,One year,Fiber,64.43,2444.7,1,Electronic check,True,No
+T10296,Male,False,6,Month-to-month,DSL,63.13,375.68,1,Bank transfer,True,Yes
+T10297,Male,True,11,Two year,None,29.23,338.23,0,Card,True,No
+T10298,Female,False,24,Month-to-month,None,33.16,805.92,0,Card,True,No
+T10299,Female,False,10,Month-to-month,DSL,52.99,560.18,1,Bank transfer,True,Yes
+T10300,Male,False,37,One year,DSL,61.5,2312.72,2,Electronic check,True,Yes
+T10301,Male,False,12,One year,Fiber,69.29,802.05,3,Bank transfer,False,No
+T10302,Male,True,69,Two year,None,27.81,1911.91,0,Card,False,No
+T10303,Female,False,31,Two year,Fiber,82.61,2540.83,1,Cash,True,No
+T10304,Male,False,6,Month-to-month,Fiber,75.09,442.23,0,Bank transfer,False,No
+T10305,Male,False,25,Month-to-month,DSL,63.1,1601.36,2,Electronic check,True,Yes
+T10306,Male,False,41,Two year,DSL,39.43,1639.66,0,Electronic check,True,No
+T10307,Male,False,3,Month-to-month,DSL,67.46,198.11,0,Card,True,No
+T10308,Female,False,3,Month-to-month,Fiber,93.03,282.38,1,Card,True,Yes
+T10309,Female,False,49,Two year,None,20.57,990.47,1,Electronic check,True,No
+T10310,Male,False,10,Month-to-month,Fiber,81.97,839.78,0,Electronic check,False,Yes
+T10311,Female,False,9,Month-to-month,None,25.9,229.51,1,Cash,False,No
+T10312,Female,False,26,Month-to-month,Fiber,87.46,2388.28,3,Bank transfer,False,Yes
+T10313,Female,False,28,Month-to-month,None,26.08,712.62,2,Electronic check,True,Yes
+T10314,Female,False,56,Two year,DSL,60.33,3240.52,2,Card,True,No
+T10315,Male,False,34,One year,None,37.26,1280.36,1,Electronic check,False,No
+T10316,Male,False,11,One year,None,24.58,284.0,1,Card,False,No
+T10317,Female,False,68,One year,Fiber,99.51,6667.02,1,Bank transfer,False,Yes
+T10318,Female,False,22,Month-to-month,None,19.82,430.38,1,Electronic check,False,Yes
+T10319,Male,True,49,One year,Fiber,96.25,4635.42,0,Electronic check,False,No
+T10320,Male,False,7,Month-to-month,DSL,63.35,451.37,1,Electronic check,True,No
+T10321,Female,False,10,One year,Fiber,88.76,860.38,1,Bank transfer,True,No
+T10322,Male,False,10,Month-to-month,Fiber,90.76,900.46,2,Electronic check,True,Yes
+T10323,Female,False,28,One year,Fiber,78.09,2288.14,1,Card,True,No
+T10324,Female,False,21,Month-to-month,DSL,60.92,1249.2,1,Electronic check,True,No
+T10325,Male,False,30,One year,DSL,64.06,1879.95,1,Electronic check,True,No
+T10326,Female,True,29,Month-to-month,None,31.54,911.77,3,Card,False,No
+T10327,Female,True,28,Month-to-month,None,25.0,682.2,1,Bank transfer,False,No
+T10328,Male,True,39,Month-to-month,DSL,73.08,,1,Electronic check,True,No
+T10329,Male,False,14,Month-to-month,DSL,59.74,888.72,1,Card,True,No
+T10330,Male,False,64,Two year,DSL,61.0,3911.12,1,Card,True,No
+T10331,Male,False,29,Month-to-month,Fiber,75.99,2287.72,0,Card,True,No
+T10332,Female,False,20,Month-to-month,Fiber,79.33,1604.71,1,Card,True,Yes
+T10333,Male,False,38,One year,DSL,67.79,2489.74,3,Bank transfer,False,Yes
+T10334,Male,False,1,Month-to-month,DSL,63.32,64.92,1,Card,True,Yes
+T10335,Male,False,25,Month-to-month,Fiber,82.23,2057.54,1,Cash,True,Yes
+T10336,Male,False,27,Two year,None,26.63,751.43,0,Card,True,No
+T10337,Male,False,70,Two year,None,29.08,2059.78,1,Electronic check,True,No
+T10338,Female,True,45,One year,None,18.23,837.68,0,Card,True,No
+T10339,Female,False,24,Month-to-month,Fiber,73.95,1813.62,2,Electronic check,True,Yes
+T10340,Female,False,41,Two year,DSL,43.03,1740.32,1,Card,True,No
+T10341,Female,False,70,Two year,None,36.09,2471.97,0,Card,False,No
+T10342,Female,False,23,One year,DSL,48.33,1057.86,0,Bank transfer,True,No
+T10343,Male,False,7,Month-to-month,Fiber,82.27,575.45,2,Electronic check,False,No
+T10344,Female,True,36,Month-to-month,DSL,69.44,2535.24,0,Card,False,No
+T10345,Female,False,32,Month-to-month,DSL,65.54,2137.48,2,Cash,False,Yes
+T10346,Male,False,57,One year,Fiber,93.1,5301.54,1,Card,True,No
+T10347,Female,False,30,Month-to-month,Fiber,68.2,2018.78,0,Electronic check,True,No
+T10348,Male,False,13,One year,None,18.0,227.09,2,Card,True,No
+T10349,Male,False,25,Month-to-month,Fiber,90.76,2244.46,0,Electronic check,True,Yes
+T10350,Male,False,26,One year,Fiber,72.11,1849.94,1,Card,True,No
+T10351,Male,False,39,Two year,DSL,46.41,1736.42,2,Cash,False,No
+T10352,Female,True,9,Month-to-month,None,37.22,341.8,3,Cash,True,No
+T10353,Female,False,32,Month-to-month,None,37.12,1142.14,1,Card,True,No
+T10354,Male,False,63,Two year,DSL,62.77,3983.83,2,Card,False,No
+T10355,Female,True,52,One year,Fiber,97.56,4934.69,5,Bank transfer,True,No
+T10356,Female,True,9,Two year,Fiber,85.09,765.69,1,Cash,True,No
+T10357,Female,True,12,Month-to-month,Fiber,81.78,936.73,3,Bank transfer,False,Yes
+T10358,Female,False,7,Month-to-month,None,24.41,171.83,0,Cash,True,No
+T10359,Male,False,26,Month-to-month,Fiber,85.64,2260.32,1,Bank transfer,False,Yes
+T10360,Female,False,14,Month-to-month,Fiber,78.09,1158.09,2,Bank transfer,False,Yes
+T10361,Female,True,13,Month-to-month,None,25.73,335.87,3,Bank transfer,False,Yes
+T10362,Male,False,58,Two year,Fiber,80.86,4730.91,0,Cash,True,No
+T10363,Female,False,34,One year,DSL,87.07,2922.06,2,Electronic check,True,Yes
+T10364,Female,True,3,Month-to-month,DSL,56.98,167.53,3,Bank transfer,False,No
+T10365,Female,True,6,Month-to-month,Fiber,81.5,479.59,1,Card,True,No
+T10366,Male,False,38,Month-to-month,DSL,74.45,2802.33,5,Card,True,No
+T10367,Female,False,55,One year,Fiber,92.4,5027.79,1,Electronic check,True,No
+T10368,Male,False,18,One year,DSL,56.54,992.6,0,Bank transfer,False,No
+T10369,Male,False,26,Month-to-month,None,38.84,1037.23,1,Bank transfer,True,Yes
+T10370,Female,False,28,Month-to-month,Fiber,68.9,2056.89,2,Card,True,No
+T10371,Male,False,29,One year,None,32.16,926.45,1,Card,False,No
+T10372,Female,False,35,Two year,Fiber,94.78,3492.35,1,Cash,False,No
+T10373,Male,False,61,One year,DSL,77.15,4665.59,1,Card,True,No
+T10374,Female,True,1,Month-to-month,DSL,63.86,65.41,0,Bank transfer,True,No
+T10375,Female,False,36,Month-to-month,Fiber,77.98,2869.57,2,Card,True,No
+T10376,Male,False,16,Two year,Fiber,82.11,1266.24,2,Electronic check,True,No
+T10377,Female,False,11,Month-to-month,DSL,55.86,644.36,3,Electronic check,False,Yes
+T10378,Female,True,37,Month-to-month,DSL,71.89,2697.1,2,Card,True,No
+T10379,Male,True,71,Two year,DSL,71.95,5294.86,1,Bank transfer,False,No
+T10380,Male,False,26,One year,Fiber,68.1,1846.36,0,Bank transfer,True,No
+T10381,Male,True,5,Month-to-month,Fiber,81.29,417.09,0,Bank transfer,True,Yes
+T10382,Female,False,64,Two year,DSL,60.03,3764.61,1,Electronic check,True,No
+T10383,Female,False,23,Month-to-month,None,30.87,726.29,0,Electronic check,False,No
+T10384,Female,False,22,Month-to-month,Fiber,90.41,2021.57,2,Cash,True,No
+T10385,Male,False,27,One year,DSL,71.46,1888.29,2,Electronic check,True,No
+T10386,Female,False,17,Month-to-month,Fiber,79.26,1404.37,1,Bank transfer,True,Yes
+T10387,Male,False,30,Two year,DSL,50.37,1564.19,1,Card,False,No
+T10388,Female,False,22,Month-to-month,None,32.32,720.08,2,Electronic check,False,No
+T10389,Female,True,25,Month-to-month,Fiber,71.98,1878.85,4,Electronic check,False,No
+T10390,Male,False,46,One year,Fiber,92.65,4282.98,0,Bank transfer,True,No
+T10391,Female,False,53,One year,Fiber,90.59,5024.64,0,Card,False,No
+T10392,Female,True,32,Month-to-month,DSL,71.32,2384.65,0,Card,True,No
+T10393,Female,False,35,One year,DSL,61.66,2157.26,0,Electronic check,False,No
+T10394,Female,False,16,Month-to-month,DSL,55.51,932.44,1,Cash,True,No
+T10395,Female,False,32,Month-to-month,Fiber,101.66,3145.72,0,Card,True,No
+T10396,Female,True,20,Month-to-month,DSL,71.75,1439.85,1,Cash,False,Yes
+T10397,Male,False,38,Two year,Fiber,93.16,3451.19,3,Bank transfer,True,No
+T10398,Male,False,11,Month-to-month,Fiber,83.18,893.89,2,Cash,True,Yes
+T10399,Female,False,59,Two year,DSL,51.43,2991.34,1,Bank transfer,False,No
+T10400,Female,False,27,Month-to-month,None,34.26,941.16,1,Cash,False,No
+T10401,Female,False,23,One year,DSL,50.62,1213.84,0,Card,True,No
+T10402,Female,True,16,Month-to-month,None,23.66,388.59,0,Card,False,Yes
+T10403,Female,False,8,Month-to-month,None,41.17,315.62,2,Cash,False,No
+T10404,Female,False,16,Month-to-month,None,29.17,454.99,0,Bank transfer,True,No
+T10405,Male,False,40,One year,None,40.26,1657.36,1,Bank transfer,False,No
+T10406,Male,False,38,Two year,Fiber,93.03,3665.69,3,Card,True,No
+T10407,Female,True,31,Month-to-month,Fiber,84.98,2660.94,0,Card,True,Yes
+T10408,Male,False,4,Month-to-month,Fiber,75.12,308.28,3,Bank transfer,True,No
+T10409,Female,False,23,Month-to-month,DSL,65.56,1495.96,2,Cash,False,Yes
+T10410,Male,False,37,Month-to-month,DSL,69.8,2676.17,2,Cash,True,Yes
+T10411,Female,False,37,Two year,Fiber,70.98,2553.31,2,Electronic check,False,No
+T10412,Male,False,50,Two year,DSL,68.78,3420.18,0,Electronic check,True,No
+T10413,Female,False,12,Month-to-month,Fiber,74.82,868.5,2,Bank transfer,False,No
+T10414,Male,False,38,One year,DSL,78.31,3110.7,1,Card,False,No
+T10415,Female,False,63,Two year,DSL,51.34,3363.57,6,Cash,True,No
+T10416,Male,False,60,One year,Fiber,99.11,5962.22,2,Bank transfer,True,Yes
+T10417,Male,True,32,Month-to-month,Fiber,82.55,2806.02,3,Electronic check,True,Yes
+T10418,Female,False,46,Two year,Fiber,59.83,2686.3,2,Card,True,No
+T10419,Female,False,15,Month-to-month,Fiber,81.91,1251.97,1,Electronic check,True,No
+T10420,Female,False,25,Month-to-month,Fiber,83.56,2104.68,0,Electronic check,True,Yes
+T10421,Female,False,66,Two year,None,19.24,1215.59,2,Card,False,No
+T10422,Male,False,39,One year,DSL,60.25,2475.71,0,Electronic check,True,No
+T10423,Male,False,16,Month-to-month,DSL,67.14,1048.94,1,Bank transfer,True,Yes
+T10424,Female,False,34,Month-to-month,DSL,60.07,2006.11,1,Bank transfer,True,No
+T10425,Male,False,53,One year,Fiber,88.2,4908.29,3,Bank transfer,False,No
+T10426,Female,False,15,Two year,None,28.11,428.78,3,Card,False,Yes
+T10427,Female,False,7,Month-to-month,Fiber,69.07,484.87,1,Electronic check,True,Yes
+T10428,Male,False,31,One year,None,36.83,1132.38,0,Card,False,No
+T10429,Female,False,35,Month-to-month,DSL,62.56,2101.89,0,Bank transfer,True,No
+T10430,Male,True,32,Month-to-month,DSL,61.43,1948.28,1,Card,False,Yes
+T10431,Male,False,9,Month-to-month,DSL,68.25,650.94,0,Card,True,No
+T10432,Female,True,38,One year,DSL,74.65,2867.68,2,Card,False,No
+T10433,Female,False,13,Month-to-month,Fiber,87.04,1180.29,0,Bank transfer,False,Yes
+T10434,Male,True,36,Month-to-month,Fiber,76.83,2877.22,1,Cash,False,Yes
+T10435,Female,False,14,Month-to-month,Fiber,76.94,1046.47,1,Bank transfer,True,Yes
+T10436,Female,False,13,One year,DSL,59.51,782.25,0,Card,True,No
+T10437,Female,True,22,Month-to-month,None,38.72,835.27,0,Electronic check,False,No
+T10438,Male,False,31,Month-to-month,DSL,57.26,1736.09,1,Card,True,Yes
+T10439,Male,False,27,One year,DSL,56.96,1565.99,2,Electronic check,True,No
+T10440,Male,True,22,Month-to-month,Fiber,84.93,1963.43,2,Card,False,Yes
+T10441,Male,False,39,One year,Fiber,72.05,2688.72,0,Cash,True,No
+T10442,Male,False,27,Month-to-month,None,27.96,714.81,2,Electronic check,False,No
+T10443,Male,False,24,Month-to-month,None,34.14,869.55,1,Cash,False,No
+T10444,Male,False,49,Two year,None,35.11,1760.4,1,Bank transfer,True,No
+T10445,Male,False,20,One year,None,37.73,799.86,0,Electronic check,True,No
+T10446,Male,False,19,Month-to-month,DSL,71.2,1445.71,1,Card,False,No
+T10447,Female,False,24,One year,DSL,60.62,1381.09,2,Electronic check,False,Yes
+T10448,Male,False,29,Two year,Fiber,85.6,2463.02,1,Cash,True,Yes
+T10449,Female,False,11,Month-to-month,None,19.4,222.41,2,Cash,False,Yes
+T10450,Male,False,47,Two year,Fiber,92.18,4447.48,0,Bank transfer,False,No
+T10451,Female,False,17,Month-to-month,Fiber,80.74,1399.85,5,Electronic check,True,Yes
+T10452,Female,False,19,Two year,DSL,43.89,853.94,2,Electronic check,False,No
+T10453,Female,False,38,Month-to-month,Fiber,83.03,3188.31,0,Bank transfer,False,No
+T10454,Male,False,31,Two year,Fiber,65.87,1970.65,1,Cash,True,No
+T10455,Female,False,71,One year,DSL,44.9,3213.0,1,Bank transfer,True,No
+T10456,Male,False,21,Month-to-month,DSL,52.21,1089.82,0,Electronic check,True,No
+T10457,Male,False,23,Month-to-month,Fiber,68.82,1652.71,1,Electronic check,False,Yes
+T10458,Male,True,38,Month-to-month,Fiber,86.61,3349.71,2,Card,True,No
+T10459,Male,False,54,Two year,None,23.83,1334.6,0,Card,True,No
+T10460,Female,False,70,Two year,DSL,65.28,4600.54,1,Electronic check,False,No
+T10461,Female,True,48,One year,None,27.56,1314.5,0,Cash,True,No
+T10462,Male,False,30,Month-to-month,None,23.04,692.37,2,Card,True,No
+T10463,Male,False,26,Month-to-month,Fiber,67.4,1685.26,2,Cash,True,Yes
+T10464,Male,False,33,Two year,Fiber,92.94,3103.82,0,Bank transfer,False,No
+T10465,Female,False,10,Month-to-month,None,26.22,264.11,1,Card,False,No
+T10466,Male,False,22,Month-to-month,Fiber,73.47,1646.07,4,Electronic check,True,Yes
+T10467,Male,False,54,Two year,Fiber,91.93,4938.48,1,Electronic check,False,Yes
+T10468,Male,False,28,One year,Fiber,83.76,2197.26,1,Bank transfer,False,No
+T10469,Male,False,41,One year,None,31.43,1252.7,4,Electronic check,False,No
+T10470,Male,True,11,Month-to-month,None,36.33,414.96,1,Electronic check,True,Yes
+T10471,Male,False,36,Month-to-month,None,30.6,1121.46,0,Card,False,No
+T10472,Female,False,11,One year,None,24.88,259.74,0,Electronic check,False,No
+T10473,Female,False,63,Two year,Fiber,80.02,4915.39,0,Bank transfer,True,No
+T10474,Female,False,10,Month-to-month,None,21.29,203.54,2,Electronic check,True,Yes
+T10475,Male,False,11,Two year,DSL,55.69,618.55,1,Bank transfer,False,No
+T10476,Male,False,9,Month-to-month,DSL,54.47,468.76,3,Card,True,No
+T10477,Female,True,32,Two year,Fiber,93.93,2753.1,1,Electronic check,True,No
+T10478,Male,True,18,Two year,None,36.6,634.48,2,Cash,True,No
+T10479,Male,False,69,Two year,None,31.6,2243.12,2,Card,False,No
+T10480,Female,False,18,Month-to-month,None,20.58,345.46,2,Cash,True,Yes
+T10481,Male,False,24,Month-to-month,Fiber,58.48,1386.08,1,Electronic check,True,No
+T10482,Female,True,9,Month-to-month,DSL,65.11,597.22,1,Cash,True,No
+T10483,Male,False,36,One year,None,29.52,1087.93,3,Electronic check,False,Yes
+T10484,Female,False,36,Month-to-month,DSL,57.96,2027.24,2,Card,True,No
+T10485,Female,False,10,One year,DSL,45.85,462.65,2,Bank transfer,True,No
+T10486,Female,False,28,Month-to-month,None,31.13,866.87,2,Cash,True,No
+T10487,Male,False,51,One year,Fiber,76.09,3802.61,2,Bank transfer,False,No
+T10488,Female,False,54,One year,Fiber,92.77,4663.0,3,Card,True,No
+T10489,Female,False,66,One year,DSL,67.98,4521.31,1,Electronic check,True,No
+T10490,Female,False,30,Month-to-month,Fiber,98.26,2924.39,2,Card,True,No
+T10491,Male,True,18,One year,Fiber,74.39,1294.31,1,Bank transfer,True,No
+T10492,Female,False,31,Month-to-month,Fiber,89.7,2870.79,0,Electronic check,False,Yes
+T10493,Female,False,4,Month-to-month,Fiber,84.04,331.15,0,Card,False,No
+T10494,Male,False,37,Month-to-month,None,21.53,832.14,4,Electronic check,False,Yes
+T10495,Male,True,4,Month-to-month,DSL,74.08,305.45,1,Card,True,Yes
+T10496,Female,False,69,Two year,Fiber,98.01,6785.61,0,Bank transfer,False,No
+T10497,Male,False,63,Two year,Fiber,68.41,4341.8,0,Bank transfer,True,No
+T10498,Female,False,30,Month-to-month,None,25.18,751.67,1,Electronic check,True,No
+T10499,Female,False,46,One year,Fiber,86.76,3853.2,2,Electronic check,True,No
+T10500,Male,False,1,Month-to-month,Fiber,87.82,84.89,2,Card,True,Yes
+T10501,Male,False,6,Month-to-month,Fiber,80.01,461.25,1,Card,True,Yes
+T10502,Female,False,17,Month-to-month,Fiber,92.6,1616.07,1,Card,False,No
+T10503,Male,False,11,Month-to-month,DSL,55.5,576.16,3,Card,True,No
+T10504,Female,False,29,Month-to-month,Fiber,100.94,3118.19,2,Card,True,Yes
+T10505,Female,False,24,Month-to-month,DSL,60.77,1431.75,2,Bank transfer,True,No
+T10506,Male,False,7,Month-to-month,Fiber,84.92,600.48,1,Electronic check,True,Yes
+T10507,Male,False,25,Month-to-month,DSL,77.7,1890.82,0,Bank transfer,True,No
+T10508,Female,False,39,Two year,Fiber,95.85,3761.38,3,Card,True,No
+T10509,Male,False,9,Month-to-month,Fiber,99.5,882.75,2,Electronic check,True,No
+T10510,Male,False,33,Month-to-month,DSL,70.92,2293.74,2,Cash,True,No
+T10511,Male,True,37,Two year,Fiber,78.45,3098.21,0,Cash,False,No
+T10512,Male,False,7,Month-to-month,DSL,69.95,506.45,3,Bank transfer,True,Yes
+T10513,Male,False,25,Two year,Fiber,80.18,2021.29,1,Card,True,Yes
+T10514,Female,True,14,Month-to-month,Fiber,73.53,1059.75,0,Card,True,No
+T10515,Male,False,51,One year,None,32.07,1632.91,2,Electronic check,True,No
+T10516,Female,False,3,Month-to-month,Fiber,76.33,235.75,0,Cash,True,No
+T10517,Female,True,30,Two year,Fiber,87.81,2702.41,2,Card,True,No
+T10518,Male,False,49,One year,Fiber,82.85,4044.97,1,Cash,True,No
+T10519,Female,False,19,Month-to-month,DSL,68.5,1380.43,1,Electronic check,False,No
+T10520,Male,False,29,Month-to-month,DSL,64.45,1835.87,2,Electronic check,True,Yes
+T10521,Female,True,35,Month-to-month,Fiber,93.24,3273.54,1,Card,False,Yes
+T10522,Female,True,12,Month-to-month,Fiber,91.99,1114.7,0,Electronic check,False,Yes
+T10523,Male,False,32,One year,None,25.37,808.56,3,Electronic check,True,No
+T10524,Male,False,61,One year,DSL,81.05,4934.58,1,Cash,True,No
+T10525,Male,False,18,Month-to-month,None,24.43,464.7,0,Cash,False,No
+T10526,Male,False,40,One year,Fiber,81.99,3286.13,2,Bank transfer,True,No
+T10527,Male,False,32,Month-to-month,Fiber,94.26,2886.34,0,Cash,False,Yes
+T10528,Male,False,30,Month-to-month,None,34.55,1030.47,1,Cash,True,Yes
+T10529,Male,False,11,Month-to-month,DSL,64.61,696.83,2,Electronic check,True,No
+T10530,Female,False,17,Month-to-month,Fiber,78.64,1315.51,1,Card,True,Yes
+T10531,Male,False,10,Month-to-month,Fiber,86.55,799.23,3,Bank transfer,True,Yes
+T10532,Female,False,69,Two year,DSL,52.13,3546.81,0,Card,True,No
+T10533,Female,False,37,Month-to-month,None,33.35,1236.82,4,Card,True,Yes
+T10534,Male,False,33,Month-to-month,Fiber,81.38,2641.74,1,Bank transfer,True,No
+T10535,Male,False,11,Month-to-month,DSL,32.1,355.2,2,Bank transfer,False,No
+T10536,Female,False,31,One year,Fiber,70.54,2162.85,0,Bank transfer,True,No
+T10537,Male,True,35,Two year,Fiber,83.71,2878.93,0,Cash,False,No
+T10538,Male,False,47,Two year,DSL,59.27,2813.23,3,Card,False,No
+T10539,Female,True,25,Month-to-month,DSL,57.05,1405.65,2,Cash,False,No
+T10540,Female,False,24,Two year,DSL,72.27,1765.65,2,Bank transfer,False,No
+T10541,Female,False,8,One year,DSL,69.97,582.99,0,Electronic check,True,No
+T10542,Female,False,7,Month-to-month,Fiber,88.79,611.69,2,Bank transfer,True,Yes
+T10543,Female,False,38,One year,Fiber,97.32,3774.66,0,Electronic check,True,No
+T10544,Female,False,34,Month-to-month,DSL,51.0,1836.51,1,Bank transfer,True,No
+T10545,Male,False,67,Two year,None,18.0,1198.31,2,Electronic check,True,No
+T10546,Female,False,4,Month-to-month,DSL,49.47,197.71,3,Bank transfer,False,No
+T10547,Male,False,14,Two year,Fiber,73.39,1056.65,1,Electronic check,False,No
+T10548,Female,True,12,Two year,None,18.0,224.64,1,Bank transfer,False,No
+T10549,Male,False,41,Two year,DSL,56.92,2403.37,1,Electronic check,False,No
+T10550,Female,False,3,Month-to-month,Fiber,89.3,276.17,0,Cash,False,Yes
+T10551,Male,False,38,Month-to-month,DSL,56.47,2293.37,0,Bank transfer,True,No
+T10552,Female,False,12,Two year,None,23.4,276.06,1,Card,True,No
+T10553,Female,False,30,One year,DSL,67.77,2120.97,2,Electronic check,True,No
+T10554,Female,False,18,Month-to-month,DSL,67.14,1208.18,2,Electronic check,True,Yes
+T10555,Male,False,18,One year,Fiber,86.26,1475.28,0,Electronic check,True,No
+T10556,Male,False,21,Month-to-month,None,37.3,776.63,1,Bank transfer,False,No
+T10557,Male,True,4,Month-to-month,DSL,65.85,259.34,3,Card,False,No
+T10558,Male,False,37,Two year,Fiber,80.67,3010.32,0,Electronic check,True,No
+T10559,Male,False,51,One year,None,18.0,938.1,4,Electronic check,True,No
+T10560,Male,False,32,Month-to-month,None,18.0,553.48,4,Electronic check,True,Yes
+T10561,Female,False,3,Month-to-month,DSL,61.09,183.28,3,Bank transfer,True,Yes
+T10562,Male,False,42,Two year,None,44.21,1821.73,1,Bank transfer,True,No
+T10563,Male,False,18,Month-to-month,Fiber,79.2,1456.31,1,Electronic check,True,No
+T10564,Female,False,29,Month-to-month,DSL,59.84,1691.93,0,Electronic check,True,No
+T10565,Female,False,21,Month-to-month,Fiber,77.93,1599.66,0,Card,False,Yes
+T10566,Female,False,10,Month-to-month,None,33.04,345.44,1,Electronic check,True,Yes
+T10567,Female,True,21,Month-to-month,None,31.93,666.3,3,Bank transfer,True,Yes
+T10568,Female,False,1,Month-to-month,DSL,70.62,71.49,2,Card,True,No
+T10569,Male,False,8,Two year,None,19.61,154.69,2,Electronic check,True,No
+T10570,Male,True,15,Month-to-month,DSL,40.92,608.66,0,Card,False,No
+T10571,Male,True,63,Two year,None,24.7,1600.12,2,Card,False,No
+T10572,Female,True,61,One year,DSL,79.59,4898.36,2,Electronic check,True,No
+T10573,Female,True,24,Month-to-month,DSL,50.96,1181.45,0,Electronic check,True,No
+T10574,Male,False,20,Month-to-month,Fiber,76.57,1466.96,0,Card,True,No
+T10575,Female,False,19,Two year,Fiber,80.37,1589.43,2,Card,False,No
+T10576,Male,False,7,Month-to-month,DSL,55.3,378.59,1,Cash,False,No
+T10577,Female,True,14,Month-to-month,DSL,67.2,907.62,2,Electronic check,False,Yes
+T10578,Female,False,19,Month-to-month,DSL,55.62,1131.23,0,Bank transfer,True,No
+T10579,Female,False,56,Two year,Fiber,86.73,4899.51,0,Electronic check,False,No
+T10580,Female,False,19,Month-to-month,DSL,53.87,1009.23,2,Electronic check,True,No
+T10581,Male,False,38,Month-to-month,DSL,45.89,1751.99,0,Card,False,No
+T10582,Male,False,17,One year,Fiber,88.5,1530.33,3,Card,True,Yes
+T10583,Female,False,28,Month-to-month,DSL,46.28,1213.13,2,Electronic check,False,No
+T10584,Male,False,24,Two year,Fiber,83.41,1995.27,1,Electronic check,False,Yes
+T10585,Female,True,25,One year,DSL,54.18,1439.14,3,Card,False,No
+T10586,Female,False,38,Two year,None,49.03,1864.12,2,Electronic check,True,No
+T10587,Male,False,3,Month-to-month,Fiber,81.0,,3,Cash,True,Yes
+T10588,Female,True,24,Month-to-month,Fiber,97.44,,1,Card,True,Yes
+T10589,Female,False,26,Month-to-month,DSL,51.78,1281.92,1,Card,True,No
+T10590,Male,False,10,Month-to-month,Fiber,93.03,963.8,0,Card,True,No
+T10591,Female,False,57,Two year,DSL,54.23,3067.8,0,Bank transfer,True,No
+T10592,Female,False,36,Month-to-month,None,18.0,625.49,2,Card,True,No
+T10593,Female,False,35,One year,Fiber,90.08,3184.02,0,Card,True,No
+T10594,Female,False,8,Month-to-month,DSL,38.96,303.01,0,Electronic check,False,Yes
+T10595,Male,False,11,Month-to-month,Fiber,100.15,1129.51,4,Electronic check,True,Yes
+T10596,Female,False,7,One year,Fiber,98.93,719.14,0,Bank transfer,False,No
+T10597,Male,False,6,Month-to-month,Fiber,75.64,464.08,1,Electronic check,True,Yes
+T10598,Female,False,10,Month-to-month,Fiber,92.64,934.19,1,Cash,True,Yes
+T10599,Female,False,6,Two year,None,30.98,183.92,1,Card,True,No
+T10600,Male,False,40,Two year,Fiber,91.29,3804.08,3,Cash,True,No
+T10601,Male,False,23,One year,Fiber,74.6,1639.1,3,Card,False,No
+T10602,Male,False,12,Month-to-month,Fiber,83.24,984.14,3,Card,True,Yes
+T10603,Male,True,43,One year,Fiber,103.56,4331.51,1,Bank transfer,True,No
+T10604,Female,False,47,Two year,Fiber,95.88,4480.0,0,Bank transfer,False,No
+T10605,Male,False,57,One year,None,35.62,2059.09,1,Bank transfer,True,No
+T10606,Male,False,49,One year,DSL,61.6,3004.42,0,Bank transfer,True,No
+T10607,Male,False,27,Month-to-month,Fiber,94.92,2441.0,1,Card,True,No
+T10608,Female,False,14,Month-to-month,None,31.38,425.18,0,Card,False,No
+T10609,Male,False,55,Two year,None,46.74,2565.14,2,Bank transfer,True,No
+T10610,Female,False,48,Two year,DSL,65.05,3019.76,3,Cash,False,Yes
+T10611,Male,False,31,Month-to-month,None,24.51,760.85,2,Electronic check,False,Yes
+T10612,Male,False,39,Month-to-month,None,18.0,719.02,0,Electronic check,True,No
+T10613,Female,False,16,Month-to-month,DSL,62.44,1013.41,1,Electronic check,True,Yes
+T10614,Male,False,60,One year,None,18.0,1079.06,1,Card,True,No
+T10615,Male,False,12,One year,Fiber,83.22,1001.49,2,Card,True,Yes
+T10616,Female,False,2,Month-to-month,Fiber,88.06,179.15,3,Electronic check,True,Yes
+T10617,Male,False,32,Month-to-month,Fiber,71.86,2277.18,1,Card,False,No
+T10618,Male,True,10,Month-to-month,Fiber,92.32,900.25,1,Electronic check,True,No
+T10619,Female,True,65,Two year,None,26.15,1712.21,3,Bank transfer,True,No
+T10620,Female,False,37,Two year,Fiber,80.22,2949.0,1,Electronic check,True,Yes
+T10621,Female,False,25,Month-to-month,Fiber,66.54,1626.99,1,Card,True,No
+T10622,Male,True,16,One year,Fiber,84.65,1357.2,0,Electronic check,False,No
+T10623,Male,False,54,One year,Fiber,83.62,4570.63,0,Electronic check,True,No
+T10624,Female,False,37,Two year,Fiber,84.77,3040.43,0,Electronic check,True,No
+T10625,Female,True,38,Month-to-month,DSL,57.82,2176.47,1,Electronic check,False,No
+T10626,Male,True,50,One year,None,34.32,1741.66,0,Bank transfer,True,No
+T10627,Female,False,69,Two year,Fiber,82.5,6032.5,0,Electronic check,False,Yes
+T10628,Male,False,60,One year,Fiber,97.69,5460.17,1,Cash,False,No
+T10629,Female,False,11,Month-to-month,Fiber,91.54,966.49,2,Electronic check,False,Yes
+T10630,Female,False,50,One year,None,33.67,1706.35,1,Bank transfer,True,No
+T10631,Female,False,42,Two year,Fiber,83.24,3650.48,1,Electronic check,True,No
+T10632,Male,False,25,Two year,DSL,66.25,1654.82,2,Bank transfer,False,No
+T10633,Male,False,12,Month-to-month,DSL,70.16,850.41,0,Card,True,Yes
+T10634,Male,False,29,Month-to-month,None,31.1,950.61,9,Electronic check,False,Yes
+T10635,Male,False,1,Month-to-month,Fiber,99.56,100.18,2,Electronic check,True,Yes
+T10636,Female,False,42,Two year,DSL,60.91,2730.93,1,Card,False,No
+T10637,Male,False,9,Month-to-month,Fiber,81.32,691.53,0,Card,False,No
+T10638,Male,False,33,Two year,Fiber,99.44,3214.67,2,Electronic check,False,No
+T10639,Male,False,65,One year,DSL,49.31,3328.74,1,Bank transfer,True,No
+T10640,Male,False,36,Month-to-month,Fiber,83.64,3004.69,2,Bank transfer,True,Yes
+T10641,Male,True,63,One year,DSL,53.41,3313.76,3,Electronic check,True,Yes
+T10642,Female,False,1,Month-to-month,DSL,60.04,58.53,0,Card,True,No
+T10643,Female,False,13,Month-to-month,DSL,56.58,724.1,2,Bank transfer,False,No
+T10644,Male,False,27,Month-to-month,Fiber,76.25,2112.98,1,Cash,True,No
+T10645,Female,False,50,One year,Fiber,76.75,3848.79,1,Card,True,No
+T10646,Female,False,16,Month-to-month,Fiber,92.06,1500.4,1,Bank transfer,True,No
+T10647,Male,False,5,Month-to-month,None,27.8,136.45,1,Card,False,No
+T10648,Male,True,32,One year,DSL,62.44,1924.46,2,Bank transfer,True,No
+T10649,Female,False,31,Two year,DSL,65.79,1997.26,1,Electronic check,True,No
+T10650,Female,True,6,Two year,DSL,52.0,310.03,0,Bank transfer,True,No
+T10651,Female,False,35,Month-to-month,Fiber,97.35,3396.46,0,Card,False,No
+T10652,Female,False,23,Month-to-month,Fiber,84.1,1865.85,2,Bank transfer,True,Yes
+T10653,Male,False,28,One year,DSL,64.69,1831.84,0,Card,False,No
+T10654,Male,True,2,Month-to-month,DSL,47.49,93.34,0,Card,True,No
+T10655,Male,False,33,One year,Fiber,70.91,2153.23,4,Electronic check,True,Yes
+T10656,Male,False,4,Month-to-month,Fiber,86.46,363.31,0,Card,True,Yes
+T10657,Female,False,56,One year,None,35.03,1981.77,3,Electronic check,True,Yes
+T10658,Female,False,17,Month-to-month,None,33.8,587.86,2,Bank transfer,False,No
+T10659,Female,True,13,Month-to-month,None,35.83,446.97,1,Card,True,No
+T10660,Male,False,33,Month-to-month,DSL,62.59,2094.29,2,Electronic check,True,Yes
+T10661,Male,False,10,Month-to-month,None,32.87,309.96,1,Electronic check,False,No
+T10662,Male,True,13,One year,DSL,47.95,628.32,3,Cash,True,No
+T10663,Female,False,26,Month-to-month,DSL,52.91,1397.92,1,Electronic check,True,No
+T10664,Male,False,54,Two year,Fiber,80.9,4298.33,0,Electronic check,False,No
+T10665,Female,False,35,Month-to-month,DSL,45.2,1597.63,1,Cash,True,No
+T10666,Male,True,28,One year,Fiber,98.25,2853.79,1,Card,True,Yes
+T10667,Male,False,18,Month-to-month,Fiber,80.97,1419.06,1,Card,True,No
+T10668,Male,False,1,Month-to-month,None,18.0,,3,Card,True,No
+T10669,Female,False,23,Month-to-month,Fiber,79.71,1791.28,0,Card,True,No
+T10670,Male,False,32,Month-to-month,DSL,57.36,1847.78,1,Bank transfer,True,Yes
+T10671,Male,False,17,Month-to-month,DSL,54.29,924.99,3,Bank transfer,False,Yes
+T10672,Male,False,12,Month-to-month,Fiber,79.69,888.07,1,Cash,True,Yes
+T10673,Female,False,6,Month-to-month,Fiber,83.45,489.37,1,Card,True,Yes
+T10674,Male,False,19,Month-to-month,Fiber,88.25,1672.75,2,Card,True,No
+T10675,Female,False,15,Two year,DSL,61.64,871.69,3,Bank transfer,True,No
+T10676,Female,False,11,Month-to-month,Fiber,78.68,848.48,0,Bank transfer,False,Yes
+T10677,Male,False,60,One year,DSL,60.73,3566.49,2,Cash,True,No
+T10678,Female,False,25,Month-to-month,Fiber,87.05,2110.65,0,Cash,True,Yes
+T10679,Female,False,31,Month-to-month,Fiber,85.08,2714.0,2,Card,False,No
+T10680,Female,False,4,Month-to-month,None,18.0,73.55,2,Bank transfer,True,Yes
+T10681,Female,False,11,One year,DSL,48.31,519.21,0,Electronic check,True,No
+T10682,Female,False,8,Month-to-month,DSL,61.37,476.94,0,Bank transfer,True,No
+T10683,Male,False,50,One year,Fiber,73.82,3874.52,0,Cash,True,No
+T10684,Female,True,30,Month-to-month,Fiber,64.78,1941.02,0,Electronic check,False,No
+T10685,Female,False,31,One year,Fiber,87.4,2780.14,2,Electronic check,True,Yes
+T10686,Female,True,57,One year,DSL,70.16,4032.81,1,Bank transfer,True,No
+T10687,Male,False,65,One year,Fiber,84.42,5379.8,3,Electronic check,True,No
+T10688,Male,False,17,Month-to-month,DSL,70.96,1142.44,0,Cash,False,No
+T10689,Male,False,16,Month-to-month,Fiber,93.22,1499.04,1,Bank transfer,True,Yes
+T10690,Female,False,32,One year,DSL,52.57,1663.16,0,Card,True,No
+T10691,Male,False,49,One year,Fiber,78.15,3806.7,3,Card,True,No
+T10692,Female,False,33,One year,DSL,62.12,2133.31,1,Cash,True,No
+T10693,Male,False,56,One year,None,35.19,2026.45,1,Electronic check,False,No
+T10694,Female,False,29,Month-to-month,DSL,77.45,2158.58,2,Electronic check,False,Yes
+T10695,Female,False,31,Month-to-month,Fiber,89.56,2922.76,2,Electronic check,True,Yes
+T10696,Male,True,49,Two year,Fiber,84.3,4240.41,2,Bank transfer,True,No
+T10697,Female,False,5,Month-to-month,Fiber,83.24,411.02,2,Electronic check,False,Yes
+T10698,Female,False,32,Month-to-month,DSL,59.85,1983.18,3,Electronic check,True,Yes
+T10699,Female,False,3,Month-to-month,DSL,54.51,168.01,1,Cash,True,No
+T10700,Male,False,13,Month-to-month,DSL,62.11,809.78,4,Cash,True,Yes
+T10701,Female,True,20,Month-to-month,DSL,70.45,1401.77,1,Card,False,No
+T10702,Male,False,53,One year,DSL,66.72,3520.54,2,Bank transfer,False,No
+T10703,Female,False,27,Two year,Fiber,65.17,1746.05,0,Card,True,No
+T10704,Female,False,33,Month-to-month,Fiber,95.95,3039.67,0,Card,False,No
+T10705,Female,False,25,Month-to-month,Fiber,107.73,2632.32,3,Electronic check,True,Yes
+T10706,Male,False,16,Month-to-month,Fiber,84.3,1268.76,3,Electronic check,True,No
+T10707,Male,False,15,Month-to-month,DSL,67.94,1010.17,2,Bank transfer,True,No
+T10708,Female,False,13,Month-to-month,DSL,65.3,835.49,1,Electronic check,False,Yes
+T10709,Male,False,27,Month-to-month,DSL,52.11,1419.07,0,Bank transfer,False,No
+T10710,Male,False,36,Month-to-month,DSL,59.76,2090.15,1,Bank transfer,False,No
+T10711,Male,False,32,Month-to-month,Fiber,97.29,3174.51,1,Card,False,No
+T10712,Female,False,66,One year,Fiber,89.69,6013.91,1,Bank transfer,True,No
+T10713,Male,False,62,Two year,Fiber,94.15,5591.27,0,Card,False,No
+T10714,Female,False,31,Month-to-month,DSL,61.48,1801.99,2,Card,True,No
+T10715,Male,False,8,Month-to-month,DSL,59.37,488.09,0,Card,True,No
+T10716,Female,False,31,Month-to-month,Fiber,95.15,2899.44,0,Bank transfer,False,No
+T10717,Female,False,15,One year,Fiber,86.99,1350.5,1,Card,False,No
+T10718,Female,False,22,Month-to-month,Fiber,82.18,1746.74,1,Bank transfer,True,No
+T10719,Female,False,18,One year,Fiber,76.92,1318.72,2,Electronic check,False,No
+T10720,Female,False,68,One year,DSL,62.56,4372.74,1,Bank transfer,True,No
+T10721,Female,False,5,Month-to-month,Fiber,75.27,365.11,1,Electronic check,True,No
+T10722,Female,False,37,Two year,Fiber,78.09,2764.57,0,Electronic check,True,No
+T10723,Female,False,6,One year,DSL,54.23,309.64,2,Electronic check,False,No
+T10724,Male,True,13,Month-to-month,Fiber,82.72,1065.75,2,Bank transfer,True,No
+T10725,Female,False,17,One year,Fiber,103.43,1849.06,1,Electronic check,True,Yes
+T10726,Male,False,68,One year,DSL,59.2,3970.96,1,Bank transfer,False,No
+T10727,Male,False,27,Month-to-month,Fiber,82.36,2204.94,1,Card,False,Yes
+T10728,Female,True,55,One year,Fiber,80.18,4199.48,1,Electronic check,True,No
+T10729,Male,False,60,One year,DSL,38.41,2218.87,0,Electronic check,False,No
+T10730,Male,False,37,Month-to-month,Fiber,93.91,3779.7,0,Card,True,No
+T10731,Male,False,28,Month-to-month,Fiber,99.82,2738.88,0,Bank transfer,True,No
+T10732,Male,False,21,Month-to-month,DSL,52.45,1086.78,1,Cash,True,No
+T10733,Male,False,30,One year,Fiber,98.8,3007.96,2,Cash,False,No
+T10734,Female,True,9,Two year,DSL,68.61,631.35,2,Bank transfer,True,No
+T10735,Male,False,5,Month-to-month,DSL,66.68,338.56,1,Cash,True,No
+T10736,Female,True,30,Month-to-month,Fiber,87.36,2650.98,2,Card,False,No
+T10737,Male,False,27,Month-to-month,DSL,58.56,1643.5,0,Card,False,No
+T10738,Female,False,36,Month-to-month,DSL,67.95,2312.51,3,Card,True,No
+T10739,Female,True,69,Two year,Fiber,85.49,5648.18,4,Card,False,No
+T10740,Female,False,58,Two year,DSL,66.62,3762.35,2,Card,False,No
+T10741,Female,False,58,Two year,DSL,54.39,3266.2,1,Card,True,No
+T10742,Female,False,13,Month-to-month,Fiber,74.6,952.7,3,Cash,False,No
+T10743,Female,False,28,Two year,DSL,67.55,2015.7,0,Cash,True,No
+T10744,Female,False,38,One year,Fiber,90.12,3405.88,2,Card,True,No
+T10745,Female,False,3,Month-to-month,Fiber,78.42,223.71,3,Card,False,No
+T10746,Male,False,14,Month-to-month,Fiber,81.04,1143.57,0,Card,False,No
+T10747,Female,True,67,One year,Fiber,87.21,5575.29,1,Bank transfer,True,No
+T10748,Male,False,18,One year,Fiber,87.7,1536.05,2,Cash,False,Yes
+T10749,Male,False,33,Month-to-month,DSL,58.43,1982.88,0,Electronic check,False,No
+T10750,Female,False,37,One year,DSL,72.22,2618.06,0,Card,True,Yes
+T10751,Male,False,15,One year,None,38.38,571.52,3,Bank transfer,True,No
+T10752,Female,False,15,Month-to-month,DSL,61.21,889.59,4,Bank transfer,True,Yes
+T10753,Female,False,37,Month-to-month,Fiber,90.27,3143.08,1,Cash,True,No
+T10754,Female,False,29,Month-to-month,Fiber,81.57,2442.29,3,Electronic check,True,No
+T10755,Female,False,16,One year,Fiber,77.79,1269.37,0,Bank transfer,False,No
+T10756,Female,True,2,Month-to-month,DSL,58.43,121.48,2,Electronic check,True,No
+T10757,Male,False,35,Month-to-month,None,25.35,845.38,0,Bank transfer,False,No
+T10758,Female,False,19,Two year,DSL,60.08,1167.15,2,Bank transfer,True,No
+T10759,Female,False,31,Month-to-month,None,22.4,732.94,3,Electronic check,True,No
+T10760,Female,False,39,Month-to-month,DSL,47.52,1833.86,2,Bank transfer,True,No
+T10761,Male,False,27,Month-to-month,Fiber,86.4,2435.34,2,Card,False,Yes
+T10762,Male,False,42,One year,DSL,58.04,2520.07,0,Cash,True,No
+T10763,Male,False,39,One year,Fiber,74.52,2785.88,2,Electronic check,False,Yes
+T10764,Male,False,19,Month-to-month,Fiber,75.46,1523.93,0,Electronic check,True,Yes
+T10765,Male,False,33,One year,Fiber,74.52,2508.73,1,Electronic check,False,No
+T10766,Male,True,32,Month-to-month,None,36.25,1141.24,3,Bank transfer,True,Yes
+T10767,Male,False,37,One year,None,31.15,1123.32,1,Card,False,No
+T10768,Male,False,10,Month-to-month,Fiber,83.42,831.5,0,Card,False,Yes
+T10769,Female,True,30,Month-to-month,DSL,60.19,1756.57,2,Electronic check,True,Yes
+T10770,Female,False,51,One year,Fiber,78.08,4060.81,3,Bank transfer,True,No
+T10771,Female,False,27,Two year,DSL,53.08,1478.27,0,Electronic check,True,No
+T10772,Female,False,35,Month-to-month,Fiber,84.83,2973.11,4,Bank transfer,False,Yes
+T10773,Female,False,36,Month-to-month,Fiber,81.78,2840.18,2,Electronic check,True,No
+T10774,Female,False,3,Month-to-month,Fiber,88.18,261.69,1,Bank transfer,False,Yes
+T10775,Female,False,15,Two year,Fiber,73.2,1101.35,0,Card,True,No
+T10776,Female,False,60,One year,Fiber,93.04,5615.97,0,Electronic check,True,No
+T10777,Male,False,45,Two year,Fiber,80.6,3728.18,1,Bank transfer,False,No
+T10778,Female,False,53,One year,DSL,46.4,2428.4,1,Card,False,No
+T10779,Male,False,25,Month-to-month,Fiber,74.83,1901.69,2,Electronic check,False,Yes
+T10780,Female,False,24,Month-to-month,DSL,51.56,1241.04,2,Bank transfer,True,No
+T10781,Female,False,64,Two year,Fiber,88.29,5826.28,1,Electronic check,True,No
+T10782,Female,False,33,Month-to-month,DSL,73.16,2446.53,0,Bank transfer,True,No
+T10783,Female,False,21,Month-to-month,Fiber,92.43,1952.82,2,Card,True,Yes
+T10784,Female,False,39,Month-to-month,None,26.93,1001.54,1,Electronic check,True,No
+T10785,Female,False,23,Month-to-month,None,28.59,624.3,1,Bank transfer,False,No
+T10786,Female,False,61,Two year,Fiber,89.56,5620.52,1,Card,True,No
+T10787,Female,False,23,Month-to-month,DSL,65.22,1446.88,3,Bank transfer,False,Yes
+T10788,Male,False,32,Month-to-month,Fiber,92.8,3098.4,1,Card,False,Yes
+T10789,Female,False,23,Two year,None,39.9,906.76,1,Card,True,No
+T10790,Female,False,61,Two year,None,20.66,1163.78,2,Electronic check,True,No
+T10791,Male,False,7,Two year,Fiber,94.31,641.35,1,Bank transfer,False,No
+T10792,Female,False,17,One year,None,35.79,607.5,1,Cash,True,No
+T10793,Male,False,47,One year,None,27.85,1335.1,3,Cash,True,No
+T10794,Male,False,31,Two year,Fiber,82.64,2525.98,2,Electronic check,True,No
+T10795,Male,False,11,One year,None,39.43,440.35,0,Bank transfer,False,Yes
+T10796,Female,False,26,Month-to-month,DSL,63.37,1644.79,1,Electronic check,True,Yes
+T10797,Female,False,26,Month-to-month,Fiber,87.38,2239.06,1,Electronic check,False,Yes
+T10798,Male,True,6,Month-to-month,Fiber,96.48,570.99,1,Card,True,No
+T10799,Male,False,27,Two year,DSL,68.58,1945.34,0,Bank transfer,True,No
+T10800,Male,False,67,One year,Fiber,90.42,5735.54,0,Card,True,No
+T10801,Male,False,30,Month-to-month,DSL,56.24,1727.1,2,Card,False,No
+T10802,Male,False,5,Month-to-month,Fiber,89.59,446.9,3,Card,True,Yes
+T10803,Female,False,39,Month-to-month,DSL,57.94,2241.88,0,Card,True,No
+T10804,Male,False,38,Month-to-month,None,36.49,1381.51,1,Electronic check,True,No
+T10805,Male,False,13,Month-to-month,DSL,60.47,758.7,0,Bank transfer,False,No
+T10806,Female,False,24,One year,None,29.72,706.06,1,Cash,True,No
+T10807,Female,False,16,Month-to-month,DSL,68.49,1063.36,3,Electronic check,True,Yes
+T10808,Male,False,34,Month-to-month,Fiber,95.51,3389.43,0,Electronic check,True,No
+T10809,Female,False,13,Month-to-month,None,27.58,347.47,2,Electronic check,True,No
+T10810,Male,True,28,Two year,Fiber,87.4,2506.6,2,Card,True,No
+T10811,Female,False,23,Month-to-month,Fiber,96.28,2208.19,2,Bank transfer,False,Yes
+T10812,Female,False,71,Two year,Fiber,65.1,4595.89,1,Electronic check,True,No
+T10813,Female,False,22,Two year,None,30.17,668.48,5,Bank transfer,True,No
+T10814,Male,False,1,Month-to-month,DSL,55.53,53.94,4,Card,False,Yes
+T10815,Male,False,42,Two year,DSL,63.51,2693.62,2,Electronic check,False,No
+T10816,Male,False,29,One year,DSL,38.51,1113.84,3,Electronic check,False,No
+T10817,Male,False,8,One year,DSL,52.33,430.29,1,Electronic check,True,No
+T10818,Female,True,10,Month-to-month,None,30.17,311.78,3,Cash,False,No
+T10819,Female,False,12,One year,Fiber,94.76,1132.61,0,Card,True,No
+T10820,Male,True,41,Two year,DSL,67.04,2770.23,1,Electronic check,True,No
+T10821,Female,True,46,One year,DSL,69.61,3152.01,2,Cash,False,No
+T10822,Male,False,58,Two year,None,37.85,2097.18,2,Cash,False,No
+T10823,Male,False,16,Month-to-month,Fiber,99.44,1547.52,3,Card,False,No
+T10824,Male,False,20,One year,None,18.0,379.57,3,Cash,False,No
+T10825,Male,True,60,Two year,DSL,80.92,4871.45,2,Electronic check,True,No
+T10826,Female,False,27,Month-to-month,Fiber,82.84,2313.13,2,Card,True,Yes
+T10827,Male,False,11,One year,Fiber,77.64,868.34,2,Bank transfer,False,No
+T10828,Male,False,53,One year,None,34.74,1788.65,0,Bank transfer,False,No
+T10829,Female,True,23,Month-to-month,Fiber,75.96,1701.53,1,Electronic check,True,Yes
+T10830,Female,False,18,Month-to-month,Fiber,92.95,1602.82,3,Card,False,Yes
+T10831,Female,False,6,One year,DSL,65.15,368.4,5,Bank transfer,False,No
+T10832,Male,True,25,Month-to-month,None,19.11,447.98,0,Bank transfer,True,Yes
+T10833,Female,False,12,One year,None,31.18,371.7,0,Card,True,No
+T10834,Male,False,29,One year,DSL,72.2,2229.5,0,Card,False,No
+T10835,Male,False,57,Two year,Fiber,104.02,6042.75,1,Bank transfer,True,No
+T10836,Male,True,3,Month-to-month,None,31.9,95.42,0,Bank transfer,True,No
+T10837,Female,False,20,Month-to-month,Fiber,95.72,1972.25,2,Bank transfer,False,Yes
+T10838,Female,False,43,One year,None,30.2,1295.91,0,Bank transfer,True,No
+T10839,Male,True,1,Month-to-month,DSL,57.92,58.76,0,Electronic check,False,Yes
+T10840,Female,False,14,Two year,Fiber,86.49,1208.51,1,Card,False,No
+T10841,Male,False,51,Two year,Fiber,94.43,4721.86,1,Card,True,No
+T10842,Female,False,35,Two year,None,23.15,790.22,0,Electronic check,False,No
+T10843,Female,False,30,Month-to-month,DSL,73.49,2227.59,1,Cash,False,Yes
+T10844,Female,False,43,One year,Fiber,98.52,4326.44,1,Card,True,No
+T10845,Male,False,25,Month-to-month,DSL,70.7,1807.12,1,Cash,False,Yes
+T10846,Female,False,63,Two year,None,28.99,1822.13,2,Electronic check,False,No
+T10847,Female,True,33,One year,None,18.0,622.27,1,Cash,False,No
+T10848,Female,False,28,Month-to-month,None,46.4,1302.9,1,Bank transfer,True,No
+T10849,Female,False,4,Month-to-month,DSL,61.19,244.43,0,Card,True,No
+T10850,Female,False,23,Month-to-month,DSL,59.53,1326.56,0,Bank transfer,True,No
+T10851,Male,False,12,Month-to-month,None,26.93,335.56,1,Card,True,No
+T10852,Female,False,12,Month-to-month,Fiber,91.02,1092.99,3,Card,False,No
+T10853,Female,False,51,Two year,Fiber,84.35,4454.25,0,Card,False,No
+T10854,Male,False,16,Month-to-month,Fiber,91.79,1541.62,1,Electronic check,True,No
+T10855,Male,False,34,Two year,Fiber,90.0,3025.99,1,Electronic check,False,No
+T10856,Female,True,41,Two year,DSL,58.1,2325.64,1,Card,True,No
+T10857,Female,True,25,Month-to-month,Fiber,64.82,1617.31,1,Electronic check,False,No
+T10858,Female,True,55,One year,Fiber,96.66,5532.67,2,Card,True,No
+T10859,Female,False,60,Two year,Fiber,92.12,5479.38,0,Card,False,No
+T10860,Female,False,65,One year,DSL,45.46,2956.36,0,Card,True,Yes
+T10861,Male,False,52,One year,Fiber,87.97,4712.18,3,Bank transfer,True,No
+T10862,Female,False,21,Two year,DSL,62.74,1373.47,1,Card,True,No
+T10863,Female,False,10,One year,Fiber,81.56,784.18,2,Bank transfer,True,No
+T10864,Male,False,11,Month-to-month,None,25.15,273.99,1,Electronic check,True,No
+T10865,Male,True,25,Month-to-month,Fiber,87.34,2193.19,2,Bank transfer,True,No
+T10866,Female,True,4,Month-to-month,Fiber,72.85,287.56,4,Card,False,Yes
+T10867,Male,False,27,Month-to-month,Fiber,80.83,2239.0,2,Electronic check,True,No
+T10868,Female,False,4,Month-to-month,None,40.8,157.1,2,Bank transfer,True,No
+T10869,Male,False,39,Month-to-month,Fiber,65.15,2523.17,0,Card,True,No
+T10870,Female,False,22,Month-to-month,Fiber,79.09,1780.35,0,Card,False,No
+T10871,Male,False,9,Month-to-month,DSL,60.52,529.35,2,Electronic check,True,Yes
+T10872,Female,False,38,One year,Fiber,97.37,3744.23,2,Cash,False,No
+T10873,Male,False,47,One year,DSL,72.0,3181.97,0,Cash,False,No
+T10874,Male,False,4,Month-to-month,DSL,45.24,189.67,2,Cash,True,Yes
+T10875,Female,False,35,Two year,None,40.7,1431.52,3,Electronic check,False,No
+T10876,Female,False,39,Two year,Fiber,77.05,2962.93,0,Cash,True,No
+T10877,Female,False,30,Month-to-month,DSL,61.27,1822.07,0,Card,True,No
+T10878,Female,True,1,Month-to-month,Fiber,94.24,95.27,1,Card,True,Yes
+T10879,Male,False,6,Two year,DSL,51.14,319.99,0,Electronic check,True,No
+T10880,Male,False,14,Month-to-month,Fiber,76.03,1065.0,3,Card,True,No
+T10881,Female,False,57,One year,Fiber,83.2,4694.11,2,Bank transfer,False,No
+T10882,Male,True,18,Month-to-month,Fiber,92.57,1645.6,1,Card,False,Yes
+T10883,Male,False,14,Month-to-month,None,34.53,459.16,1,Electronic check,False,Yes
+T10884,Female,False,23,Month-to-month,DSL,49.63,1182.29,3,Bank transfer,True,Yes
+T10885,Female,False,34,Month-to-month,DSL,44.73,1579.39,2,Electronic check,False,No
+T10886,Female,False,20,Month-to-month,DSL,57.67,1128.98,1,Electronic check,True,Yes
+T10887,Female,False,25,Month-to-month,Fiber,78.36,1951.24,3,Electronic check,True,Yes
+T10888,Male,False,60,Two year,Fiber,69.55,4123.54,1,Card,False,No
+T10889,Female,False,32,Month-to-month,DSL,54.84,1734.3,2,Cash,False,No
+T10890,Male,False,21,Month-to-month,Fiber,95.33,1984.73,0,Card,False,Yes
+T10891,Female,False,37,Month-to-month,DSL,58.42,2152.47,1,Card,True,No
+T10892,Male,True,5,Month-to-month,DSL,39.35,195.84,1,Cash,False,Yes
+T10893,Male,False,30,Month-to-month,None,35.27,1044.93,2,Electronic check,False,No
+T10894,Male,False,26,Two year,Fiber,84.75,2268.4,1,Card,True,No
+T10895,Female,False,42,Two year,None,20.97,887.19,3,Bank transfer,False,No
+T10896,Female,False,28,Month-to-month,Fiber,86.38,2368.86,3,Cash,True,No
+T10897,Male,False,18,Month-to-month,Fiber,80.87,1511.37,2,Bank transfer,True,Yes
+T10898,Female,False,71,One year,None,42.55,2977.36,1,Cash,True,No
+T10899,Female,False,4,Month-to-month,None,41.16,176.28,0,Electronic check,False,Yes
+T10900,Female,False,9,Two year,None,18.0,162.6,2,Electronic check,False,No
+T10901,Male,False,60,Two year,Fiber,94.02,5508.66,4,Bank transfer,True,No
+T10902,Female,False,39,Month-to-month,None,21.95,919.3,1,Cash,True,No
+T10903,Female,False,26,Two year,Fiber,100.43,2580.61,0,Card,True,No
+T10904,Female,False,11,Month-to-month,Fiber,90.19,1034.94,1,Bank transfer,False,No
+T10905,Female,False,33,Month-to-month,DSL,53.3,1815.93,3,Card,True,No
+T10906,Male,False,7,Month-to-month,DSL,80.51,541.59,1,Electronic check,True,No
+T10907,Male,False,28,Month-to-month,DSL,61.15,1691.98,1,Card,False,Yes
+T10908,Male,False,39,Month-to-month,Fiber,85.45,3171.65,2,Bank transfer,False,Yes
+T10909,Male,False,69,Two year,Fiber,75.97,5447.87,3,Card,True,No
+T10910,Female,False,34,Month-to-month,DSL,72.19,2425.78,2,Electronic check,True,No
+T10911,Female,False,21,Month-to-month,DSL,60.87,1330.22,3,Electronic check,True,Yes
+T10912,Female,True,37,Two year,None,32.33,1216.14,4,Electronic check,False,Yes
+T10913,Female,False,31,Month-to-month,DSL,77.83,2483.54,0,Card,True,Yes
+T10914,Female,False,12,Month-to-month,Fiber,83.09,978.71,2,Card,False,Yes
+T10915,Female,False,53,One year,Fiber,82.56,4108.4,2,Bank transfer,False,No
+T10916,Female,False,10,One year,DSL,63.44,608.17,0,Card,True,No
+T10917,Male,False,8,Month-to-month,DSL,63.59,505.57,0,Electronic check,False,No
+T10918,Female,True,37,Month-to-month,DSL,49.12,1867.49,1,Electronic check,False,Yes
+T10919,Female,False,42,Two year,None,19.33,787.4,0,Bank transfer,False,No
+T10920,Male,False,17,Two year,DSL,57.7,933.98,3,Electronic check,False,No
+T10921,Female,False,58,Two year,Fiber,80.06,4761.38,3,Cash,False,No
+T10922,Female,False,9,Month-to-month,DSL,60.55,513.1,0,Electronic check,False,No
+T10923,Male,False,33,Month-to-month,Fiber,77.6,2564.9,1,Electronic check,True,No
+T10924,Female,False,40,One year,None,34.47,1425.74,3,Card,False,No
+T10925,Female,False,39,Month-to-month,Fiber,100.43,3888.31,2,Electronic check,False,No
+T10926,Female,False,21,Month-to-month,Fiber,98.91,2016.27,1,Bank transfer,False,Yes
+T10927,Female,False,1,Month-to-month,Fiber,82.2,78.95,0,Electronic check,False,Yes
+T10928,Male,False,2,Month-to-month,Fiber,86.13,166.53,1,Cash,True,Yes
+T10929,Male,False,4,Month-to-month,DSL,60.25,240.64,1,Card,True,Yes
+T10930,Male,True,8,Month-to-month,Fiber,89.2,738.54,0,Cash,False,Yes
+T10931,Male,False,13,One year,DSL,72.5,956.14,0,Electronic check,True,No
+T10932,Male,False,29,Month-to-month,DSL,57.92,1678.88,1,Cash,True,No
+T10933,Female,False,50,Two year,Fiber,76.13,3851.3,0,Card,True,No
+T10934,Female,False,30,Month-to-month,DSL,72.75,2074.22,0,Bank transfer,True,No
+T10935,Male,False,18,Month-to-month,None,36.15,651.5,3,Electronic check,True,Yes
+T10936,Female,False,7,Month-to-month,DSL,65.48,457.87,0,Bank transfer,False,Yes
+T10937,Female,False,65,One year,DSL,70.82,4768.27,0,Card,False,No
+T10938,Male,True,30,Month-to-month,DSL,56.74,1702.22,0,Electronic check,True,No
+T10939,Female,False,37,Month-to-month,DSL,71.15,2672.16,2,Electronic check,False,No
+T10940,Male,False,46,One year,None,39.03,1765.24,1,Card,True,No
+T10941,Male,True,67,Two year,DSL,70.51,4692.45,3,Electronic check,True,No
+T10942,Male,True,23,Two year,None,23.78,544.3,1,Bank transfer,True,No
+T10943,Female,True,32,One year,Fiber,88.39,2879.3,0,Cash,False,Yes
+T10944,Female,False,29,Month-to-month,Fiber,82.66,2401.11,0,Card,False,No
+T10945,Male,False,15,Month-to-month,Fiber,77.15,1131.73,0,Card,True,No
+T10946,Male,False,14,One year,DSL,51.66,709.67,1,Electronic check,False,No
+T10947,Female,True,3,Month-to-month,None,36.45,108.34,0,Cash,True,Yes
+T10948,Male,False,8,Month-to-month,Fiber,89.74,656.7,0,Card,False,Yes
+T10949,Female,False,8,Month-to-month,None,48.3,375.77,2,Electronic check,False,Yes
+T10950,Female,False,4,Month-to-month,None,43.44,167.08,0,Bank transfer,True,No
+T10951,Female,False,39,Month-to-month,None,43.48,1778.85,1,Electronic check,True,No
+T10952,Female,False,66,One year,DSL,65.09,4261.28,1,Bank transfer,True,No
+T10953,Male,False,36,Month-to-month,Fiber,89.46,3146.15,0,Cash,False,No
+T10954,Female,False,25,One year,DSL,47.26,1138.63,1,Electronic check,False,No
+T10955,Female,False,30,Two year,DSL,78.19,2315.05,0,Card,True,No
+T10956,Male,False,10,Month-to-month,DSL,78.77,796.08,2,Electronic check,True,Yes
+T10957,Female,False,56,Two year,None,39.66,2211.96,2,Bank transfer,False,No
+T10958,Female,False,43,One year,DSL,58.32,,0,Card,True,No
+T10959,Female,False,29,Month-to-month,None,29.24,902.23,0,Card,True,Yes
+T10960,Male,True,46,Two year,Fiber,77.67,3758.32,1,Electronic check,False,No
+T10961,Male,False,58,Two year,Fiber,100.19,5812.96,0,Card,False,No
+T10962,Female,False,8,Month-to-month,DSL,54.68,460.04,0,Card,True,No
+T10963,Female,False,18,One year,Fiber,90.7,1539.29,2,Card,True,Yes
+T10964,Female,True,7,Month-to-month,Fiber,87.98,569.68,0,Card,False,Yes
+T10965,Female,True,46,One year,Fiber,97.74,4636.86,2,Electronic check,False,No
+T10966,Female,False,8,Month-to-month,DSL,63.38,488.74,3,Bank transfer,True,No
+T10967,Female,False,15,One year,Fiber,87.56,1255.8,0,Bank transfer,False,No
+T10968,Female,False,7,One year,DSL,54.23,384.75,0,Card,False,No
+T10969,Male,False,25,One year,None,18.0,444.88,2,Bank transfer,True,No
+T10970,Male,False,9,Month-to-month,None,32.86,291.05,3,Card,True,No
+T10971,Female,False,1,Month-to-month,Fiber,87.87,83.27,2,Electronic check,True,Yes
+T10972,Female,True,10,Month-to-month,Fiber,98.77,1048.37,1,Card,False,No
+T10973,Female,False,8,Month-to-month,Fiber,89.25,732.33,0,Electronic check,False,Yes
+T10974,Male,False,4,Month-to-month,DSL,63.04,262.17,1,Electronic check,False,Yes
+T10975,Female,False,51,One year,DSL,52.44,2752.4,1,Card,True,No
+T10976,Female,False,8,Month-to-month,DSL,64.91,539.32,0,Electronic check,True,Yes
+T10977,Male,False,37,Month-to-month,None,23.45,871.91,0,Card,True,No
+T10978,Female,False,36,Month-to-month,None,28.97,1002.2,5,Bank transfer,True,No
+T10979,Male,True,18,Month-to-month,Fiber,87.13,1625.69,1,Electronic check,True,Yes
+T10980,Female,False,21,Month-to-month,DSL,57.75,1243.35,3,Card,False,No
+T10981,Female,False,53,Two year,Fiber,99.95,5148.97,1,Cash,True,No
+T10982,Female,False,27,Month-to-month,Fiber,85.71,2331.05,2,Card,False,Yes
+T10983,Female,False,32,Month-to-month,Fiber,81.72,2614.83,0,Bank transfer,False,Yes
+T10984,Female,False,70,One year,Fiber,92.46,6540.57,3,Electronic check,True,No
+T10985,Male,False,33,Month-to-month,Fiber,87.44,2941.32,1,Bank transfer,False,Yes
+T10986,Male,False,11,Two year,None,32.99,355.77,6,Electronic check,False,No
+T10987,Female,True,37,One year,None,33.92,1252.31,3,Electronic check,True,No
+T10988,Female,False,5,Month-to-month,None,33.82,175.13,2,Electronic check,True,Yes
+T10989,Male,True,28,One year,DSL,57.96,1591.86,1,Card,True,No
+T10990,Male,True,27,One year,Fiber,95.28,2627.2,3,Bank transfer,False,No
+T10991,Female,True,24,One year,Fiber,88.89,2156.35,0,Cash,True,No
+T10992,Female,False,43,One year,None,21.67,915.32,0,Bank transfer,True,No
+T10993,Female,True,8,Month-to-month,DSL,59.24,495.2,2,Electronic check,False,Yes
+T10994,Female,False,20,Two year,DSL,76.89,1469.61,2,Electronic check,True,No
+T10995,Female,False,16,One year,Fiber,77.61,1297.11,2,Card,False,No
+T10996,Female,False,35,Month-to-month,None,20.6,767.06,1,Card,True,No
+T10997,Female,False,69,Two year,DSL,50.92,3463.2,1,Electronic check,True,No
+T10998,Female,False,70,Two year,Fiber,78.0,5551.8,2,Bank transfer,True,No
+T10999,Female,False,14,Month-to-month,Fiber,81.58,1203.97,2,Electronic check,False,No
+T11000,Female,False,6,Month-to-month,None,39.46,235.29,3,Bank transfer,True,Yes
+T11001,Male,False,11,Month-to-month,Fiber,80.05,870.85,0,Bank transfer,False,No
+T11002,Male,True,26,Month-to-month,DSL,65.94,1684.63,0,Electronic check,True,No
+T11003,Female,True,16,Two year,None,20.74,332.0,0,Cash,True,No
+T11004,Male,False,35,Month-to-month,Fiber,81.92,2858.65,2,Card,False,No
+T11005,Female,False,14,Month-to-month,DSL,66.64,925.73,1,Electronic check,False,No
+T11006,Female,False,69,Two year,DSL,68.33,4447.9,0,Electronic check,True,No
+T11007,Male,False,25,Month-to-month,None,28.97,762.5,1,Card,False,No
+T11008,Male,False,10,One year,None,44.72,419.23,0,Electronic check,False,No
+T11009,Female,False,12,Month-to-month,Fiber,86.32,1025.46,1,Electronic check,True,Yes
+T11010,Male,False,35,Month-to-month,Fiber,83.55,2908.1,5,Bank transfer,False,Yes
+T11011,Male,False,62,One year,None,28.27,1786.52,0,Electronic check,True,No
+T11012,Female,False,56,One year,Fiber,88.09,5010.69,4,Card,False,Yes
+T11013,Male,True,21,One year,None,37.67,795.33,0,Card,False,No
+T11014,Male,False,29,Month-to-month,DSL,75.35,2168.32,0,Electronic check,True,Yes
+T11015,Female,False,38,Month-to-month,Fiber,81.69,3135.59,0,Bank transfer,True,Yes
+T11016,Male,False,40,Two year,DSL,66.73,2697.28,1,Electronic check,True,No
+T11017,Female,False,21,Month-to-month,Fiber,86.19,1716.84,2,Electronic check,True,Yes
+T11018,Male,False,50,Two year,DSL,58.71,3064.64,1,Card,False,No
+T11019,Male,False,35,One year,Fiber,92.25,3264.39,2,Bank transfer,True,No
+T11020,Female,True,15,Month-to-month,DSL,71.2,1097.64,1,Bank transfer,False,Yes
+T11021,Female,False,62,Two year,Fiber,87.34,5378.42,0,Bank transfer,False,No
+T11022,Female,False,8,Month-to-month,Fiber,94.17,764.82,1,Card,True,Yes
+T11023,Female,False,14,Month-to-month,None,32.55,467.5,1,Bank transfer,False,No
+T11024,Male,False,24,Month-to-month,Fiber,91.76,2121.06,0,Card,True,Yes
+T11025,Female,False,28,Two year,DSL,63.67,1761.99,0,Bank transfer,False,No
+T11026,Male,True,35,Two year,DSL,58.15,2101.77,0,Electronic check,True,Yes
+T11027,Male,False,54,One year,None,39.26,2084.51,2,Card,False,No
+T11028,Female,False,12,Two year,None,36.4,424.9,1,Electronic check,True,No
+T11029,Female,False,18,Month-to-month,Fiber,94.49,1747.16,2,Electronic check,True,Yes
+T11030,Male,False,25,One year,DSL,68.65,1728.91,0,Electronic check,True,Yes
+T11031,Male,False,50,Two year,None,18.58,933.95,0,Electronic check,False,No
+T11032,Male,False,24,Month-to-month,DSL,65.46,1539.41,1,Electronic check,False,No
+T11033,Female,False,13,Month-to-month,Fiber,82.59,1147.2,2,Card,True,Yes
+T11034,Male,True,2,Month-to-month,None,18.0,36.51,3,Electronic check,True,Yes
+T11035,Female,False,19,Month-to-month,Fiber,74.86,1465.87,2,Card,True,Yes
+T11036,Male,True,71,One year,DSL,76.49,5409.92,2,Card,True,No
+T11037,Female,False,1,Month-to-month,None,33.94,34.59,2,Card,True,No
+T11038,Male,False,64,Two year,DSL,75.77,4973.16,3,Electronic check,True,No
+T11039,Female,False,7,One year,DSL,64.72,439.27,1,Card,False,No
+T11040,Male,True,38,Month-to-month,Fiber,95.23,3528.74,4,Bank transfer,True,No
+T11041,Female,False,22,Month-to-month,None,32.12,712.02,2,Electronic check,False,No
+T11042,Male,False,4,Month-to-month,Fiber,70.23,267.93,4,Electronic check,True,No
+T11043,Male,False,49,One year,Fiber,73.5,3551.78,1,Bank transfer,True,No
+T11044,Female,False,44,Two year,Fiber,88.87,3955.98,2,Electronic check,True,No
+T11045,Female,False,16,Month-to-month,Fiber,85.37,1336.68,0,Card,True,Yes
+T11046,Female,False,71,Two year,None,37.48,2531.3,3,Card,True,No
+T11047,Female,False,67,One year,DSL,66.92,4421.86,3,Card,False,No
+T11048,Female,False,39,Month-to-month,DSL,60.03,2308.99,1,Cash,True,No
+T11049,Female,False,69,Two year,Fiber,82.54,5973.0,2,Cash,True,No
+T11050,Female,False,59,Two year,DSL,51.57,3089.84,1,Card,False,No
+T11051,Female,False,66,One year,Fiber,102.76,6950.96,2,Bank transfer,False,No
+T11052,Female,False,70,One year,DSL,65.42,4633.02,0,Card,True,No
+T11053,Male,False,18,Month-to-month,DSL,50.42,903.22,1,Bank transfer,True,No
+T11054,Male,True,28,Month-to-month,Fiber,84.51,2381.92,0,Card,True,No
+T11055,Female,False,56,Two year,Fiber,92.78,5035.08,1,Bank transfer,False,No
+T11056,Female,False,33,Month-to-month,DSL,45.82,1492.68,3,Electronic check,True,No
+T11057,Female,False,40,Two year,None,23.52,905.82,1,Bank transfer,True,No
+T11058,Female,False,13,Month-to-month,None,36.4,493.4,0,Card,True,No
+T11059,Female,False,30,Month-to-month,None,32.79,970.1,0,Cash,True,No
+T11060,Male,True,56,Two year,None,32.88,1867.0,1,Bank transfer,True,No
+T11061,Female,False,2,Month-to-month,DSL,69.54,143.01,2,Card,True,No
+T11062,Male,False,6,Month-to-month,DSL,62.67,387.43,1,Electronic check,False,Yes
+T11063,Male,False,13,One year,DSL,60.69,791.31,2,Electronic check,False,No
+T11064,Male,False,4,Month-to-month,Fiber,97.01,364.24,0,Bank transfer,True,No
+T11065,Female,False,23,One year,DSL,71.29,1701.85,2,Cash,False,No
+T11066,Male,False,58,Two year,Fiber,62.97,3548.5,0,Electronic check,False,No
+T11067,Male,False,40,One year,Fiber,63.33,2473.09,1,Bank transfer,False,No
+T11068,Male,False,38,Two year,DSL,64.84,2539.67,0,Bank transfer,True,No
+T11069,Male,False,50,Two year,Fiber,84.6,4165.72,1,Electronic check,True,No
+T11070,Female,False,18,Month-to-month,Fiber,78.9,1369.23,2,Bank transfer,False,Yes
+T11071,Male,False,7,Month-to-month,Fiber,68.59,478.86,1,Bank transfer,False,Yes
+T11072,Female,False,37,One year,Fiber,96.46,3607.1,1,Bank transfer,True,No
+T11073,Male,False,40,One year,None,31.01,1281.11,0,Card,True,No
+T11074,Male,False,31,Month-to-month,Fiber,72.94,2268.31,2,Card,True,No
+T11075,Female,True,1,Month-to-month,None,43.78,45.88,3,Bank transfer,True,No
+T11076,Female,False,10,Month-to-month,None,27.55,278.13,0,Card,False,No
+T11077,Female,False,60,One year,Fiber,78.32,4629.31,1,Card,True,No
+T11078,Female,False,7,One year,None,27.87,192.54,4,Bank transfer,True,No
+T11079,Male,False,45,Two year,DSL,60.47,2804.89,1,Bank transfer,False,No
+T11080,Male,False,26,Two year,Fiber,71.87,1821.31,3,Electronic check,True,No
+T11081,Female,False,41,Two year,None,22.72,947.1,0,Cash,True,No
+T11082,Female,False,48,One year,DSL,50.47,2562.8,1,Electronic check,True,No
+T11083,Female,True,44,Two year,Fiber,87.33,3726.51,2,Bank transfer,False,No
+T11084,Male,True,27,Month-to-month,Fiber,80.97,2099.76,1,Electronic check,False,Yes
+T11085,Female,False,21,Month-to-month,DSL,64.18,1329.85,1,Card,False,No
+T11086,Male,False,38,Month-to-month,Fiber,73.52,2658.62,3,Electronic check,False,Yes
+T11087,Male,False,8,Month-to-month,DSL,55.62,453.97,0,Cash,True,Yes
+T11088,Male,False,4,Month-to-month,Fiber,94.53,369.83,1,Electronic check,False,Yes
+T11089,Female,True,40,One year,None,31.75,1318.53,2,Cash,True,Yes
+T11090,Female,False,32,Month-to-month,Fiber,91.61,2997.25,1,Card,False,No
+T11091,Female,False,8,Month-to-month,Fiber,78.11,607.05,0,Electronic check,False,No
+T11092,Female,False,13,Month-to-month,Fiber,77.2,997.73,2,Bank transfer,True,No
+T11093,Female,False,61,One year,DSL,73.44,4409.73,2,Bank transfer,True,No
+T11094,Female,False,22,Month-to-month,DSL,66.23,1426.39,4,Electronic check,True,No
+T11095,Female,False,24,Two year,Fiber,86.03,2059.36,1,Card,False,No
+T11096,Male,False,35,Month-to-month,Fiber,88.96,3079.3,2,Bank transfer,False,Yes
+T11097,Male,False,13,Month-to-month,Fiber,91.84,1206.15,1,Card,True,No
+T11098,Female,True,25,Month-to-month,Fiber,95.22,2396.07,0,Card,False,No
+T11099,Male,False,41,Two year,Fiber,90.79,3801.98,1,Electronic check,False,No
+T11100,Female,False,31,One year,DSL,58.96,1882.21,2,Electronic check,False,No
+T11101,Male,False,25,Month-to-month,Fiber,73.44,1882.15,0,Bank transfer,False,Yes
+T11102,Female,False,25,Month-to-month,Fiber,81.59,2148.95,2,Electronic check,True,No
+T11103,Male,False,62,One year,None,34.72,2141.62,3,Electronic check,False,No
+T11104,Male,False,14,Month-to-month,None,27.09,369.99,1,Bank transfer,True,No
+T11105,Male,False,18,Month-to-month,Fiber,86.81,1596.76,3,Bank transfer,True,No
+T11106,Female,False,16,Month-to-month,Fiber,63.1,1038.95,0,Electronic check,True,No
+T11107,Male,False,69,Two year,Fiber,79.99,5374.02,1,Electronic check,True,No
+T11108,Female,False,23,One year,Fiber,93.73,2108.53,1,Card,True,Yes
+T11109,Female,False,28,Two year,Fiber,85.31,2447.78,4,Card,True,No
+T11110,Male,False,66,One year,Fiber,94.44,6268.36,2,Card,False,Yes
+T11111,Male,False,19,One year,DSL,73.8,1503.39,4,Card,True,No
+T11112,Male,False,35,One year,None,27.06,895.66,2,Card,True,No
+T11113,Female,False,30,Month-to-month,Fiber,82.17,2545.98,0,Electronic check,True,Yes
+T11114,Female,False,13,One year,DSL,52.7,708.93,2,Card,True,No
+T11115,Male,True,68,One year,DSL,73.6,5002.66,3,Card,False,No
+T11116,Male,False,46,Two year,DSL,71.08,3307.54,1,Card,False,No
+T11117,Male,False,36,One year,DSL,73.82,2722.93,2,Bank transfer,True,No
+T11118,Male,True,6,Month-to-month,Fiber,80.47,466.71,2,Cash,True,No
+T11119,Male,False,8,Month-to-month,Fiber,81.99,637.5,1,Electronic check,False,No
+T11120,Male,False,14,Month-to-month,DSL,66.53,941.62,1,Electronic check,False,Yes
+T11121,Female,False,40,Two year,DSL,58.88,2433.25,2,Electronic check,True,No
+T11122,Male,False,29,Month-to-month,Fiber,82.08,2332.45,0,Card,True,No
+T11123,Male,False,1,Month-to-month,None,25.26,25.0,2,Cash,True,Yes
+T11124,Male,False,22,Month-to-month,Fiber,82.5,1801.01,1,Card,False,Yes
+T11125,Male,False,36,Two year,DSL,73.56,2705.49,1,Bank transfer,False,No
+T11126,Female,False,33,Month-to-month,None,18.0,617.51,0,Cash,True,No
+T11127,Male,False,8,Month-to-month,None,32.43,258.86,1,Cash,True,No
+T11128,Female,True,5,Month-to-month,Fiber,87.59,427.94,1,Electronic check,False,Yes
+T11129,Male,False,39,Month-to-month,DSL,62.95,2468.82,0,Cash,True,No
+T11130,Female,False,49,One year,None,25.19,1221.16,1,Electronic check,True,No
+T11131,Male,False,54,One year,DSL,48.09,2545.91,2,Bank transfer,True,No
+T11132,Male,False,14,Two year,DSL,58.99,833.57,1,Electronic check,False,No
+T11133,Female,False,8,One year,None,28.47,225.66,1,Electronic check,True,No
+T11134,Male,False,1,Month-to-month,DSL,72.62,69.96,1,Card,True,Yes
+T11135,Male,False,37,Month-to-month,None,22.1,,0,Card,True,No
+T11136,Female,False,50,One year,DSL,61.98,3066.58,2,Electronic check,True,No
+T11137,Male,False,32,Month-to-month,DSL,68.42,2207.11,0,Electronic check,False,No
+T11138,Male,False,58,Two year,DSL,64.31,3889.16,2,Card,True,No
+T11139,Male,False,33,Month-to-month,DSL,67.55,2214.68,1,Cash,True,No
+T11140,Male,False,18,Month-to-month,Fiber,78.77,1457.31,1,Card,True,Yes
+T11141,Female,False,5,Month-to-month,Fiber,93.52,440.57,1,Electronic check,False,No
+T11142,Female,False,15,Month-to-month,DSL,71.4,1124.36,1,Card,True,No
+T11143,Male,False,22,Month-to-month,DSL,77.49,1648.87,3,Card,False,No
+T11144,Male,False,70,One year,None,30.98,2132.64,1,Card,True,No
+T11145,Male,True,27,Month-to-month,Fiber,82.81,2306.4,1,Electronic check,True,Yes
+T11146,Male,False,3,Month-to-month,DSL,58.35,176.05,1,Bank transfer,False,No
+T11147,Female,False,5,Month-to-month,DSL,56.64,276.36,1,Bank transfer,True,Yes
+T11148,Male,False,15,Month-to-month,Fiber,83.55,1240.78,1,Electronic check,True,No
+T11149,Male,False,26,Month-to-month,Fiber,87.02,2220.78,0,Card,False,No
+T11150,Female,False,3,Month-to-month,DSL,64.33,185.1,1,Electronic check,True,Yes
+T11151,Male,False,34,Two year,Fiber,104.48,3490.61,0,Card,False,Yes
+T11152,Female,False,20,Month-to-month,DSL,67.58,1383.56,0,Electronic check,True,Yes
+T11153,Female,False,33,Month-to-month,Fiber,84.68,2848.6,2,Electronic check,True,No
+T11154,Male,False,37,Month-to-month,DSL,75.37,2785.18,2,Bank transfer,False,No
+T11155,Female,False,71,Two year,Fiber,78.63,5760.82,1,Electronic check,True,No
+T11156,Male,False,4,Month-to-month,Fiber,81.54,325.91,1,Card,True,Yes
+T11157,Male,True,57,One year,Fiber,95.1,5237.33,1,Card,True,No
+T11158,Female,True,39,Two year,None,22.71,,0,Bank transfer,False,No
+T11159,Male,True,22,Month-to-month,None,34.06,740.34,1,Card,True,Yes
+T11160,Male,False,17,Month-to-month,Fiber,98.51,1625.68,4,Card,True,No
+T11161,Female,False,24,Month-to-month,None,35.18,827.95,1,Bank transfer,False,No
+T11162,Female,False,12,Month-to-month,DSL,61.76,739.06,3,Card,False,Yes
+T11163,Male,True,11,Month-to-month,DSL,63.47,714.43,1,Electronic check,False,Yes
+T11164,Male,False,26,One year,DSL,53.84,1394.15,1,Electronic check,False,No
+T11165,Male,False,6,Month-to-month,None,29.58,179.73,1,Bank transfer,False,Yes
+T11166,Male,False,20,Month-to-month,Fiber,82.48,1678.78,2,Electronic check,True,Yes
+T11167,Male,False,21,Month-to-month,Fiber,81.07,1681.29,1,Cash,False,No
+T11168,Female,False,15,Month-to-month,DSL,69.01,1028.03,1,Bank transfer,True,No
+T11169,Male,False,15,Two year,Fiber,76.79,1138.06,1,Bank transfer,True,No
+T11170,Female,True,1,Month-to-month,DSL,53.01,54.56,1,Electronic check,False,Yes
+T11171,Female,False,14,Month-to-month,None,41.95,559.7,1,Electronic check,False,Yes
+T11172,Male,True,43,One year,DSL,69.35,3109.53,1,Card,True,No
+T11173,Female,False,33,Two year,DSL,58.63,1857.87,0,Electronic check,False,No
+T11174,Male,False,13,Month-to-month,DSL,68.13,912.52,3,Electronic check,True,Yes
+T11175,Male,False,38,Month-to-month,DSL,43.5,1667.24,0,Bank transfer,True,No
+T11176,Female,False,9,Two year,Fiber,78.46,692.56,1,Cash,False,No
+T11177,Male,True,4,Month-to-month,None,21.33,87.33,2,Card,True,No
+T11178,Female,False,26,Month-to-month,None,40.01,1090.45,2,Bank transfer,True,No
+T11179,Female,False,15,Month-to-month,Fiber,77.36,1196.43,0,Bank transfer,True,No
+T11180,Male,False,31,Month-to-month,DSL,60.92,1841.47,0,Bank transfer,True,No
+T11181,Female,False,58,Two year,DSL,44.3,2520.9,1,Bank transfer,True,No
+T11182,Female,False,16,Two year,DSL,62.39,967.64,1,Bank transfer,True,No
+T11183,Female,False,19,Month-to-month,DSL,50.14,976.56,2,Cash,True,Yes
+T11184,Male,False,33,Two year,None,29.55,1028.54,2,Card,True,No
+T11185,Male,True,27,Month-to-month,None,25.12,656.59,3,Card,True,No
+T11186,Female,False,2,Month-to-month,None,31.43,61.87,2,Card,False,Yes
+T11187,Female,False,19,Month-to-month,DSL,58.68,1102.73,3,Electronic check,False,Yes
+T11188,Male,False,23,Month-to-month,DSL,67.61,1546.89,2,Electronic check,False,Yes
+T11189,Male,False,69,Two year,Fiber,89.97,5995.77,0,Bank transfer,False,No
+T11190,Male,False,20,One year,DSL,55.13,1113.03,2,Electronic check,True,No
+T11191,Female,False,21,Month-to-month,Fiber,82.52,1864.95,2,Electronic check,False,Yes
+T11192,Male,False,23,Month-to-month,DSL,51.43,1214.16,2,Electronic check,True,Yes
+T11193,Male,False,48,One year,None,18.0,839.45,1,Electronic check,True,No
+T11194,Male,False,69,One year,None,18.0,1250.29,0,Card,False,No
+T11195,Female,False,22,Month-to-month,DSL,64.08,1382.28,1,Bank transfer,True,No
+T11196,Female,False,19,One year,DSL,61.38,1171.23,0,Bank transfer,False,No
+T11197,Male,False,31,Month-to-month,Fiber,92.34,2887.49,0,Bank transfer,True,No
+T11198,Male,False,14,Month-to-month,Fiber,94.7,1359.26,0,Electronic check,False,Yes
+T11199,Male,False,23,Month-to-month,Fiber,81.21,1895.47,2,Card,True,No
+T11200,Male,False,10,One year,DSL,52.46,529.71,3,Electronic check,False,No
+T11201,Male,True,34,Two year,DSL,71.58,2545.26,3,Bank transfer,False,No
+T11202,Female,False,31,Month-to-month,DSL,50.96,1606.27,1,Card,False,No
+T11203,Male,True,53,One year,Fiber,66.84,3474.7,2,Bank transfer,True,No
+T11204,Female,False,3,Month-to-month,DSL,59.57,186.6,0,Cash,False,No
+T11205,Female,False,30,One year,Fiber,85.57,2504.48,1,Bank transfer,False,Yes
+T11206,Male,False,29,Month-to-month,DSL,83.4,2295.37,1,Card,True,No
+T11207,Female,False,10,Month-to-month,Fiber,90.33,938.03,0,Cash,False,No
+T11208,Male,False,33,Month-to-month,DSL,69.61,2291.77,1,Card,False,No
+T11209,Female,False,35,Month-to-month,Fiber,101.82,3453.66,1,Bank transfer,False,No
+T11210,Male,False,29,Month-to-month,DSL,73.01,2151.97,2,Electronic check,False,No
+T11211,Male,True,31,Month-to-month,None,36.46,1077.03,0,Cash,False,No
+T11212,Male,False,28,One year,None,41.83,1132.87,2,Electronic check,True,No
+T11213,Male,False,12,Month-to-month,Fiber,79.13,969.98,2,Electronic check,False,Yes
+T11214,Male,False,54,Two year,None,25.22,1399.11,2,Card,False,No
+T11215,Male,False,43,One year,Fiber,85.36,3689.49,0,Card,False,No
+T11216,Female,False,31,Month-to-month,DSL,69.36,2104.93,2,Card,True,No
+T11217,Female,False,35,Two year,Fiber,72.96,2478.04,2,Cash,True,No
+T11218,Female,True,18,Month-to-month,None,18.0,301.61,1,Card,False,No
+T11219,Male,False,37,One year,None,27.08,1024.62,0,Card,True,No
+T11220,Female,False,17,Month-to-month,Fiber,89.43,1512.71,0,Card,False,Yes
+T11221,Female,False,19,Month-to-month,Fiber,81.25,1662.66,2,Electronic check,False,Yes
+T11222,Female,True,24,Month-to-month,Fiber,72.58,1744.1,2,Cash,False,Yes
+T11223,Male,True,37,Month-to-month,DSL,70.76,2733.61,1,Cash,False,Yes
+T11224,Male,False,9,One year,DSL,67.6,609.65,0,Electronic check,False,No
+T11225,Female,False,56,One year,DSL,53.24,3096.54,1,Bank transfer,True,No
+T11226,Male,False,38,Month-to-month,Fiber,74.94,2927.52,2,Cash,True,No
+T11227,Male,False,30,Month-to-month,Fiber,90.65,2554.58,1,Bank transfer,False,No
+T11228,Male,False,33,One year,None,35.34,1233.86,2,Cash,False,No
+T11229,Female,True,47,Two year,Fiber,77.17,3698.2,0,Bank transfer,True,No
+T11230,Male,False,14,Two year,None,28.67,402.08,1,Cash,False,No
+T11231,Male,True,7,Month-to-month,Fiber,101.37,719.64,0,Card,False,No
+T11232,Female,False,71,Two year,Fiber,85.73,5936.14,1,Card,True,No
+T11233,Female,False,38,Month-to-month,Fiber,105.65,3945.69,1,Card,True,Yes
+T11234,Female,False,30,Month-to-month,DSL,68.09,2088.57,2,Bank transfer,True,No
+T11235,Female,False,10,Month-to-month,None,35.16,351.61,0,Electronic check,True,Yes
+T11236,Female,False,59,Two year,None,25.22,1605.47,1,Card,False,No
+T11237,Female,False,35,Month-to-month,DSL,77.39,2785.32,2,Electronic check,False,No
+T11238,Female,False,34,Month-to-month,None,18.0,591.88,1,Cash,True,No
+T11239,Female,False,15,Month-to-month,None,26.53,403.74,1,Electronic check,True,Yes
+T11240,Female,False,34,Month-to-month,Fiber,85.03,2844.77,1,Card,True,No
+T11241,Male,True,42,One year,None,27.31,1145.08,1,Electronic check,False,No
+T11242,Female,False,42,One year,Fiber,82.37,3229.18,2,Bank transfer,True,No
+T11243,Male,False,48,One year,None,24.25,1160.45,0,Electronic check,True,No
+T11244,Male,False,16,Month-to-month,Fiber,56.39,928.18,3,Bank transfer,True,Yes
+T11245,Male,True,31,Month-to-month,DSL,54.36,1612.96,1,Cash,True,No
+T11246,Male,False,52,One year,Fiber,91.1,4642.57,3,Electronic check,False,No
+T11247,Male,False,22,Month-to-month,DSL,67.53,1571.57,3,Electronic check,False,Yes
+T11248,Male,False,11,One year,DSL,56.47,609.24,1,Card,True,No
+T11249,Male,True,7,Two year,Fiber,76.72,539.21,3,Electronic check,True,No
+T11250,Male,False,12,Two year,Fiber,78.59,922.29,2,Cash,True,No
+T11251,Female,False,45,One year,DSL,49.85,2234.96,1,Card,True,No
+T11252,Female,False,47,Two year,Fiber,81.88,3647.58,0,Electronic check,False,No
+T11253,Male,False,7,One year,DSL,62.01,424.89,3,Card,False,Yes
+T11254,Female,True,15,Month-to-month,Fiber,73.3,1117.4,1,Electronic check,True,No
+T11255,Male,False,13,One year,Fiber,83.55,1087.69,0,Card,True,Yes
+T11256,Male,True,52,Two year,DSL,64.06,3309.71,1,Bank transfer,True,No
+T11257,Male,True,12,Month-to-month,DSL,54.16,664.75,1,Card,True,No
+T11258,Male,False,26,Month-to-month,DSL,51.93,1357.91,2,Bank transfer,False,No
+T11259,Female,True,10,Month-to-month,DSL,66.83,658.15,1,Bank transfer,False,No
+T11260,Male,False,64,Two year,DSL,72.86,4685.65,0,Cash,True,No
+T11261,Female,False,33,One year,None,27.92,946.46,1,Cash,True,No
+T11262,Female,True,37,One year,Fiber,98.64,3613.9,2,Electronic check,False,Yes
+T11263,Male,False,5,Month-to-month,Fiber,87.16,416.77,1,Electronic check,True,Yes
+T11264,Female,True,25,One year,DSL,58.13,1499.13,3,Card,True,No
+T11265,Male,False,19,Month-to-month,DSL,65.81,1251.55,1,Electronic check,False,Yes
+T11266,Male,False,71,One year,None,24.99,1750.55,0,Cash,True,No
+T11267,Female,False,19,One year,DSL,56.88,1087.53,3,Bank transfer,True,No
+T11268,Female,False,4,Month-to-month,Fiber,95.52,384.57,0,Electronic check,True,No
+T11269,Female,False,5,Month-to-month,Fiber,98.74,462.59,0,Bank transfer,True,Yes
+T11270,Female,True,20,Month-to-month,Fiber,74.03,1514.64,1,Electronic check,True,No
+T11271,Male,False,66,Two year,DSL,69.57,4906.91,1,Electronic check,False,No
+T11272,Male,False,36,Two year,DSL,56.91,2027.94,1,Cash,True,No
+T11273,Male,False,29,Month-to-month,Fiber,83.58,2379.38,2,Electronic check,False,Yes
+T11274,Female,False,65,One year,None,34.41,2109.59,3,Card,False,No
+T11275,Male,False,22,One year,Fiber,91.82,2095.27,2,Electronic check,True,No
+T11276,Female,False,19,Month-to-month,Fiber,81.05,1605.56,1,Electronic check,True,No
+T11277,Male,False,19,One year,None,39.89,770.06,2,Electronic check,False,No
+T11278,Male,False,3,Month-to-month,Fiber,92.13,276.28,0,Electronic check,False,No
+T11279,Female,False,22,Month-to-month,DSL,74.32,1684.03,1,Electronic check,True,No
+T11280,Male,False,17,One year,Fiber,84.14,1484.82,1,Card,False,No
+T11281,Female,False,54,Two year,Fiber,92.9,5269.9,0,Bank transfer,False,No
+T11282,Female,False,25,Month-to-month,DSL,63.86,1565.98,1,Electronic check,True,No
+T11283,Male,False,17,Month-to-month,Fiber,72.3,1294.89,0,Cash,True,No
+T11284,Male,False,53,One year,DSL,56.84,3017.73,0,Cash,True,No
+T11285,Male,True,12,Month-to-month,None,27.6,323.92,2,Electronic check,False,Yes
+T11286,Male,False,36,Month-to-month,DSL,79.39,2911.35,0,Bank transfer,False,No
+T11287,Female,False,9,Month-to-month,Fiber,75.63,,4,Electronic check,True,Yes
+T11288,Male,False,6,Month-to-month,DSL,64.56,380.47,1,Electronic check,False,Yes
+T11289,Female,False,33,Month-to-month,None,30.17,1010.53,1,Bank transfer,False,Yes
+T11290,Male,False,71,One year,DSL,69.71,4978.75,2,Electronic check,True,No
+T11291,Female,False,8,Month-to-month,DSL,69.01,573.46,2,Card,True,No
+T11292,Female,False,58,Two year,DSL,61.44,3548.64,2,Card,False,No
+T11293,Male,False,18,Month-to-month,Fiber,92.09,1663.34,0,Bank transfer,True,No
+T11294,Male,False,16,Two year,DSL,55.6,872.44,1,Cash,False,No
+T11295,Male,True,35,Two year,None,28.15,976.19,1,Card,True,No
+T11296,Male,False,28,Month-to-month,DSL,59.0,1633.76,2,Card,True,No
+T11297,Male,True,24,Month-to-month,None,22.02,503.54,1,Electronic check,True,No
+T11298,Male,False,6,Two year,None,39.81,242.81,0,Electronic check,True,No
+T11299,Female,False,6,Two year,None,25.58,149.19,0,Cash,True,No
+T11300,Female,False,10,Two year,Fiber,78.4,811.92,1,Card,True,Yes
+T11301,Male,False,28,One year,DSL,53.86,1480.81,3,Card,True,Yes
+T11302,Female,False,3,Month-to-month,DSL,76.71,231.23,2,Cash,False,Yes
+T11303,Female,False,36,Month-to-month,Fiber,73.69,2538.6,2,Card,False,No
+T11304,Male,True,22,Month-to-month,Fiber,82.27,1732.91,2,Bank transfer,True,Yes
+T11305,Male,False,30,Month-to-month,DSL,55.8,1680.39,4,Bank transfer,False,Yes
+T11306,Female,False,14,Month-to-month,Fiber,65.32,931.45,2,Electronic check,False,Yes
+T11307,Female,False,6,Month-to-month,Fiber,67.71,420.31,1,Card,False,No
+T11308,Male,False,8,Month-to-month,None,25.13,203.59,1,Bank transfer,True,No
+T11309,Male,True,24,Two year,Fiber,92.32,2149.42,1,Cash,True,No
+T11310,Male,False,60,One year,None,27.47,1618.58,2,Card,False,No
+T11311,Female,False,18,Month-to-month,None,20.64,363.45,1,Electronic check,False,No
+T11312,Male,False,12,Month-to-month,DSL,62.31,748.02,1,Electronic check,True,Yes
+T11313,Female,False,17,Month-to-month,DSL,54.03,931.67,0,Electronic check,True,Yes
+T11314,Female,False,8,Month-to-month,Fiber,80.26,645.89,0,Electronic check,False,Yes
+T11315,Male,False,30,Two year,DSL,39.09,1133.75,2,Electronic check,False,No
+T11316,Male,False,21,Month-to-month,Fiber,95.67,2039.22,2,Bank transfer,True,Yes
+T11317,Male,False,19,Two year,DSL,45.42,838.41,1,Electronic check,True,No
+T11318,Male,False,44,One year,Fiber,93.28,4113.51,0,Bank transfer,False,No
+T11319,Male,False,54,One year,Fiber,93.97,5218.15,2,Card,False,No
+T11320,Female,True,32,One year,Fiber,86.65,2817.03,1,Card,True,No
+T11321,Female,True,10,Month-to-month,Fiber,82.08,839.54,0,Cash,False,No
+T11322,Male,False,11,Month-to-month,Fiber,83.7,938.46,2,Bank transfer,True,Yes
+T11323,Male,False,25,One year,None,36.46,906.08,0,Bank transfer,True,No
+T11324,Male,False,6,Month-to-month,Fiber,88.85,511.33,0,Bank transfer,True,Yes
+T11325,Female,False,34,Two year,Fiber,81.65,2749.5,1,Bank transfer,True,No
+T11326,Male,False,36,Month-to-month,Fiber,95.09,3452.42,2,Bank transfer,True,Yes
+T11327,Female,False,11,Month-to-month,DSL,73.83,810.4,1,Bank transfer,False,Yes
+T11328,Female,False,6,Month-to-month,Fiber,76.23,461.81,1,Bank transfer,True,Yes
+T11329,Male,False,59,Two year,DSL,58.49,3454.83,2,Card,True,No
+T11330,Female,False,38,Month-to-month,Fiber,103.05,3830.88,2,Card,True,No
+T11331,Male,False,67,Two year,None,30.9,2062.39,3,Cash,True,No
+T11332,Female,False,14,Month-to-month,Fiber,77.48,1120.9,3,Bank transfer,False,No
+T11333,Female,False,34,Month-to-month,DSL,72.02,2275.99,3,Card,False,No
+T11334,Female,True,44,Two year,DSL,47.38,2144.29,1,Card,True,No
+T11335,Female,False,36,Month-to-month,DSL,56.07,2052.59,1,Card,True,No
+T11336,Male,False,68,One year,Fiber,70.31,4961.12,2,Electronic check,False,No
+T11337,Female,True,15,Month-to-month,DSL,57.52,864.75,0,Card,True,Yes
+T11338,Male,False,71,Two year,Fiber,71.13,5010.41,3,Electronic check,True,No
+T11339,Male,False,6,Month-to-month,Fiber,90.66,554.61,1,Electronic check,False,Yes
+T11340,Male,False,37,Two year,DSL,52.34,2017.66,2,Electronic check,True,No
+T11341,Female,False,48,One year,Fiber,80.5,3658.02,0,Cash,False,No
+T11342,Male,True,24,Month-to-month,DSL,65.28,1558.76,1,Cash,True,No
+T11343,Male,False,36,Month-to-month,Fiber,86.21,3037.04,2,Card,True,Yes
+T11344,Female,False,18,One year,DSL,64.97,1226.91,1,Bank transfer,True,Yes
+T11345,Female,False,35,One year,DSL,66.52,2257.43,2,Electronic check,False,Yes
+T11346,Male,False,13,Month-to-month,Fiber,83.45,1058.09,2,Bank transfer,False,Yes
+T11347,Female,False,16,One year,None,46.92,759.07,2,Card,True,No
+T11348,Male,False,37,Month-to-month,DSL,62.36,2379.8,1,Bank transfer,True,No
+T11349,Male,False,58,Two year,None,41.84,2403.03,0,Card,False,No
+T11350,Female,False,30,Two year,Fiber,88.66,2775.23,1,Card,True,No
+T11351,Female,False,19,Month-to-month,None,23.67,455.11,2,Bank transfer,False,No
+T11352,Female,False,39,Month-to-month,DSL,67.92,2591.68,1,Electronic check,True,Yes
+T11353,Male,False,22,One year,None,26.57,570.71,0,Bank transfer,False,No
+T11354,Male,False,70,One year,None,18.0,1235.39,0,Bank transfer,False,No
+T11355,Male,False,13,Month-to-month,Fiber,77.25,1021.37,0,Card,False,No
+T11356,Female,True,9,Month-to-month,None,29.98,263.56,2,Cash,True,No
+T11357,Female,False,14,Month-to-month,DSL,60.25,817.41,0,Card,True,Yes
+T11358,Male,False,68,Two year,DSL,63.86,4311.61,2,Electronic check,True,No
+T11359,Female,False,9,Month-to-month,Fiber,87.16,796.62,2,Electronic check,True,No
+T11360,Female,False,31,One year,DSL,40.6,1287.42,2,Electronic check,False,No
+T11361,Male,False,17,One year,Fiber,77.6,1311.64,1,Bank transfer,False,Yes
+T11362,Male,False,29,Month-to-month,DSL,63.23,1806.43,2,Electronic check,True,No
+T11363,Male,False,14,Month-to-month,Fiber,72.84,988.46,0,Card,False,No
+T11364,Male,False,32,Month-to-month,None,45.99,1461.88,0,Cash,True,No
+T11365,Female,False,20,Month-to-month,DSL,69.1,1394.0,2,Electronic check,False,Yes
+T11366,Female,False,18,Two year,None,40.56,711.4,3,Bank transfer,False,No
+T11367,Female,False,10,Month-to-month,None,18.0,183.93,0,Electronic check,True,Yes
+T11368,Male,False,2,Month-to-month,DSL,65.57,136.06,1,Card,False,No
+T11369,Female,False,35,Month-to-month,DSL,53.76,1866.89,0,Bank transfer,False,No
+T11370,Male,True,33,Month-to-month,DSL,71.48,2314.28,1,Bank transfer,True,Yes
+T11371,Male,False,3,Month-to-month,Fiber,97.08,284.56,2,Cash,True,No
+T11372,Male,False,29,Month-to-month,DSL,61.75,1797.77,1,Cash,False,Yes
+T11373,Female,False,8,Month-to-month,None,35.89,278.25,4,Card,True,No
+T11374,Female,False,25,One year,DSL,66.64,1755.27,0,Card,True,No
+T11375,Male,False,28,Month-to-month,Fiber,91.29,2470.77,1,Bank transfer,True,Yes
+T11376,Female,False,35,One year,Fiber,98.21,3469.43,1,Cash,True,Yes
+T11377,Female,False,8,Month-to-month,DSL,61.67,508.18,3,Card,True,Yes
+T11378,Female,False,36,Two year,DSL,62.74,2313.12,0,Electronic check,True,No
+T11379,Female,False,60,One year,Fiber,73.27,4474.34,1,Bank transfer,True,No
+T11380,Male,False,33,Month-to-month,Fiber,89.84,3057.76,0,Electronic check,True,Yes
+T11381,Male,True,70,Two year,None,43.72,3076.79,1,Electronic check,True,No
+T11382,Female,True,39,Month-to-month,Fiber,83.31,3171.78,0,Card,True,Yes
+T11383,Male,False,3,Month-to-month,Fiber,95.33,298.25,2,Electronic check,False,Yes
+T11384,Female,True,24,Month-to-month,Fiber,101.83,2343.11,1,Electronic check,False,Yes
+T11385,Male,False,40,One year,DSL,72.99,2961.48,1,Electronic check,False,No
+T11386,Male,False,26,Month-to-month,None,40.01,1046.62,1,Cash,True,No
+T11387,Female,True,2,Month-to-month,Fiber,75.41,145.31,0,Cash,False,Yes
+T11388,Female,False,24,Month-to-month,DSL,45.53,1071.3,0,Electronic check,False,No
+T11389,Female,False,15,Two year,Fiber,73.05,1104.47,2,Cash,True,No
+T11390,Male,False,55,Two year,DSL,65.49,3775.2,2,Electronic check,False,No
+T11391,Male,True,35,Month-to-month,DSL,52.2,1834.97,2,Card,True,No
+T11392,Male,False,21,Month-to-month,DSL,69.89,1497.24,1,Card,False,Yes
+T11393,Male,False,20,Month-to-month,DSL,66.15,1344.03,1,Bank transfer,True,No
+T11394,Male,True,63,One year,None,21.7,1318.53,1,Bank transfer,False,No
+T11395,Female,False,36,Month-to-month,DSL,49.99,1711.05,0,Card,True,No
+T11396,Male,False,62,One year,Fiber,100.03,6247.51,1,Card,True,No
+T11397,Male,True,68,One year,None,41.24,2803.26,2,Bank transfer,False,No
+T11398,Male,False,14,One year,Fiber,93.57,1302.36,0,Electronic check,True,Yes
+T11399,Female,False,12,Month-to-month,Fiber,77.99,951.8,1,Electronic check,True,Yes
+T11400,Male,False,59,One year,Fiber,93.24,5367.05,2,Cash,True,No
+T11401,Male,False,32,Two year,DSL,73.54,2316.57,0,Card,True,No
+T11402,Male,False,15,Month-to-month,Fiber,85.42,1266.26,2,Electronic check,False,Yes
+T11403,Female,False,30,Month-to-month,DSL,65.53,1894.56,1,Card,True,No
+T11404,Male,False,33,Month-to-month,Fiber,81.16,2636.77,0,Bank transfer,True,Yes
+T11405,Male,False,30,Month-to-month,Fiber,94.58,2723.57,1,Electronic check,True,Yes
+T11406,Male,False,15,Month-to-month,Fiber,90.68,1404.75,0,Card,True,Yes
+T11407,Male,False,28,Month-to-month,Fiber,105.67,2981.06,2,Electronic check,True,Yes
+T11408,Male,False,4,Month-to-month,DSL,74.3,295.88,0,Electronic check,False,No
+T11409,Male,False,6,Month-to-month,DSL,82.18,506.73,0,Electronic check,True,No
+T11410,Male,False,23,Month-to-month,None,27.23,628.64,1,Electronic check,False,Yes
+T11411,Female,False,22,Two year,DSL,48.31,1088.17,1,Cash,True,No
+T11412,Female,True,2,Month-to-month,Fiber,93.9,187.53,0,Bank transfer,True,Yes
+T11413,Female,False,14,Two year,DSL,47.67,680.61,2,Card,True,No
+T11414,Male,False,22,Month-to-month,DSL,46.77,1051.3,1,Electronic check,True,No
+T11415,Male,False,30,Month-to-month,DSL,73.35,2232.35,4,Bank transfer,True,Yes
+T11416,Female,False,14,One year,Fiber,82.39,1151.55,1,Bank transfer,True,No
+T11417,Male,False,26,Two year,DSL,53.21,1432.68,1,Card,True,Yes
+T11418,Female,False,49,Two year,Fiber,84.93,4033.75,1,Electronic check,True,Yes
+T11419,Female,False,31,Month-to-month,DSL,67.09,2152.32,3,Card,True,No
+T11420,Female,True,2,Month-to-month,Fiber,81.89,160.21,1,Electronic check,True,Yes
+T11421,Male,False,66,One year,DSL,50.1,3481.54,2,Bank transfer,False,No
+T11422,Female,False,4,Month-to-month,None,19.77,77.2,1,Electronic check,True,No
+T11423,Female,False,69,One year,Fiber,74.81,5377.37,1,Electronic check,True,No
+T11424,Male,True,28,Month-to-month,Fiber,85.45,2302.34,1,Card,True,Yes
+T11425,Female,False,26,Month-to-month,Fiber,97.54,2605.88,2,Card,True,No
+T11426,Male,False,8,Two year,None,35.18,292.73,1,Electronic check,True,No
+T11427,Female,True,10,Month-to-month,DSL,52.16,507.8,2,Electronic check,False,Yes
+T11428,Female,False,3,Month-to-month,Fiber,69.15,200.02,0,Cash,False,No
+T11429,Male,True,66,One year,Fiber,75.36,5041.11,3,Cash,True,Yes
+T11430,Female,False,34,Month-to-month,Fiber,82.26,2731.5,1,Electronic check,False,No
+T11431,Female,True,13,Month-to-month,DSL,58.94,789.07,1,Electronic check,True,Yes
+T11432,Male,False,8,Month-to-month,None,33.24,269.69,0,Card,True,No
+T11433,Female,False,34,Two year,DSL,62.49,2077.59,1,Card,True,No
+T11434,Male,False,33,Month-to-month,Fiber,86.04,2753.24,1,Electronic check,False,No
+T11435,Female,False,39,Month-to-month,Fiber,81.65,3061.32,1,Cash,False,No
+T11436,Male,False,39,One year,DSL,55.26,2255.49,3,Electronic check,True,No
+T11437,Male,True,38,One year,Fiber,93.04,3526.79,2,Bank transfer,False,No
+T11438,Female,False,3,Month-to-month,Fiber,81.52,252.78,1,Card,True,No
+T11439,Male,False,11,One year,Fiber,100.14,1074.44,0,Cash,True,Yes
+T11440,Male,False,21,Month-to-month,Fiber,89.23,1866.54,5,Card,False,Yes
+T11441,Female,True,23,Month-to-month,Fiber,96.99,2195.38,2,Bank transfer,True,Yes
+T11442,Male,False,23,Month-to-month,DSL,72.79,1681.72,1,Cash,True,Yes
+T11443,Male,False,8,Month-to-month,None,35.4,280.71,4,Electronic check,False,Yes
+T11444,Male,False,54,One year,Fiber,86.43,4687.97,1,Card,True,No
+T11445,Female,False,7,Month-to-month,Fiber,86.8,606.15,3,Bank transfer,True,Yes
+T11446,Male,True,44,One year,Fiber,82.23,3647.69,1,Bank transfer,True,No
+T11447,Female,False,42,One year,Fiber,91.09,3893.07,1,Bank transfer,True,No
+T11448,Male,False,38,Two year,Fiber,90.59,3410.5,1,Electronic check,False,Yes
+T11449,Female,False,28,Month-to-month,DSL,51.03,1454.69,4,Cash,False,Yes
+T11450,Female,False,26,Month-to-month,Fiber,97.84,2717.85,3,Card,True,Yes
+T11451,Male,False,5,Month-to-month,Fiber,87.75,442.39,3,Electronic check,False,Yes
+T11452,Male,False,24,Two year,Fiber,87.53,2021.7,0,Electronic check,True,No
+T11453,Male,False,33,Month-to-month,DSL,73.57,2468.95,1,Card,True,No
+T11454,Male,False,41,One year,Fiber,91.65,3906.96,3,Electronic check,True,Yes
+T11455,Male,False,60,One year,Fiber,85.96,5231.64,0,Bank transfer,True,No
+T11456,Male,False,15,One year,None,20.11,295.58,1,Card,True,No
+T11457,Female,False,15,Month-to-month,Fiber,64.74,984.59,0,Bank transfer,False,No
+T11458,Female,False,27,One year,None,30.82,848.62,2,Electronic check,True,No
+T11459,Male,False,2,Month-to-month,Fiber,88.82,184.13,1,Cash,True,No
+T11460,Female,False,2,Month-to-month,DSL,58.0,117.96,1,Electronic check,False,No
+T11461,Female,False,1,Month-to-month,None,28.67,27.82,1,Electronic check,True,No
+T11462,Female,False,3,Month-to-month,None,39.56,127.55,0,Electronic check,True,Yes
+T11463,Female,True,33,Month-to-month,Fiber,82.84,2796.69,2,Electronic check,False,Yes
+T11464,Female,True,6,Month-to-month,DSL,60.78,370.44,2,Bank transfer,True,Yes
+T11465,Female,False,68,One year,Fiber,96.29,6109.36,1,Card,False,No
+T11466,Female,False,46,Two year,DSL,66.75,2932.61,0,Bank transfer,False,No
+T11467,Male,False,9,One year,DSL,63.4,595.59,2,Electronic check,True,Yes
+T11468,Male,False,20,One year,DSL,72.97,1463.65,0,Electronic check,True,No
+T11469,Female,True,11,Month-to-month,Fiber,85.66,913.51,0,Bank transfer,True,No
+T11470,Male,False,8,Month-to-month,None,55.57,433.63,1,Electronic check,True,No
+T11471,Male,False,32,Month-to-month,Fiber,88.26,2760.46,0,Card,True,Yes
+T11472,Female,False,8,Month-to-month,Fiber,84.33,711.24,0,Card,True,No
+T11473,Female,False,31,Month-to-month,Fiber,83.55,2627.6,3,Cash,False,Yes
+T11474,Female,False,22,One year,DSL,51.88,1175.95,2,Card,False,No
+T11475,Female,False,12,Month-to-month,DSL,69.71,878.63,0,Card,True,No
+T11476,Female,False,20,Two year,Fiber,92.57,1983.34,1,Card,False,No
+T11477,Male,False,6,One year,Fiber,95.81,540.36,1,Cash,True,No
+T11478,Male,True,28,Month-to-month,None,20.62,606.15,0,Electronic check,False,No
+T11479,Female,False,68,One year,Fiber,99.53,6721.95,0,Electronic check,False,No
+T11480,Male,False,15,Month-to-month,None,40.6,616.47,2,Electronic check,True,Yes
+T11481,Female,False,31,Month-to-month,Fiber,83.6,2597.35,2,Cash,False,No
+T11482,Male,True,26,Month-to-month,Fiber,88.69,2388.03,1,Card,True,No
+T11483,Female,True,7,Month-to-month,Fiber,75.95,525.63,0,Electronic check,True,Yes
+T11484,Female,True,37,Month-to-month,DSL,49.49,1850.15,1,Bank transfer,True,No
+T11485,Female,True,29,Month-to-month,None,29.51,876.17,2,Card,False,No
+T11486,Female,False,21,Month-to-month,Fiber,85.82,1770.4,3,Bank transfer,True,Yes
+T11487,Female,False,6,Month-to-month,Fiber,87.95,530.95,1,Card,False,No
+T11488,Female,False,34,Month-to-month,Fiber,87.27,2915.16,1,Electronic check,False,No
+T11489,Female,False,24,Month-to-month,None,20.82,517.37,1,Electronic check,False,Yes
+T11490,Male,False,40,One year,DSL,58.62,2329.36,0,Electronic check,False,No
+T11491,Male,False,5,Month-to-month,DSL,61.1,313.02,2,Card,True,Yes
+T11492,Female,False,22,Month-to-month,Fiber,82.67,1852.1,1,Cash,True,No
+T11493,Female,False,39,Month-to-month,Fiber,78.69,3129.01,2,Bank transfer,False,No
+T11494,Female,False,29,Month-to-month,DSL,62.84,1838.07,1,Cash,False,No
+T11495,Male,False,33,Month-to-month,Fiber,96.61,3171.13,0,Card,True,No
+T11496,Male,False,10,Two year,DSL,59.82,585.85,1,Card,False,No
+T11497,Female,False,42,One year,None,30.8,1227.35,5,Electronic check,False,No
+T11498,Male,True,3,Month-to-month,Fiber,88.96,271.32,3,Card,False,Yes
+T11499,Male,False,32,Month-to-month,Fiber,101.25,3294.46,3,Bank transfer,True,Yes
+T11500,Female,False,16,Month-to-month,Fiber,75.8,1243.65,2,Electronic check,False,No
+T11501,Female,False,41,Two year,None,27.63,1112.08,0,Bank transfer,True,No
+T11502,Female,False,20,Month-to-month,Fiber,90.46,1769.59,0,Bank transfer,True,Yes
+T11503,Male,True,26,Month-to-month,None,18.0,475.4,0,Electronic check,False,No
+T11504,Female,False,44,Two year,Fiber,84.74,3659.79,0,Electronic check,True,No
+T11505,Female,True,12,Month-to-month,Fiber,82.09,974.96,2,Bank transfer,False,Yes
+T11506,Male,False,28,Month-to-month,DSL,70.76,2024.02,1,Electronic check,False,No
+T11507,Male,True,53,Two year,Fiber,95.66,4863.0,7,Cash,True,No
+T11508,Male,False,17,Month-to-month,Fiber,90.87,1541.61,1,Bank transfer,False,Yes
+T11509,Male,False,45,One year,None,30.19,1430.2,3,Card,True,No
+T11510,Male,False,9,Month-to-month,Fiber,83.99,755.25,0,Card,True,Yes
+T11511,Male,False,48,One year,Fiber,87.67,4150.05,1,Card,True,No
+T11512,Male,True,27,Two year,DSL,50.75,1374.8,1,Card,False,No
+T11513,Female,False,16,One year,Fiber,84.4,1380.75,3,Electronic check,True,No
+T11514,Male,False,35,One year,DSL,64.09,2231.45,0,Card,True,No
+T11515,Female,False,15,Month-to-month,Fiber,96.61,1380.92,3,Electronic check,False,Yes
+T11516,Female,False,14,Month-to-month,DSL,54.65,783.6,5,Electronic check,False,No
+T11517,Female,False,71,One year,DSL,50.49,3537.36,0,Electronic check,True,No
+T11518,Male,True,39,One year,DSL,66.43,2478.66,5,Electronic check,True,Yes
+T11519,Male,False,70,Two year,None,32.62,2232.75,1,Cash,True,No
+T11520,Female,False,43,One year,DSL,71.3,2994.23,2,Bank transfer,True,No
+T11521,Male,False,21,One year,DSL,58.7,1261.13,3,Card,True,No
+T11522,Female,False,34,Month-to-month,DSL,55.38,1906.49,0,Bank transfer,True,No
+T11523,Female,False,66,One year,Fiber,69.9,4371.77,3,Card,False,No
+T11524,Female,False,14,Month-to-month,Fiber,85.04,1184.1,1,Card,True,Yes
+T11525,Male,False,19,Month-to-month,Fiber,76.07,1375.84,2,Card,True,No
+T11526,Male,False,13,Month-to-month,DSL,74.22,1005.43,2,Card,False,No
+T11527,Male,False,4,Month-to-month,Fiber,86.71,350.17,1,Electronic check,True,Yes
+T11528,Male,True,34,Month-to-month,Fiber,108.5,3644.11,0,Cash,True,Yes
+T11529,Male,False,41,Two year,Fiber,93.21,3682.52,0,Bank transfer,False,No
+T11530,Male,False,7,Month-to-month,Fiber,82.2,557.22,3,Electronic check,True,Yes
+T11531,Male,False,13,Two year,DSL,61.74,797.18,1,Card,False,No
+T11532,Male,True,22,One year,DSL,50.8,1077.29,6,Card,True,Yes
+T11533,Male,True,17,Month-to-month,Fiber,67.95,1146.18,1,Bank transfer,True,No
+T11534,Female,True,11,Month-to-month,Fiber,82.59,867.87,2,Bank transfer,True,No
+T11535,Male,False,1,Month-to-month,DSL,54.48,57.53,1,Electronic check,False,No
+T11536,Male,False,29,Month-to-month,DSL,77.04,2346.55,0,Card,True,No
+T11537,Female,True,65,Two year,DSL,71.64,4434.7,1,Card,False,No
+T11538,Male,True,1,Month-to-month,DSL,62.64,62.09,2,Electronic check,True,Yes
+T11539,Female,True,9,Month-to-month,DSL,61.66,552.02,0,Electronic check,True,Yes
+T11540,Male,False,42,Two year,None,31.64,1335.17,1,Card,True,No
+T11541,Female,True,4,Month-to-month,Fiber,76.74,304.25,2,Electronic check,True,Yes
+T11542,Female,True,13,One year,Fiber,75.23,993.83,0,Electronic check,True,Yes
+T11543,Female,True,24,One year,DSL,55.34,1278.04,3,Electronic check,True,No
+T11544,Male,False,11,One year,DSL,54.27,608.55,2,Card,True,Yes
+T11545,Female,True,4,Month-to-month,Fiber,80.76,333.67,3,Card,False,Yes
+T11546,Male,True,4,Month-to-month,None,41.8,166.69,1,Electronic check,True,Yes
+T11547,Male,False,62,One year,DSL,73.55,4522.88,2,Bank transfer,True,No
+T11548,Female,True,16,One year,DSL,51.01,813.71,2,Electronic check,False,Yes
+T11549,Female,False,10,Month-to-month,None,39.08,403.49,2,Electronic check,False,Yes
+T11550,Female,True,20,Month-to-month,Fiber,85.87,1685.25,2,Card,True,Yes
+T11551,Female,False,71,Two year,DSL,57.94,4291.04,1,Card,True,No
+T11552,Female,True,23,Month-to-month,None,39.08,910.64,4,Electronic check,True,Yes
+T11553,Male,True,5,Month-to-month,None,29.38,152.13,2,Bank transfer,False,No
+T11554,Male,False,27,Two year,None,39.27,1054.52,0,Bank transfer,True,No
+T11555,Male,True,26,Two year,None,36.64,943.83,1,Bank transfer,True,Yes
+T11556,Female,False,26,Month-to-month,None,18.87,529.43,2,Bank transfer,True,No
+T11557,Male,False,1,Month-to-month,None,31.32,32.09,1,Electronic check,False,No
+T11558,Male,False,21,Month-to-month,Fiber,83.93,1671.5,0,Bank transfer,True,No
+T11559,Male,True,8,One year,DSL,63.89,,0,Card,True,No
+T11560,Female,False,36,Month-to-month,Fiber,69.56,2660.26,2,Card,False,No
+T11561,Female,False,35,Two year,DSL,63.3,2214.1,0,Card,False,No
+T11562,Female,False,44,One year,Fiber,80.53,3635.41,2,Bank transfer,True,No
+T11563,Female,False,26,Month-to-month,Fiber,90.3,2230.25,1,Bank transfer,True,No
+T11564,Female,False,16,One year,DSL,63.96,1032.52,0,Cash,False,No
+T11565,Female,True,31,One year,Fiber,72.28,2261.1,1,Bank transfer,False,No
+T11566,Female,False,59,Two year,DSL,62.55,3645.86,0,Electronic check,False,No
+T11567,Male,False,13,Two year,Fiber,98.71,1299.53,0,Card,False,No
+T11568,Female,False,12,Month-to-month,Fiber,82.46,1042.72,2,Electronic check,False,No
+T11569,Female,False,11,One year,Fiber,88.73,940.39,0,Bank transfer,False,No
+T11570,Male,False,15,Month-to-month,DSL,59.95,902.88,2,Card,False,Yes
+T11571,Female,False,31,Month-to-month,Fiber,73.05,2123.7,2,Bank transfer,True,No
+T11572,Female,True,14,Month-to-month,None,40.01,550.22,1,Electronic check,True,Yes
+T11573,Female,False,16,Month-to-month,DSL,49.3,828.55,1,Bank transfer,True,No
+T11574,Male,False,8,Month-to-month,Fiber,93.26,747.05,1,Card,False,Yes
+T11575,Female,False,6,One year,DSL,67.95,404.77,1,Bank transfer,True,No
+T11576,Male,True,54,Two year,DSL,44.97,2566.88,2,Electronic check,True,No
+T11577,Female,True,27,Month-to-month,None,40.75,1071.11,6,Bank transfer,True,No
+T11578,Female,False,26,Month-to-month,Fiber,83.51,2133.5,1,Electronic check,False,Yes
+T11579,Female,True,27,Month-to-month,DSL,74.16,2012.03,2,Electronic check,True,No
+T11580,Female,True,29,Two year,Fiber,88.17,2650.62,2,Electronic check,True,No
+T11581,Male,False,50,Two year,None,34.64,1832.33,1,Electronic check,False,No
+T11582,Male,False,53,Two year,Fiber,77.41,3914.87,0,Electronic check,False,No
+T11583,Male,False,69,One year,Fiber,84.65,5622.08,1,Electronic check,True,Yes
+T11584,Male,False,16,Month-to-month,Fiber,92.42,1456.48,0,Bank transfer,False,No
+T11585,Female,False,32,One year,DSL,65.53,2176.04,2,Electronic check,False,No
+T11586,Male,True,53,Two year,Fiber,81.01,4309.53,0,Electronic check,False,No
+T11587,Male,False,40,Two year,DSL,69.65,2596.64,2,Bank transfer,False,No
+T11588,Female,False,50,One year,None,36.3,1854.92,1,Electronic check,True,No
+T11589,Male,False,36,Month-to-month,DSL,60.09,2049.47,2,Electronic check,False,No
+T11590,Female,False,59,Two year,Fiber,72.27,4194.19,1,Electronic check,False,No
+T11591,Male,False,23,One year,DSL,58.67,1327.53,1,Card,True,Yes
+T11592,Male,False,16,Month-to-month,DSL,64.33,1010.65,1,Bank transfer,True,No
+T11593,Male,True,11,Month-to-month,Fiber,86.48,970.27,0,Bank transfer,True,Yes
+T11594,Female,False,6,Two year,DSL,77.43,460.53,4,Electronic check,True,No
+T11595,Male,False,30,Month-to-month,None,36.99,1075.18,0,Card,False,No
+T11596,Male,False,28,Month-to-month,None,34.16,947.61,1,Bank transfer,False,No
+T11597,Female,False,2,Month-to-month,Fiber,82.61,157.54,1,Electronic check,False,Yes
+T11598,Female,False,48,One year,Fiber,73.8,3250.82,5,Cash,False,No
+T11599,Male,False,32,Month-to-month,None,23.64,779.57,0,Bank transfer,True,No
+T11600,Male,True,31,Month-to-month,DSL,59.2,1906.73,0,Bank transfer,True,No
+T11601,Female,False,14,Month-to-month,Fiber,86.45,1245.87,1,Electronic check,False,Yes
+T11602,Female,True,28,One year,Fiber,94.82,2613.18,1,Electronic check,True,Yes
+T11603,Male,False,23,Two year,None,31.85,719.41,0,Card,True,No
+T11604,Male,False,16,One year,DSL,52.2,778.1,1,Card,True,Yes
+T11605,Male,False,38,Month-to-month,Fiber,75.51,2713.84,5,Bank transfer,False,Yes
+T11606,Female,False,28,Month-to-month,DSL,57.17,1593.85,0,Cash,True,Yes
+T11607,Male,False,26,Two year,Fiber,70.85,1794.52,1,Electronic check,True,No
+T11608,Male,False,13,Month-to-month,None,24.82,336.08,1,Bank transfer,True,No
+T11609,Male,False,26,Month-to-month,None,42.36,1137.3,1,Cash,False,No
+T11610,Female,False,36,Month-to-month,Fiber,89.15,3166.12,0,Bank transfer,True,Yes
+T11611,Female,False,10,Month-to-month,Fiber,88.82,899.4,0,Card,False,Yes
+T11612,Male,False,53,Two year,Fiber,77.91,4263.58,1,Electronic check,True,Yes
+T11613,Female,False,54,One year,Fiber,75.4,4163.26,1,Cash,True,No
+T11614,Male,False,24,One year,Fiber,100.65,2377.56,1,Bank transfer,True,No
+T11615,Male,False,32,Two year,Fiber,92.63,3100.69,0,Card,True,No
+T11616,Female,False,18,Two year,DSL,66.47,1219.37,0,Bank transfer,False,No
+T11617,Male,True,13,One year,DSL,65.8,884.42,0,Cash,False,No
+T11618,Female,False,33,One year,Fiber,85.47,2781.96,1,Electronic check,False,Yes
+T11619,Male,False,67,One year,Fiber,94.46,6378.65,1,Card,False,No
+T11620,Male,False,38,Month-to-month,Fiber,76.0,2726.89,0,Bank transfer,True,No
+T11621,Male,False,52,One year,DSL,63.39,3098.09,1,Cash,True,No
+T11622,Male,False,65,One year,DSL,64.63,4242.33,2,Bank transfer,False,No
+T11623,Female,False,37,Month-to-month,Fiber,99.66,3655.15,0,Cash,True,No
+T11624,Female,False,32,Two year,Fiber,74.59,2420.79,0,Electronic check,False,No
+T11625,Male,False,23,Two year,DSL,60.33,1452.01,0,Card,True,No
+T11626,Male,False,17,Two year,DSL,62.62,1078.31,1,Bank transfer,False,No
+T11627,Male,True,50,One year,DSL,82.81,4095.95,4,Card,False,No
+T11628,Female,True,28,Month-to-month,Fiber,88.96,2431.11,2,Card,True,Yes
+T11629,Male,False,39,Month-to-month,Fiber,86.8,3446.43,0,Cash,False,No
+T11630,Female,False,15,Month-to-month,Fiber,83.94,1245.56,1,Cash,False,Yes
+T11631,Female,False,30,One year,Fiber,111.39,3377.92,1,Bank transfer,True,No
+T11632,Female,True,36,Month-to-month,Fiber,78.57,2710.93,2,Cash,False,Yes
+T11633,Male,False,43,One year,None,37.34,1656.26,3,Electronic check,False,No
+T11634,Female,True,7,Month-to-month,DSL,66.95,426.05,2,Cash,True,Yes
+T11635,Female,False,16,Month-to-month,Fiber,86.31,1339.68,1,Electronic check,True,No
+T11636,Female,False,7,Month-to-month,Fiber,87.8,574.11,1,Bank transfer,False,No
+T11637,Female,False,23,Two year,Fiber,72.09,1622.46,1,Bank transfer,True,Yes
+T11638,Female,False,29,Month-to-month,DSL,58.11,1723.68,1,Bank transfer,True,Yes
+T11639,Female,False,33,Month-to-month,Fiber,68.55,2265.89,1,Electronic check,False,Yes
+T11640,Male,False,15,Month-to-month,Fiber,84.77,1242.71,2,Card,True,Yes
+T11641,Female,False,70,One year,Fiber,90.89,6328.73,3,Electronic check,True,No
+T11642,Female,False,12,Two year,None,42.62,500.9,1,Cash,True,No
+T11643,Male,False,17,Month-to-month,Fiber,91.13,1545.26,1,Electronic check,False,Yes
+T11644,Male,False,16,Month-to-month,Fiber,89.79,1457.46,2,Card,True,Yes
+T11645,Male,True,27,One year,DSL,71.63,1993.29,0,Electronic check,True,No
+T11646,Female,False,36,Month-to-month,None,29.15,1026.05,2,Bank transfer,True,No
+T11647,Male,False,23,Month-to-month,DSL,42.41,1012.69,4,Card,False,Yes
+T11648,Female,False,1,Month-to-month,Fiber,98.77,96.31,3,Card,True,Yes
+T11649,Male,False,8,Month-to-month,DSL,67.86,502.55,3,Cash,True,No
+T11650,Female,False,17,Month-to-month,DSL,68.49,1177.6,0,Electronic check,True,No
+T11651,Male,False,36,Month-to-month,Fiber,69.46,2613.01,1,Card,True,Yes
+T11652,Female,False,27,Two year,Fiber,69.34,1994.84,2,Bank transfer,False,No
+T11653,Male,False,69,Two year,Fiber,74.69,4836.23,1,Card,True,No
+T11654,Male,False,13,Month-to-month,Fiber,90.58,1173.04,2,Electronic check,True,Yes
+T11655,Male,False,6,One year,Fiber,62.98,374.4,5,Bank transfer,True,Yes
+T11656,Female,False,31,Month-to-month,DSL,58.74,1726.38,2,Electronic check,True,No
+T11657,Male,False,5,Month-to-month,None,32.93,173.76,2,Electronic check,True,No
+T11658,Male,False,2,Month-to-month,Fiber,81.43,164.82,1,Cash,True,Yes
+T11659,Male,False,58,Two year,None,28.58,1566.96,2,Electronic check,True,No
+T11660,Female,False,3,Month-to-month,Fiber,87.63,262.84,1,Bank transfer,True,No
+T11661,Male,False,57,One year,Fiber,73.77,4005.0,2,Electronic check,True,No
+T11662,Female,False,4,Month-to-month,Fiber,75.11,274.97,1,Bank transfer,False,No
+T11663,Male,False,71,Two year,DSL,60.93,4358.28,1,Electronic check,False,No
+T11664,Female,False,39,Month-to-month,Fiber,77.2,2881.67,1,Electronic check,True,No
+T11665,Female,False,25,Month-to-month,DSL,80.04,1940.56,1,Card,False,No
+T11666,Male,False,1,Month-to-month,DSL,59.89,60.97,2,Bank transfer,True,Yes
+T11667,Female,True,37,Two year,Fiber,96.85,3526.0,0,Electronic check,True,No
+T11668,Male,False,4,Month-to-month,None,26.29,104.84,1,Electronic check,False,Yes
+T11669,Male,False,36,Month-to-month,DSL,54.16,1890.28,0,Bank transfer,False,No
+T11670,Female,True,20,Month-to-month,DSL,60.3,1211.5,2,Electronic check,True,No
+T11671,Female,True,1,Month-to-month,DSL,63.29,65.35,0,Card,True,No
+T11672,Male,False,16,Month-to-month,DSL,68.54,1120.22,1,Card,True,Yes
+T11673,Male,False,11,Two year,None,19.26,206.1,3,Card,True,No
+T11674,Male,False,19,Month-to-month,Fiber,87.66,1695.56,0,Electronic check,True,No
+T11675,Female,True,15,Two year,Fiber,73.02,1099.58,2,Electronic check,True,No
+T11676,Female,False,14,Month-to-month,DSL,53.37,733.45,1,Electronic check,False,No
+T11677,Female,False,42,Two year,DSL,48.97,2074.95,1,Cash,False,No
+T11678,Male,True,5,Month-to-month,Fiber,86.4,434.03,1,Card,False,Yes
+T11679,Male,False,2,Month-to-month,None,31.28,61.59,2,Cash,True,No
+T11680,Male,False,28,Month-to-month,DSL,61.97,1696.59,2,Electronic check,False,No
+T11681,Female,False,16,Month-to-month,None,43.92,707.79,0,Electronic check,False,No
+T11682,Female,False,7,Month-to-month,Fiber,80.19,554.39,0,Card,False,Yes
+T11683,Female,True,47,Two year,None,23.95,1132.9,0,Electronic check,True,No
+T11684,Female,False,6,Month-to-month,DSL,63.79,375.45,4,Card,False,No
+T11685,Female,False,7,Month-to-month,Fiber,81.03,551.97,1,Bank transfer,True,Yes
+T11686,Male,True,39,Two year,Fiber,83.97,3195.71,0,Bank transfer,True,No
+T11687,Female,False,32,Month-to-month,Fiber,79.98,2606.37,1,Cash,True,No
+T11688,Female,False,34,Month-to-month,Fiber,76.07,2475.16,2,Card,False,No
+T11689,Male,False,38,Two year,Fiber,81.75,3120.2,1,Cash,True,No
+T11690,Female,False,14,Month-to-month,DSL,62.06,852.23,3,Bank transfer,True,No
+T11691,Male,False,18,Month-to-month,Fiber,97.75,1660.01,2,Bank transfer,False,Yes
+T11692,Male,False,58,Two year,Fiber,93.78,5498.84,0,Electronic check,True,No
+T11693,Female,False,15,Month-to-month,Fiber,78.48,1251.75,1,Card,True,Yes
+T11694,Male,False,39,Month-to-month,DSL,58.61,2175.93,1,Card,False,Yes
+T11695,Male,False,11,Two year,None,24.11,255.15,0,Bank transfer,True,No
+T11696,Male,True,23,Month-to-month,DSL,67.63,1468.59,0,Cash,False,Yes
+T11697,Male,False,43,Two year,Fiber,66.11,2873.96,2,Electronic check,True,No
+T11698,Female,False,34,Month-to-month,Fiber,79.27,2611.16,1,Bank transfer,False,No
+T11699,Male,False,18,Two year,DSL,66.62,1227.62,0,Electronic check,True,No
+T11700,Male,False,48,One year,DSL,49.39,2316.74,0,Card,True,No
+T11701,Male,False,21,Two year,DSL,77.93,1676.34,0,Electronic check,False,No
+T11702,Female,False,11,Two year,Fiber,58.18,579.89,3,Card,False,No
+T11703,Male,True,24,Month-to-month,None,18.0,410.63,2,Electronic check,True,Yes
+T11704,Female,False,6,One year,Fiber,83.69,511.66,1,Bank transfer,False,No
+T11705,Male,False,44,Two year,Fiber,87.81,3889.15,3,Electronic check,False,Yes
+T11706,Female,False,20,Month-to-month,DSL,60.81,1214.25,3,Bank transfer,True,Yes
+T11707,Male,False,39,Month-to-month,Fiber,70.69,2805.54,1,Card,True,No
+T11708,Male,False,9,Month-to-month,Fiber,93.5,851.75,0,Cash,True,No
+T11709,Male,False,27,Month-to-month,DSL,60.53,1665.12,2,Bank transfer,False,No
+T11710,Female,False,50,Two year,Fiber,83.28,4216.26,1,Electronic check,True,No
+T11711,Male,True,39,Month-to-month,Fiber,95.13,3652.19,3,Bank transfer,True,Yes
+T11712,Male,False,28,One year,Fiber,87.76,2514.65,3,Card,True,Yes
+T11713,Male,False,22,One year,Fiber,95.77,1971.87,1,Bank transfer,True,No
+T11714,Female,True,26,One year,Fiber,87.92,2286.89,1,Bank transfer,True,No
+T11715,Female,False,26,Month-to-month,DSL,47.48,1199.71,0,Card,True,No
+T11716,Male,False,38,Month-to-month,None,22.44,880.24,0,Electronic check,True,No
+T11717,Female,False,32,Month-to-month,Fiber,88.99,2940.16,4,Electronic check,True,No
+T11718,Female,False,54,Two year,DSL,45.36,2309.24,2,Card,False,No
+T11719,Female,False,14,Two year,Fiber,86.24,1196.83,0,Electronic check,False,No
+T11720,Female,True,19,One year,Fiber,97.84,1886.84,0,Electronic check,True,No
+T11721,Female,False,6,Month-to-month,Fiber,75.31,454.91,2,Card,True,Yes
+T11722,Female,True,32,One year,None,37.72,1203.11,1,Card,True,Yes
+T11723,Female,False,34,One year,Fiber,82.49,2783.4,0,Card,False,No
+T11724,Male,False,23,Month-to-month,None,33.08,775.45,1,Electronic check,False,No
+T11725,Male,False,9,One year,Fiber,82.48,748.44,4,Cash,True,No
+T11726,Female,False,19,Month-to-month,DSL,60.47,1146.38,3,Electronic check,True,No
+T11727,Female,False,24,Month-to-month,DSL,61.21,1472.41,0,Bank transfer,True,No
+T11728,Male,False,63,Two year,DSL,52.16,3295.99,1,Electronic check,True,No
+T11729,Male,False,33,Month-to-month,Fiber,75.77,2506.61,1,Card,True,No
+T11730,Female,False,26,Month-to-month,Fiber,83.6,2108.68,0,Electronic check,True,Yes
+T11731,Male,False,37,Month-to-month,None,32.61,1237.18,2,Card,True,No
+T11732,Male,False,29,Two year,Fiber,65.58,1926.52,3,Electronic check,True,No
+T11733,Male,False,35,Month-to-month,Fiber,68.33,2454.75,3,Cash,False,Yes
+T11734,Male,False,34,Two year,DSL,62.31,2152.52,1,Bank transfer,True,No
+T11735,Female,False,31,Month-to-month,Fiber,81.45,2413.88,3,Bank transfer,True,Yes
+T11736,Male,True,46,One year,None,31.71,1406.09,1,Electronic check,True,No
+T11737,Female,False,33,Two year,Fiber,71.26,2445.53,0,Electronic check,True,Yes
+T11738,Female,False,26,Two year,DSL,74.28,1908.08,0,Bank transfer,False,No
+T11739,Male,False,21,Month-to-month,None,38.97,829.54,0,Card,True,Yes
+T11740,Female,False,55,Two year,DSL,60.97,3345.54,3,Bank transfer,True,No
+T11741,Female,False,64,One year,Fiber,83.98,5515.55,0,Cash,True,No
+T11742,Male,False,71,One year,Fiber,80.25,5757.92,1,Electronic check,False,No
+T11743,Female,False,27,Month-to-month,None,39.77,1055.86,2,Cash,True,No
+T11744,Female,False,39,One year,DSL,48.26,1857.36,1,Card,False,No
+T11745,Female,False,21,Month-to-month,DSL,48.6,999.77,1,Card,True,No
+T11746,Male,False,28,Month-to-month,Fiber,97.95,2542.5,4,Cash,True,No
+T11747,Female,False,71,One year,Fiber,97.91,6927.67,2,Bank transfer,True,No
+T11748,Female,False,34,Month-to-month,Fiber,89.91,2983.89,1,Card,True,Yes
+T11749,Male,False,32,Month-to-month,None,29.62,900.35,1,Card,True,Yes
+T11750,Male,False,25,Month-to-month,Fiber,107.49,2867.85,1,Cash,False,Yes
+T11751,Male,True,12,Month-to-month,None,29.61,339.02,0,Bank transfer,True,No
+T11752,Male,False,15,Month-to-month,None,32.12,463.41,2,Electronic check,False,Yes
+T11753,Male,False,55,One year,DSL,82.31,4480.4,0,Electronic check,True,No
+T11754,Male,True,50,One year,Fiber,85.97,4260.64,2,Electronic check,False,Yes
+T11755,Female,False,24,Month-to-month,DSL,58.28,1352.98,2,Electronic check,False,No
+T11756,Female,False,4,Month-to-month,DSL,66.74,258.99,3,Card,True,Yes
+T11757,Male,False,4,Month-to-month,DSL,66.06,268.26,0,Bank transfer,False,No
+T11758,Male,False,27,Month-to-month,Fiber,67.51,1801.54,1,Card,False,No
+T11759,Male,False,17,Two year,DSL,61.13,1001.14,1,Cash,True,No
+T11760,Male,True,8,Month-to-month,DSL,61.27,481.29,1,Bank transfer,True,No
+T11761,Female,False,39,Month-to-month,Fiber,103.95,4203.08,0,Card,True,No
+T11762,Male,True,25,Month-to-month,None,23.68,625.63,1,Bank transfer,True,No
+T11763,Male,False,28,Month-to-month,Fiber,85.54,2430.2,0,Electronic check,False,No
+T11764,Female,True,51,Two year,Fiber,85.17,4292.13,1,Cash,True,No
+T11765,Male,False,18,One year,Fiber,84.42,1482.6,1,Electronic check,True,No
+T11766,Female,False,66,One year,Fiber,69.93,4563.13,1,Cash,True,No
+T11767,Female,False,20,One year,Fiber,91.52,1830.56,3,Cash,True,Yes
+T11768,Male,False,44,One year,Fiber,91.7,4168.17,2,Card,True,No
+T11769,Male,False,37,Month-to-month,None,28.42,1020.99,1,Bank transfer,False,Yes
+T11770,Male,True,7,Month-to-month,DSL,45.55,324.19,3,Bank transfer,True,Yes
+T11771,Male,False,21,One year,DSL,56.93,1237.5,4,Electronic check,True,No
+T11772,Male,True,9,One year,Fiber,97.66,888.88,2,Cash,True,Yes
+T11773,Female,False,18,Month-to-month,Fiber,91.14,1628.34,3,Electronic check,True,Yes
+T11774,Female,False,53,Two year,DSL,41.79,2211.53,2,Electronic check,True,No
+T11775,Male,False,20,Month-to-month,Fiber,91.43,1777.28,1,Electronic check,True,Yes
+T11776,Male,False,34,Month-to-month,None,29.51,1015.76,2,Electronic check,True,No
+T11777,Female,True,53,One year,Fiber,79.75,4353.39,1,Bank transfer,True,No
+T11778,Male,False,47,One year,Fiber,85.86,3972.16,0,Electronic check,True,No
+T11779,Male,False,9,Two year,Fiber,83.12,786.95,1,Bank transfer,False,No
+T11780,Female,False,12,Month-to-month,Fiber,97.98,1198.71,0,Electronic check,True,No
+T11781,Male,True,4,Month-to-month,DSL,52.59,217.61,1,Cash,False,Yes
+T11782,Male,False,23,Month-to-month,DSL,54.27,1286.59,3,Electronic check,True,Yes
+T11783,Male,False,15,Month-to-month,DSL,54.26,844.81,2,Card,True,Yes
+T11784,Female,False,26,One year,None,22.58,606.46,2,Electronic check,False,No
+T11785,Female,False,27,One year,Fiber,87.28,2353.27,0,Bank transfer,False,No
+T11786,Male,False,31,Two year,Fiber,96.06,3132.86,1,Card,True,No
+T11787,Male,True,39,One year,DSL,68.93,2673.36,0,Bank transfer,True,No
+T11788,Female,False,43,Two year,DSL,68.63,2947.11,4,Bank transfer,True,No
+T11789,Male,False,64,Two year,Fiber,78.02,5236.6,3,Card,False,No
+T11790,Male,False,15,Two year,Fiber,77.7,1205.72,1,Card,True,No
+T11791,Male,False,2,Month-to-month,Fiber,77.59,149.52,2,Cash,True,Yes
+T11792,Male,False,9,Month-to-month,Fiber,81.78,761.96,1,Electronic check,True,Yes
+T11793,Male,False,30,Two year,Fiber,86.85,2525.58,1,Electronic check,False,No
+T11794,Male,False,37,One year,DSL,54.47,2031.82,1,Bank transfer,True,No
+T11795,Male,True,19,Month-to-month,DSL,67.82,1271.02,1,Electronic check,True,Yes
+T11796,Female,False,19,Month-to-month,Fiber,82.61,1529.98,0,Card,True,Yes
+T11797,Female,False,57,One year,Fiber,89.97,5038.6,1,Cash,False,No
+T11798,Female,False,10,Month-to-month,DSL,40.45,366.7,1,Bank transfer,False,Yes
+T11799,Female,False,20,Month-to-month,Fiber,79.18,1577.17,2,Cash,True,Yes
+T11800,Female,False,59,One year,None,30.07,1774.55,2,Electronic check,False,No
+T11801,Female,False,3,Month-to-month,DSL,66.42,193.07,2,Electronic check,False,No
+T11802,Male,False,22,Month-to-month,Fiber,89.44,1981.55,0,Card,True,Yes
+T11803,Female,False,25,Two year,Fiber,82.04,2072.19,2,Bank transfer,False,No
+T11804,Female,False,11,Month-to-month,DSL,61.46,710.39,0,Card,False,No
+T11805,Female,False,6,Month-to-month,None,23.26,148.06,2,Bank transfer,False,Yes
+T11806,Female,False,18,Month-to-month,Fiber,86.11,1533.39,0,Electronic check,False,Yes
+T11807,Female,True,49,One year,DSL,74.31,3755.75,1,Card,False,No
+T11808,Male,False,30,Month-to-month,Fiber,89.87,2644.85,1,Electronic check,True,Yes
+T11809,Female,True,63,One year,Fiber,92.08,5859.33,1,Electronic check,False,No
+T11810,Female,False,66,Two year,DSL,59.64,3956.62,1,Card,True,No
+T11811,Male,False,38,Month-to-month,Fiber,80.85,3280.46,0,Cash,False,No
+T11812,Female,False,16,Month-to-month,DSL,49.43,814.78,1,Card,False,Yes
+T11813,Female,False,56,One year,DSL,59.18,3187.71,1,Card,True,No
+T11814,Female,False,52,One year,Fiber,86.99,4336.31,1,Bank transfer,True,No
+T11815,Male,True,7,One year,Fiber,92.48,687.95,0,Bank transfer,False,No
+T11816,Male,True,9,Month-to-month,Fiber,80.42,699.2,4,Electronic check,False,Yes
+T11817,Female,False,16,Month-to-month,Fiber,86.37,1389.96,0,Cash,False,No
+T11818,Female,True,16,Month-to-month,Fiber,87.87,1423.5,2,Bank transfer,True,No
+T11819,Female,False,22,Two year,Fiber,63.46,1363.27,3,Bank transfer,False,No
+T11820,Female,False,66,Two year,Fiber,90.97,6210.53,0,Electronic check,True,No
+T11821,Male,False,38,One year,Fiber,87.32,3426.98,1,Card,True,No
+T11822,Male,False,25,Month-to-month,DSL,65.04,1630.84,0,Electronic check,True,No
+T11823,Female,False,11,Month-to-month,DSL,59.23,633.66,3,Bank transfer,True,No
+T11824,Male,False,69,Two year,Fiber,88.87,5912.68,1,Card,False,No
+T11825,Male,True,27,Month-to-month,DSL,47.07,1260.34,1,Card,False,No
+T11826,Female,False,11,One year,None,22.14,230.95,0,Card,True,Yes
+T11827,Male,False,38,Month-to-month,None,45.92,1711.19,0,Cash,True,No
+T11828,Male,False,27,Month-to-month,DSL,61.31,1587.46,0,Electronic check,True,No
+T11829,Female,False,13,Month-to-month,Fiber,82.36,1089.66,2,Card,False,Yes
+T11830,Female,False,17,Month-to-month,DSL,57.53,1010.31,2,Card,False,Yes
+T11831,Female,False,38,Month-to-month,DSL,82.06,3196.61,0,Electronic check,True,Yes
+T11832,Male,False,58,Two year,None,43.18,2653.39,3,Bank transfer,True,No
+T11833,Female,False,6,Month-to-month,DSL,71.59,407.75,1,Cash,True,No
+T11834,Female,True,20,Month-to-month,DSL,47.41,910.23,2,Card,True,No
+T11835,Male,False,13,Month-to-month,None,35.42,456.47,0,Bank transfer,True,No
+T11836,Male,True,14,Month-to-month,Fiber,80.21,1086.66,2,Electronic check,True,Yes
+T11837,Female,False,31,One year,None,29.23,915.49,1,Card,True,No
+T11838,Male,False,38,Month-to-month,DSL,75.4,2817.95,4,Cash,False,Yes
+T11839,Female,False,20,Month-to-month,None,35.25,743.2,1,Cash,True,No
+T11840,Female,False,20,Month-to-month,DSL,48.78,969.88,4,Cash,True,Yes
+T11841,Male,False,12,One year,DSL,66.06,761.32,0,Card,False,No
+T11842,Female,True,12,Two year,DSL,79.14,953.96,0,Card,True,No
+T11843,Female,True,26,One year,None,37.32,1015.07,1,Bank transfer,False,No
+T11844,Female,False,38,Month-to-month,DSL,61.81,2398.33,0,Bank transfer,True,No
+T11845,Male,False,9,Month-to-month,Fiber,85.73,787.98,2,Card,True,No
+T11846,Female,False,8,Month-to-month,None,39.23,314.11,1,Electronic check,False,No
+T11847,Female,False,60,One year,DSL,60.21,3648.87,1,Bank transfer,True,No
+T11848,Female,True,46,Two year,Fiber,84.44,3749.6,1,Electronic check,False,No
+T11849,Female,False,12,Month-to-month,DSL,81.24,924.29,1,Cash,True,No
+T11850,Female,False,7,Month-to-month,DSL,56.21,395.37,2,Card,True,No
+T11851,Female,False,51,One year,Fiber,79.03,4118.03,0,Electronic check,False,No
+T11852,Female,False,35,Month-to-month,DSL,54.85,1852.21,1,Bank transfer,False,Yes
+T11853,Female,False,34,Month-to-month,DSL,49.84,1646.09,0,Cash,True,No
+T11854,Male,False,62,One year,DSL,58.94,3572.99,2,Electronic check,True,No
+T11855,Male,False,3,Month-to-month,Fiber,75.0,214.16,0,Cash,True,No
+T11856,Female,False,17,Month-to-month,None,32.09,516.31,1,Electronic check,True,Yes
+T11857,Female,False,47,One year,DSL,63.67,2951.19,0,Card,False,No
+T11858,Female,False,30,Month-to-month,DSL,73.66,2278.17,4,Electronic check,True,Yes
+T11859,Male,False,41,One year,None,32.33,1380.42,1,Card,False,No
+T11860,Male,False,35,One year,Fiber,81.33,2763.35,0,Bank transfer,True,No
+T11861,Female,True,16,Month-to-month,Fiber,77.84,1222.26,1,Electronic check,True,Yes
+T11862,Female,True,5,Month-to-month,Fiber,69.28,346.68,1,Bank transfer,True,Yes
+T11863,Male,False,29,Month-to-month,Fiber,89.41,2663.21,1,Card,False,No
+T11864,Female,False,34,Month-to-month,Fiber,84.67,2755.23,1,Card,True,Yes
+T11865,Female,False,39,One year,Fiber,91.1,3612.85,1,Cash,True,No
+T11866,Male,False,30,Two year,DSL,74.83,2220.13,1,Bank transfer,False,No
+T11867,Male,False,4,Month-to-month,Fiber,89.92,350.46,3,Card,False,Yes
+T11868,Female,False,8,Month-to-month,None,45.57,358.46,0,Cash,False,Yes
+T11869,Female,False,38,Month-to-month,Fiber,94.96,3457.21,2,Card,False,No
+T11870,Male,False,8,Month-to-month,Fiber,73.88,585.85,1,Cash,True,No
+T11871,Female,False,19,Month-to-month,Fiber,88.31,1642.02,4,Card,True,Yes
+T11872,Male,False,9,Month-to-month,Fiber,86.91,755.51,2,Bank transfer,True,Yes
+T11873,Female,False,9,Month-to-month,DSL,42.15,379.96,1,Card,False,Yes
+T11874,Male,False,14,Month-to-month,Fiber,79.22,1092.19,1,Electronic check,False,Yes
+T11875,Male,True,32,One year,DSL,57.98,1869.21,0,Card,True,No
+T11876,Male,False,65,Two year,Fiber,77.92,5216.99,1,Cash,True,No
+T11877,Male,False,69,One year,Fiber,89.21,6035.56,3,Cash,True,No
+T11878,Female,False,9,Month-to-month,Fiber,80.64,696.02,2,Cash,False,Yes
+T11879,Male,False,22,Month-to-month,None,26.76,576.39,1,Electronic check,False,No
+T11880,Male,False,24,Month-to-month,DSL,61.85,1495.15,0,Bank transfer,True,No
+T11881,Female,False,32,Two year,Fiber,91.1,2872.11,2,Electronic check,True,No
+T11882,Male,True,63,One year,None,25.92,1622.15,0,Cash,True,No
+T11883,Female,False,6,Month-to-month,DSL,67.68,388.72,0,Card,False,Yes
+T11884,Male,False,14,Two year,Fiber,80.52,1141.69,1,Bank transfer,True,No
+T11885,Male,False,26,Month-to-month,DSL,62.6,1643.19,0,Bank transfer,False,No
+T11886,Female,False,10,One year,DSL,50.0,523.91,2,Bank transfer,False,Yes
+T11887,Female,False,20,Two year,Fiber,87.49,1670.89,0,Cash,True,No
+T11888,Male,False,43,One year,Fiber,81.83,3321.05,0,Bank transfer,False,No
+T11889,Male,False,22,Month-to-month,None,28.04,648.93,1,Electronic check,False,No
+T11890,Female,True,28,Month-to-month,Fiber,77.34,2135.13,1,Electronic check,True,No
+T11891,Male,False,38,Month-to-month,None,42.0,1557.53,1,Cash,False,No
+T11892,Female,False,60,One year,Fiber,72.96,4297.8,1,Electronic check,False,No
+T11893,Male,False,57,Two year,Fiber,95.81,5246.09,2,Electronic check,True,No
+T11894,Male,False,33,Month-to-month,Fiber,74.04,2459.23,0,Card,False,No
+T11895,Female,False,40,One year,None,28.0,1163.62,1,Bank transfer,True,No
+T11896,Female,False,1,Month-to-month,Fiber,86.31,86.59,0,Card,False,No
+T11897,Male,False,3,Month-to-month,DSL,58.17,168.0,0,Electronic check,True,Yes
+T11898,Female,True,71,One year,Fiber,95.68,6924.62,0,Electronic check,True,Yes
+T11899,Female,True,56,Two year,Fiber,70.84,3951.82,1,Bank transfer,True,No
+T11900,Female,False,38,Month-to-month,None,34.32,1323.01,0,Bank transfer,False,No
+T11901,Male,False,28,Month-to-month,Fiber,90.53,2517.49,0,Bank transfer,False,Yes
+T11902,Male,False,29,Two year,Fiber,90.59,2620.26,0,Electronic check,True,No
+T11903,Female,False,16,Month-to-month,Fiber,75.75,1197.92,0,Electronic check,False,Yes
+T11904,Male,False,10,Month-to-month,DSL,59.1,600.11,1,Bank transfer,True,No
+T11905,Female,False,30,Two year,Fiber,85.85,2536.6,1,Electronic check,True,Yes
+T11906,Female,False,31,Month-to-month,DSL,81.66,2494.92,0,Card,True,No
+T11907,Male,True,32,One year,None,31.95,1030.98,1,Bank transfer,False,No
+T11908,Female,False,4,Month-to-month,DSL,62.79,251.03,2,Bank transfer,True,No
+T11909,Female,False,31,Month-to-month,None,35.15,1116.77,1,Card,False,Yes
+T11910,Female,False,56,Two year,Fiber,84.13,4684.19,0,Card,True,No
+T11911,Male,False,34,Month-to-month,Fiber,94.56,3211.14,1,Card,True,Yes
+T11912,Male,False,38,Month-to-month,DSL,64.57,2502.61,2,Electronic check,True,No
+T11913,Male,True,52,Two year,Fiber,76.37,4052.27,2,Electronic check,True,No
+T11914,Male,False,28,Month-to-month,None,24.83,666.4,0,Electronic check,True,Yes
+T11915,Female,False,44,Two year,None,31.96,1332.12,3,Bank transfer,False,No
+T11916,Female,False,43,One year,None,34.15,1460.52,1,Card,False,No
+T11917,Female,False,20,One year,Fiber,76.89,1543.56,1,Electronic check,True,No
+T11918,Male,True,20,Month-to-month,Fiber,86.43,1698.79,0,Electronic check,True,Yes
+T11919,Male,False,60,One year,None,30.86,1771.42,4,Electronic check,True,No
+T11920,Female,True,20,One year,Fiber,74.6,1448.7,2,Electronic check,True,Yes
+T11921,Female,False,10,Month-to-month,DSL,56.01,539.13,3,Electronic check,True,Yes
+T11922,Female,False,23,Two year,Fiber,75.49,1749.48,1,Card,True,No
+T11923,Female,True,20,Month-to-month,Fiber,58.45,1180.72,1,Electronic check,True,Yes
+T11924,Female,False,37,Month-to-month,Fiber,89.07,3328.84,0,Bank transfer,True,No
+T11925,Female,True,20,One year,DSL,72.2,1416.38,1,Card,False,No
+T11926,Female,False,23,Month-to-month,DSL,66.98,1523.99,0,Electronic check,True,No
+T11927,Male,False,7,Two year,DSL,78.13,544.88,2,Electronic check,True,No
+T11928,Male,False,64,One year,DSL,55.3,3498.23,0,Card,True,No
+T11929,Female,False,55,Two year,Fiber,71.96,3947.34,1,Electronic check,True,Yes
+T11930,Female,False,31,Month-to-month,None,18.0,562.44,1,Bank transfer,False,No
+T11931,Female,False,23,Month-to-month,None,26.16,609.19,1,Card,True,No
+T11932,Female,True,39,Two year,DSL,48.99,1922.77,1,Bank transfer,True,No
+T11933,Male,False,48,Two year,Fiber,90.74,4267.82,4,Electronic check,False,No
+T11934,Male,False,25,Month-to-month,DSL,73.29,1814.29,2,Electronic check,False,No
+T11935,Female,False,39,One year,Fiber,78.9,2974.99,0,Cash,False,No
+T11936,Male,False,38,Month-to-month,Fiber,94.72,3577.47,1,Bank transfer,True,No
+T11937,Male,False,52,One year,Fiber,91.31,4696.34,0,Card,True,No
+T11938,Female,False,23,One year,DSL,80.27,1774.2,1,Cash,True,No
+T11939,Female,False,16,Month-to-month,None,30.86,488.13,0,Card,False,No
+T11940,Male,False,65,Two year,None,18.0,1086.48,1,Card,True,No
+T11941,Female,False,15,One year,DSL,58.85,835.68,0,Cash,False,No
+T11942,Male,True,15,Month-to-month,DSL,43.28,652.87,2,Electronic check,True,No
+T11943,Male,False,27,One year,DSL,55.47,1538.24,0,Electronic check,False,No
+T11944,Male,True,35,Two year,DSL,81.54,2816.43,2,Card,True,No
+T11945,Female,False,19,Two year,None,38.99,711.72,2,Card,False,No
+T11946,Male,False,49,Two year,Fiber,84.98,4133.27,1,Card,True,No
+T11947,Female,False,55,One year,Fiber,79.5,4531.94,1,Bank transfer,False,No
+T11948,Male,False,36,Month-to-month,Fiber,98.88,3558.11,1,Electronic check,True,Yes
+T11949,Male,False,30,Month-to-month,Fiber,79.3,2322.64,2,Electronic check,False,Yes
+T11950,Female,False,26,Two year,Fiber,90.84,2307.12,1,Card,True,No
+T11951,Female,False,34,One year,Fiber,76.52,2566.1,3,Card,True,Yes
+T11952,Male,False,18,Two year,DSL,66.48,1230.81,2,Bank transfer,True,No
+T11953,Female,False,30,One year,Fiber,81.15,2469.66,2,Electronic check,False,Yes
+T11954,Male,True,9,Two year,DSL,74.44,649.39,0,Electronic check,True,Yes
+T11955,Female,False,14,One year,DSL,49.67,696.27,4,Cash,False,No
+T11956,Female,False,15,Month-to-month,DSL,51.66,758.69,2,Bank transfer,True,No
+T11957,Male,True,38,One year,Fiber,86.97,3290.47,2,Bank transfer,True,No
+T11958,Male,True,34,One year,None,21.67,751.64,2,Electronic check,True,No
+T11959,Male,False,52,One year,DSL,58.17,2980.48,1,Bank transfer,True,No
+T11960,Male,True,8,Month-to-month,DSL,68.64,564.56,0,Card,True,No
+T11961,Male,False,27,Month-to-month,DSL,55.61,1414.83,1,Card,True,No
+T11962,Female,False,35,Month-to-month,Fiber,95.67,3279.18,0,Card,False,Yes
+T11963,Male,False,59,One year,Fiber,74.57,4482.45,0,Bank transfer,True,No
+T11964,Female,False,18,Month-to-month,DSL,65.31,1175.76,2,Electronic check,True,No
+T11965,Female,False,23,Month-to-month,None,23.44,538.26,1,Electronic check,False,No
+T11966,Female,True,28,Month-to-month,DSL,64.03,1783.66,2,Card,False,No
+T11967,Female,False,16,Month-to-month,None,22.83,365.5,1,Cash,True,No
+T11968,Male,True,8,Month-to-month,None,39.0,308.89,0,Electronic check,True,No
+T11969,Female,False,1,Month-to-month,Fiber,71.22,73.03,0,Electronic check,False,Yes
+T11970,Female,False,13,Month-to-month,None,37.03,523.1,1,Bank transfer,False,Yes
+T11971,Male,False,65,One year,DSL,53.97,3350.4,1,Card,True,No
+T11972,Female,False,6,Month-to-month,DSL,75.71,462.28,1,Card,False,Yes
+T11973,Male,False,27,One year,Fiber,82.2,2108.17,1,Card,True,Yes
+T11974,Female,False,17,Month-to-month,DSL,75.75,1247.02,1,Bank transfer,True,Yes
+T11975,Female,False,8,Month-to-month,DSL,65.49,531.31,2,Electronic check,False,No
+T11976,Male,False,18,Month-to-month,None,25.23,444.39,1,Electronic check,True,No
+T11977,Male,False,50,Two year,DSL,62.44,3027.45,2,Bank transfer,True,No
+T11978,Female,False,8,Month-to-month,Fiber,97.9,744.38,1,Electronic check,False,Yes
+T11979,Female,False,40,One year,Fiber,102.44,4157.5,2,Cash,False,Yes
+T11980,Male,False,18,Month-to-month,None,34.27,648.16,0,Electronic check,True,No
+T11981,Male,False,28,Month-to-month,Fiber,82.34,2247.53,0,Cash,True,No
+T11982,Female,False,54,Two year,Fiber,73.03,3980.86,0,Card,True,No
+T11983,Male,False,13,Month-to-month,DSL,63.96,859.66,2,Bank transfer,False,No
+T11984,Female,True,38,Two year,Fiber,79.9,,0,Bank transfer,True,No
+T11985,Male,False,53,One year,Fiber,81.71,4118.39,4,Card,False,No
+T11986,Male,False,26,Month-to-month,Fiber,65.39,1722.04,0,Electronic check,False,No
+T11987,Female,False,7,Month-to-month,Fiber,78.77,528.1,2,Card,True,No
+T11988,Female,True,22,Month-to-month,None,27.24,590.44,2,Electronic check,False,No
+T11989,Male,False,4,Month-to-month,Fiber,80.83,317.06,0,Card,True,No
+T11990,Female,False,53,One year,Fiber,98.06,5125.23,5,Electronic check,True,No
+T11991,Male,False,23,One year,Fiber,87.24,2038.76,2,Card,True,No
+T11992,Female,False,31,Month-to-month,Fiber,104.31,3421.39,2,Electronic check,True,Yes
+T11993,Female,True,37,Month-to-month,Fiber,98.74,3647.27,0,Electronic check,False,Yes
+T11994,Female,False,64,One year,None,18.0,1139.16,1,Electronic check,False,No
+T11995,Male,False,35,Month-to-month,DSL,61.84,2273.03,0,Cash,False,No
+T11996,Female,False,7,Month-to-month,DSL,74.47,478.12,0,Card,False,Yes
+T11997,Female,False,35,Month-to-month,None,25.73,932.24,3,Card,False,No
+T11998,Female,True,60,One year,Fiber,82.78,4937.8,1,Card,True,No
+T11999,Female,False,31,Month-to-month,Fiber,91.12,2907.78,0,Card,True,No

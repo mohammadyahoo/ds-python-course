@@ -1,0 +1,1001 @@
+order_id,date,hour,branch,item,category,unit_price,quantity,payment
+5001,2025-01-01,7,Downtown,Orange Juice,Juice,3.8,1,Card
+5002,2025-01-01,8,Mall,Latte,Coffee,3.5,2,Card
+5003,2025-01-01,8,Downtown,Croissant,Pastry,2.8,3,Card
+5004,2025-01-01,9,Downtown,Black Tea,Tea,2.0,1,Card
+5005,2025-01-01,9,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5006,2025-01-01,9,Downtown,Orange Juice,Juice,3.8,2,Cash
+5007,2025-01-01,12,Campus,Cappuccino,Coffee,3.5,2,Card
+5008,2025-01-01,12,Downtown,Croissant,Pastry,2.8,1,Cash
+5009,2025-01-01,12,Campus,Espresso,Coffee,2.5,2,Card
+5010,2025-01-01,13,Downtown,Orange Juice,Juice,3.8,3,Card
+5011,2025-01-01,13,Downtown,Veggie Sandwich,Sandwich,5.5,3,Card
+5012,2025-01-01,14,Mall,Cappuccino,Coffee,3.5,1,Card
+5013,2025-01-01,14,Downtown,Cookie,Pastry,1.5,2,Card
+5014,2025-01-01,14,Downtown,Veggie Sandwich,Sandwich,5.5,1,Cash
+5015,2025-01-01,15,Downtown,Veggie Sandwich,Sandwich,5.5,1,Mobile
+5016,2025-01-01,15,Downtown,Black Tea,Tea,2.0,1,Mobile
+5017,2025-01-01,15,Campus,Cappuccino,Coffee,3.5,2,Mobile
+5018,2025-01-01,17,Mall,Chicken Sandwich,Sandwich,6.5,2,Card
+5019,2025-01-01,18,Mall,Cookie,Pastry,1.5,3,Cash
+5020,2025-01-01,19,Campus,Orange Juice,Juice,3.8,1,Mobile
+5021,2025-01-02,8,Campus,Espresso,Coffee,2.5,1,Mobile
+5022,2025-01-02,9,Campus,Muffin,Pastry,3.0,1,Cash
+5023,2025-01-02,9,Downtown,Croissant,Pastry,2.8,2,Card
+5024,2025-01-02,9,Downtown,Orange Juice,Juice,3.8,2,Card
+5025,2025-01-02,9,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5026,2025-01-02,10,Downtown,Muffin,Pastry,3.0,1,Card
+5027,2025-01-02,12,Downtown,Cookie,Pastry,1.5,2,Mobile
+5028,2025-01-02,13,Campus,Veggie Sandwich,Sandwich,5.5,2,Card
+5029,2025-01-02,14,Campus,Black Tea,Tea,2.0,2,Card
+5030,2025-01-02,14,Downtown,Espresso,Coffee,2.5,1,Cash
+5031,2025-01-02,14,Campus,Cappuccino,Coffee,3.5,2,Card
+5032,2025-01-02,17,Campus,Chicken Sandwich,Sandwich,6.5,3,Card
+5033,2025-01-02,18,Campus,Cappuccino,Coffee,3.5,2,Card
+5034,2025-01-02,20,Campus,Latte,Coffee,3.5,1,Card
+5035,2025-01-03,8,Downtown,Green Tea,Tea,2.5,2,Card
+5036,2025-01-03,8,Downtown,Latte,Coffee,3.5,1,Mobile
+5037,2025-01-03,9,Campus,Cookie,Pastry,1.5,1,Card
+5038,2025-01-03,10,Campus,Latte,Coffee,3.5,1,Card
+5039,2025-01-03,11,Mall,Orange Juice,Juice,3.8,1,Cash
+5040,2025-01-03,13,Downtown,Veggie Sandwich,Sandwich,5.5,2,Card
+5041,2025-01-03,15,Downtown,Green Tea,Tea,2.5,3,Card
+5042,2025-01-03,16,Mall,Espresso,Coffee,2.5,3,Cash
+5043,2025-01-03,17,Downtown,Orange Juice,Juice,3.8,1,Card
+5044,2025-01-03,17,Mall,Veggie Sandwich,Sandwich,5.5,1,Cash
+5045,2025-01-03,17,Campus,Latte,Coffee,3.5,2,Mobile
+5046,2025-01-04,7,Downtown,Chicken Sandwich,Sandwich,6.5,2,Cash
+5047,2025-01-04,7,Campus,Espresso,Coffee,2.5,3,Cash
+5048,2025-01-04,7,Campus,Chicken Sandwich,Sandwich,6.5,1,Cash
+5049,2025-01-04,8,Mall,Croissant,Pastry,2.8,2,Card
+5050,2025-01-04,8,Campus,Mocha,Coffee,4.0,1,Card
+5051,2025-01-04,9,Downtown,Espresso,Coffee,2.5,1,Cash
+5052,2025-01-04,10,Mall,Veggie Sandwich,Sandwich,5.5,3,Card
+5053,2025-01-04,11,Mall,Cappuccino,Coffee,3.5,1,Cash
+5054,2025-01-04,12,Campus,Cookie,Pastry,1.5,1,Mobile
+5055,2025-01-04,12,Campus,Muffin,Pastry,3.0,1,Cash
+5056,2025-01-04,13,Campus,Green Tea,Tea,2.5,2,Card
+5057,2025-01-04,13,Mall,Veggie Sandwich,Sandwich,5.5,2,Cash
+5058,2025-01-04,17,Mall,Chicken Sandwich,Sandwich,6.5,2,Cash
+5059,2025-01-04,19,Campus,Muffin,Pastry,3.0,2,Cash
+5060,2025-01-04,19,Downtown,Orange Juice,Juice,3.8,2,Card
+5061,2025-01-04,20,Campus,Cookie,Pastry,1.5,3,Mobile
+5062,2025-01-05,9,Campus,Orange Juice,Juice,3.8,1,Card
+5063,2025-01-05,9,Campus,Cookie,Pastry,1.5,3,Cash
+5064,2025-01-05,10,Downtown,Latte,Coffee,3.5,1,Cash
+5065,2025-01-05,10,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5066,2025-01-05,11,Mall,Latte,Coffee,3.5,2,Cash
+5067,2025-01-05,13,Campus,Espresso,Coffee,2.5,1,Cash
+5068,2025-01-05,16,Downtown,Croissant,Pastry,2.8,3,Cash
+5069,2025-01-05,17,Campus,Muffin,Pastry,3.0,1,Card
+5070,2025-01-05,18,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5071,2025-01-05,18,Campus,Chicken Sandwich,Sandwich,6.5,1,Cash
+5072,2025-01-05,19,Downtown,Croissant,Pastry,2.8,1,Mobile
+5073,2025-01-05,19,Mall,Green Tea,Tea,2.5,3,Card
+5074,2025-01-05,19,Campus,Croissant,Pastry,2.8,3,Card
+5075,2025-01-06,8,Campus,Croissant,Pastry,2.8,1,Card
+5076,2025-01-06,10,Mall,Croissant,Pastry,2.8,1,Mobile
+5077,2025-01-06,10,Campus,Latte,Coffee,3.5,1,Mobile
+5078,2025-01-06,10,Mall,Espresso,Coffee,2.5,1,Cash
+5079,2025-01-06,11,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5080,2025-01-06,11,Campus,Muffin,Pastry,3.0,2,Card
+5081,2025-01-06,14,Campus,Muffin,Pastry,3.0,2,Card
+5082,2025-01-06,16,Campus,Espresso,Coffee,2.5,3,Card
+5083,2025-01-06,18,Campus,Croissant,Pastry,2.8,1,Mobile
+5084,2025-01-06,19,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5085,2025-01-07,9,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5086,2025-01-07,9,Downtown,Veggie Sandwich,Sandwich,5.5,1,Mobile
+5087,2025-01-07,10,Campus,Cookie,Pastry,1.5,1,Card
+5088,2025-01-07,13,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5089,2025-01-07,15,Campus,Croissant,Pastry,2.8,1,Cash
+5090,2025-01-07,15,Downtown,Veggie Sandwich,Sandwich,5.5,1,Card
+5091,2025-01-07,17,Mall,Croissant,Pastry,2.8,2,Cash
+5092,2025-01-07,17,Downtown,Croissant,Pastry,2.8,1,Card
+5093,2025-01-07,18,Downtown,Veggie Sandwich,Sandwich,5.5,2,Mobile
+5094,2025-01-08,8,Mall,Cappuccino,Coffee,3.5,1,Card
+5095,2025-01-08,9,Campus,Latte,Coffee,3.5,3,Card
+5096,2025-01-08,10,Campus,Latte,Coffee,3.5,1,Cash
+5097,2025-01-08,12,Downtown,Muffin,Pastry,3.0,2,Cash
+5098,2025-01-08,12,Mall,Croissant,Pastry,2.8,2,Card
+5099,2025-01-08,16,Mall,Cappuccino,Coffee,3.5,3,Card
+5100,2025-01-08,18,Campus,Croissant,Pastry,2.8,1,Mobile
+5101,2025-01-08,19,Mall,Muffin,Pastry,3.0,2,Card
+5102,2025-01-08,20,Campus,Muffin,Pastry,3.0,1,Cash
+5103,2025-01-08,20,Downtown,Cappuccino,Coffee,3.5,2,Card
+5104,2025-01-09,9,Campus,Croissant,Pastry,2.8,1,Cash
+5105,2025-01-09,10,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5106,2025-01-09,12,Campus,Black Tea,Tea,2.0,3,Card
+5107,2025-01-09,15,Campus,Chicken Sandwich,Sandwich,6.5,3,Card
+5108,2025-01-09,16,Campus,Mocha,Coffee,4.0,1,Card
+5109,2025-01-09,16,Downtown,Cappuccino,Coffee,3.5,3,Cash
+5110,2025-01-09,18,Downtown,Muffin,Pastry,3.0,2,Card
+5111,2025-01-09,18,Campus,Espresso,Coffee,2.5,1,Cash
+5112,2025-01-09,18,Mall,Espresso,Coffee,2.5,1,Mobile
+5113,2025-01-09,20,Mall,Croissant,Pastry,2.8,1,Card
+5114,2025-01-10,7,Downtown,Espresso,Coffee,2.5,2,Cash
+5115,2025-01-10,7,Mall,Latte,Coffee,3.5,1,Card
+5116,2025-01-10,8,Mall,Mocha,Coffee,4.0,1,Cash
+5117,2025-01-10,9,Campus,Latte,Coffee,3.5,1,Card
+5118,2025-01-10,9,Downtown,Orange Juice,Juice,3.8,1,Cash
+5119,2025-01-10,10,Campus,Muffin,Pastry,3.0,3,Card
+5120,2025-01-10,10,Campus,Chicken Sandwich,Sandwich,6.5,2,Cash
+5121,2025-01-10,12,Campus,Espresso,Coffee,2.5,3,Card
+5122,2025-01-10,13,Campus,Black Tea,Tea,2.0,1,Card
+5123,2025-01-10,13,Downtown,Muffin,Pastry,3.0,1,Card
+5124,2025-01-10,15,Mall,Chicken Sandwich,Sandwich,6.5,1,Cash
+5125,2025-01-10,15,Downtown,Green Tea,Tea,2.5,2,Card
+5126,2025-01-10,19,Downtown,Cappuccino,Coffee,3.5,1,Card
+5127,2025-01-10,20,Mall,Cappuccino,Coffee,3.5,1,Card
+5128,2025-01-11,8,Campus,Mocha,Coffee,4.0,3,Card
+5129,2025-01-11,9,Campus,Latte,Coffee,3.5,3,Mobile
+5130,2025-01-11,10,Downtown,Orange Juice,Juice,3.8,2,Card
+5131,2025-01-11,10,Downtown,Black Tea,Tea,2.0,3,Card
+5132,2025-01-11,11,Campus,Cappuccino,Coffee,3.5,1,Cash
+5133,2025-01-11,11,Campus,Espresso,Coffee,2.5,1,Mobile
+5134,2025-01-11,11,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5135,2025-01-11,13,Mall,Latte,Coffee,3.5,2,Card
+5136,2025-01-11,16,Downtown,Chicken Sandwich,Sandwich,6.5,3,Cash
+5137,2025-01-11,18,Campus,Mocha,Coffee,4.0,3,Cash
+5138,2025-01-11,18,Downtown,Latte,Coffee,3.5,3,Card
+5139,2025-01-11,20,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5140,2025-01-11,20,Mall,Veggie Sandwich,Sandwich,5.5,2,Card
+5141,2025-01-12,7,Campus,Espresso,Coffee,2.5,1,Card
+5142,2025-01-12,13,Mall,Muffin,Pastry,3.0,3,Card
+5143,2025-01-12,14,Downtown,Espresso,Coffee,2.5,2,Cash
+5144,2025-01-12,15,Campus,Latte,Coffee,3.5,1,Mobile
+5145,2025-01-12,15,Downtown,Veggie Sandwich,Sandwich,5.5,2,Mobile
+5146,2025-01-12,18,Campus,Cappuccino,Coffee,3.5,1,Cash
+5147,2025-01-12,20,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5148,2025-01-12,20,Campus,Latte,Coffee,3.5,1,Mobile
+5149,2025-01-13,8,Campus,Croissant,Pastry,2.8,1,Card
+5150,2025-01-13,8,Campus,Espresso,Coffee,2.5,2,Cash
+5151,2025-01-13,8,Campus,Latte,Coffee,3.5,1,Card
+5152,2025-01-13,10,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5153,2025-01-13,15,Downtown,Muffin,Pastry,3.0,1,Card
+5154,2025-01-13,16,Downtown,Latte,Coffee,3.5,3,Card
+5155,2025-01-13,17,Mall,Latte,Coffee,3.5,1,Cash
+5156,2025-01-13,17,Mall,Espresso,Coffee,2.5,1,Card
+5157,2025-01-13,19,Mall,Cookie,Pastry,1.5,1,Card
+5158,2025-01-14,7,Campus,Latte,Coffee,3.5,2,Card
+5159,2025-01-14,11,Downtown,Croissant,Pastry,2.8,3,Card
+5160,2025-01-14,18,Mall,Latte,Coffee,3.5,1,Cash
+5161,2025-01-14,18,Downtown,Mocha,Coffee,4.0,1,Card
+5162,2025-01-14,19,Mall,Chicken Sandwich,Sandwich,6.5,2,Card
+5163,2025-01-14,19,Campus,Croissant,Pastry,2.8,1,Cash
+5164,2025-01-15,7,Downtown,Orange Juice,Juice,3.8,3,Card
+5165,2025-01-15,8,Downtown,Espresso,Coffee,2.5,1,Card
+5166,2025-01-15,9,Campus,Espresso,Coffee,2.5,1,Cash
+5167,2025-01-15,9,Mall,Latte,Coffee,3.5,1,Card
+5168,2025-01-15,10,Mall,Orange Juice,Juice,3.8,1,Card
+5169,2025-01-15,11,Downtown,Mocha,Coffee,4.0,1,Card
+5170,2025-01-15,12,Campus,Veggie Sandwich,Sandwich,5.5,2,Card
+5171,2025-01-15,12,Mall,Green Tea,Tea,2.5,1,Card
+5172,2025-01-15,13,Downtown,Croissant,Pastry,2.8,1,Cash
+5173,2025-01-15,13,Downtown,Latte,Coffee,3.5,2,Card
+5174,2025-01-15,13,Campus,Espresso,Coffee,2.5,1,Card
+5175,2025-01-15,14,Campus,Cookie,Pastry,1.5,2,Card
+5176,2025-01-15,15,Downtown,Latte,Coffee,3.5,1,Card
+5177,2025-01-15,17,Campus,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5178,2025-01-15,17,Downtown,Black Tea,Tea,2.0,1,Card
+5179,2025-01-16,8,Mall,Latte,Coffee,3.5,1,Card
+5180,2025-01-16,8,Downtown,Black Tea,Tea,2.0,1,Mobile
+5181,2025-01-16,8,Downtown,Green Tea,Tea,2.5,3,Mobile
+5182,2025-01-16,9,Downtown,Latte,Coffee,3.5,2,Card
+5183,2025-01-16,10,Campus,Cappuccino,Coffee,3.5,1,Card
+5184,2025-01-16,11,Downtown,Latte,Coffee,3.5,2,Cash
+5185,2025-01-16,12,Campus,Cookie,Pastry,1.5,1,Card
+5186,2025-01-16,12,Campus,Muffin,Pastry,3.0,1,Cash
+5187,2025-01-16,13,Downtown,Veggie Sandwich,Sandwich,5.5,2,Cash
+5188,2025-01-16,13,Downtown,Espresso,Coffee,2.5,3,Card
+5189,2025-01-16,14,Campus,Cappuccino,Coffee,3.5,1,Card
+5190,2025-01-16,15,Mall,Espresso,Coffee,2.5,1,Cash
+5191,2025-01-17,8,Downtown,Espresso,Coffee,2.5,1,Mobile
+5192,2025-01-17,9,Mall,Green Tea,Tea,2.5,1,Card
+5193,2025-01-17,10,Campus,Latte,Coffee,3.5,1,Card
+5194,2025-01-17,12,Mall,Cappuccino,Coffee,3.5,1,Cash
+5195,2025-01-17,13,Downtown,Green Tea,Tea,2.5,1,Cash
+5196,2025-01-17,14,Campus,Espresso,Coffee,2.5,1,Mobile
+5197,2025-01-17,15,Campus,Cappuccino,Coffee,3.5,1,Card
+5198,2025-01-17,18,Campus,Muffin,Pastry,3.0,1,Card
+5199,2025-01-17,19,Campus,Cappuccino,Coffee,3.5,1,Card
+5200,2025-01-18,10,Downtown,Latte,Coffee,3.5,2,Card
+5201,2025-01-18,13,Campus,Espresso,Coffee,2.5,2,Cash
+5202,2025-01-18,15,Downtown,Chicken Sandwich,Sandwich,6.5,3,Cash
+5203,2025-01-18,17,Mall,Cappuccino,Coffee,3.5,1,Card
+5204,2025-01-18,17,Downtown,Latte,Coffee,3.5,1,Cash
+5205,2025-01-18,18,Downtown,Espresso,Coffee,2.5,1,Cash
+5206,2025-01-18,20,Downtown,Mocha,Coffee,4.0,1,Card
+5207,2025-01-19,8,Downtown,Cookie,Pastry,1.5,2,Mobile
+5208,2025-01-19,8,Campus,Espresso,Coffee,2.5,1,Cash
+5209,2025-01-19,8,Campus,Espresso,Coffee,2.5,2,Card
+5210,2025-01-19,10,Downtown,Espresso,Coffee,2.5,1,Mobile
+5211,2025-01-19,11,Mall,Orange Juice,Juice,3.8,1,Card
+5212,2025-01-19,12,Campus,Mocha,Coffee,4.0,1,Card
+5213,2025-01-19,12,Campus,Cappuccino,Coffee,3.5,2,Card
+5214,2025-01-19,14,Campus,Green Tea,Tea,2.5,1,Card
+5215,2025-01-19,16,Downtown,Latte,Coffee,3.5,1,Card
+5216,2025-01-19,16,Downtown,Veggie Sandwich,Sandwich,5.5,1,Card
+5217,2025-01-19,19,Campus,Latte,Coffee,3.5,1,Card
+5218,2025-01-20,8,Mall,Croissant,Pastry,2.8,3,Card
+5219,2025-01-20,8,Downtown,Orange Juice,Juice,3.8,1,Card
+5220,2025-01-20,9,Downtown,Mocha,Coffee,4.0,1,Mobile
+5221,2025-01-20,9,Mall,Chicken Sandwich,Sandwich,6.5,2,Card
+5222,2025-01-20,11,Downtown,Cookie,Pastry,1.5,1,Card
+5223,2025-01-20,13,Campus,Espresso,Coffee,2.5,2,Cash
+5224,2025-01-20,13,Downtown,Latte,Coffee,3.5,2,Card
+5225,2025-01-20,14,Downtown,Muffin,Pastry,3.0,3,Card
+5226,2025-01-20,15,Mall,Latte,Coffee,3.5,3,Card
+5227,2025-01-20,15,Downtown,Latte,Coffee,3.5,1,Cash
+5228,2025-01-20,17,Downtown,Mocha,Coffee,4.0,1,Card
+5229,2025-01-20,19,Downtown,Muffin,Pastry,3.0,2,Card
+5230,2025-01-20,20,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5231,2025-01-21,8,Mall,Cookie,Pastry,1.5,1,Card
+5232,2025-01-21,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5233,2025-01-21,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5234,2025-01-21,10,Campus,Green Tea,Tea,2.5,2,Card
+5235,2025-01-21,15,Downtown,Latte,Coffee,3.5,2,Card
+5236,2025-01-21,15,Downtown,Orange Juice,Juice,3.8,2,Card
+5237,2025-01-21,16,Campus,Green Tea,Tea,2.5,2,Card
+5238,2025-01-21,16,Mall,Chicken Sandwich,Sandwich,6.5,1,Cash
+5239,2025-01-21,17,Campus,Green Tea,Tea,2.5,3,Card
+5240,2025-01-21,19,Mall,Cappuccino,Coffee,3.5,1,Cash
+5241,2025-01-21,19,Campus,Cookie,Pastry,1.5,2,Cash
+5242,2025-01-21,19,Downtown,Espresso,Coffee,2.5,1,Card
+5243,2025-01-21,20,Downtown,Cappuccino,Coffee,3.5,2,Card
+5244,2025-01-22,7,Campus,Croissant,Pastry,2.8,3,Card
+5245,2025-01-22,8,Campus,Muffin,Pastry,3.0,3,Card
+5246,2025-01-22,12,Mall,Cappuccino,Coffee,3.5,2,Cash
+5247,2025-01-22,12,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5248,2025-01-22,13,Downtown,Espresso,Coffee,2.5,1,Cash
+5249,2025-01-22,14,Mall,Green Tea,Tea,2.5,1,Card
+5250,2025-01-22,20,Downtown,Espresso,Coffee,2.5,2,Card
+5251,2025-01-23,7,Downtown,Cappuccino,Coffee,3.5,1,Card
+5252,2025-01-23,8,Downtown,Croissant,Pastry,2.8,2,Card
+5253,2025-01-23,9,Mall,Cookie,Pastry,1.5,1,Card
+5254,2025-01-23,11,Mall,Espresso,Coffee,2.5,1,Mobile
+5255,2025-01-23,12,Campus,Veggie Sandwich,Sandwich,5.5,1,Cash
+5256,2025-01-23,12,Downtown,Mocha,Coffee,4.0,1,Cash
+5257,2025-01-23,13,Campus,Muffin,Pastry,3.0,3,Cash
+5258,2025-01-23,13,Campus,Espresso,Coffee,2.5,3,Mobile
+5259,2025-01-23,14,Downtown,Green Tea,Tea,2.5,1,Cash
+5260,2025-01-23,14,Downtown,Muffin,Pastry,3.0,3,Card
+5261,2025-01-23,14,Mall,Espresso,Coffee,2.5,1,Cash
+5262,2025-01-23,14,Downtown,Latte,Coffee,3.5,2,Mobile
+5263,2025-01-23,18,Campus,Veggie Sandwich,Sandwich,5.5,2,Card
+5264,2025-01-23,20,Mall,Croissant,Pastry,2.8,1,Card
+5265,2025-01-23,20,Campus,Latte,Coffee,3.5,3,Card
+5266,2025-01-24,7,Downtown,Latte,Coffee,3.5,3,Mobile
+5267,2025-01-24,8,Mall,Muffin,Pastry,3.0,1,Cash
+5268,2025-01-24,10,Campus,Mocha,Coffee,4.0,1,Card
+5269,2025-01-24,11,Campus,Espresso,Coffee,2.5,1,Card
+5270,2025-01-24,12,Downtown,Cookie,Pastry,1.5,2,Card
+5271,2025-01-24,13,Downtown,Mocha,Coffee,4.0,2,Card
+5272,2025-01-24,14,Downtown,Cappuccino,Coffee,3.5,1,Card
+5273,2025-01-24,15,Campus,Veggie Sandwich,Sandwich,5.5,1,Cash
+5274,2025-01-24,15,Downtown,Espresso,Coffee,2.5,1,Cash
+5275,2025-01-24,20,Downtown,Latte,Coffee,3.5,2,Card
+5276,2025-01-25,7,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5277,2025-01-25,8,Mall,Mocha,Coffee,4.0,2,Card
+5278,2025-01-25,9,Mall,Veggie Sandwich,Sandwich,5.5,2,Cash
+5279,2025-01-25,10,Downtown,Espresso,Coffee,2.5,2,Card
+5280,2025-01-25,11,Campus,Espresso,Coffee,2.5,1,Card
+5281,2025-01-25,11,Downtown,Croissant,Pastry,2.8,1,Cash
+5282,2025-01-25,13,Mall,Mocha,Coffee,4.0,2,Mobile
+5283,2025-01-25,13,Downtown,Latte,Coffee,3.5,2,Card
+5284,2025-01-25,17,Downtown,Cookie,Pastry,1.5,1,Cash
+5285,2025-01-25,17,Campus,Muffin,Pastry,3.0,3,Card
+5286,2025-01-25,17,Campus,Croissant,Pastry,2.8,2,Card
+5287,2025-01-25,18,Downtown,Latte,Coffee,3.5,2,Card
+5288,2025-01-26,8,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5289,2025-01-26,9,Downtown,Cappuccino,Coffee,3.5,2,Card
+5290,2025-01-26,9,Mall,Cookie,Pastry,1.5,3,Card
+5291,2025-01-26,9,Campus,Black Tea,Tea,2.0,1,Mobile
+5292,2025-01-26,10,Downtown,Mocha,Coffee,4.0,1,Mobile
+5293,2025-01-26,17,Campus,Cappuccino,Coffee,3.5,2,Cash
+5294,2025-01-27,7,Mall,Latte,Coffee,3.5,1,Card
+5295,2025-01-27,8,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5296,2025-01-27,8,Campus,Cappuccino,Coffee,3.5,1,Cash
+5297,2025-01-27,8,Downtown,Mocha,Coffee,4.0,1,Cash
+5298,2025-01-27,9,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5299,2025-01-27,10,Downtown,Latte,Coffee,3.5,2,Card
+5300,2025-01-27,11,Campus,Black Tea,Tea,2.0,1,Cash
+5301,2025-01-27,12,Downtown,Veggie Sandwich,Sandwich,5.5,3,Card
+5302,2025-01-27,12,Downtown,Cappuccino,Coffee,3.5,1,Mobile
+5303,2025-01-27,13,Downtown,Cappuccino,Coffee,3.5,1,Card
+5304,2025-01-27,14,Downtown,Muffin,Pastry,3.0,2,Cash
+5305,2025-01-28,7,Mall,Orange Juice,Juice,3.8,1,Card
+5306,2025-01-28,9,Mall,Latte,Coffee,3.5,1,Cash
+5307,2025-01-28,9,Downtown,Croissant,Pastry,2.8,1,Card
+5308,2025-01-28,12,Campus,Black Tea,Tea,2.0,1,Cash
+5309,2025-01-28,12,Campus,Veggie Sandwich,Sandwich,5.5,1,Card
+5310,2025-01-28,14,Mall,Espresso,Coffee,2.5,2,Card
+5311,2025-01-28,16,Downtown,Orange Juice,Juice,3.8,2,Card
+5312,2025-01-28,16,Mall,Latte,Coffee,3.5,2,Card
+5313,2025-01-28,17,Campus,Latte,Coffee,3.5,1,Card
+5314,2025-01-28,19,Downtown,Cappuccino,Coffee,3.5,1,Card
+5315,2025-01-29,10,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5316,2025-01-29,11,Mall,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5317,2025-01-29,12,Campus,Espresso,Coffee,2.5,1,Card
+5318,2025-01-29,14,Downtown,Latte,Coffee,3.5,1,Mobile
+5319,2025-01-29,16,Downtown,Chicken Sandwich,Sandwich,6.5,1,Mobile
+5320,2025-01-29,18,Campus,Cookie,Pastry,1.5,3,Card
+5321,2025-01-29,18,Campus,Veggie Sandwich,Sandwich,5.5,1,Card
+5322,2025-01-29,20,Mall,Cappuccino,Coffee,3.5,2,Card
+5323,2025-01-29,20,Downtown,Black Tea,Tea,2.0,3,Cash
+5324,2025-01-30,8,Mall,Chicken Sandwich,Sandwich,6.5,1,Cash
+5325,2025-01-30,9,Campus,Cappuccino,Coffee,3.5,1,Card
+5326,2025-01-30,9,Campus,Cappuccino,Coffee,3.5,2,Card
+5327,2025-01-30,11,Mall,Cookie,Pastry,1.5,1,Cash
+5328,2025-01-30,12,Mall,Latte,Coffee,3.5,3,Card
+5329,2025-01-30,12,Campus,Orange Juice,Juice,3.8,3,Card
+5330,2025-01-30,14,Campus,Cookie,Pastry,1.5,1,Card
+5331,2025-01-30,18,Downtown,Cappuccino,Coffee,3.5,1,Card
+5332,2025-01-30,18,Mall,Espresso,Coffee,2.5,1,Mobile
+5333,2025-01-30,19,Downtown,Muffin,Pastry,3.0,2,Card
+5334,2025-01-31,8,Campus,Cappuccino,Coffee,3.5,1,Mobile
+5335,2025-01-31,8,Campus,Latte,Coffee,3.5,1,Card
+5336,2025-01-31,9,Mall,Green Tea,Tea,2.5,2,Card
+5337,2025-01-31,9,Campus,Green Tea,Tea,2.5,1,Card
+5338,2025-01-31,9,Downtown,Green Tea,Tea,2.5,2,Mobile
+5339,2025-01-31,9,Downtown,Green Tea,Tea,2.5,1,Cash
+5340,2025-01-31,9,Campus,Cappuccino,Coffee,3.5,3,Card
+5341,2025-01-31,9,Mall,Cappuccino,Coffee,3.5,1,Cash
+5342,2025-01-31,11,Campus,Black Tea,Tea,2.0,2,Card
+5343,2025-01-31,12,Campus,Latte,Coffee,3.5,1,Card
+5344,2025-01-31,13,Mall,Espresso,Coffee,2.5,3,Card
+5345,2025-01-31,15,Mall,Muffin,Pastry,3.0,2,Card
+5346,2025-01-31,18,Downtown,Croissant,Pastry,2.8,2,Card
+5347,2025-01-31,20,Campus,Green Tea,Tea,2.5,1,Card
+5348,2025-01-31,20,Campus,Mocha,Coffee,4.0,1,Card
+5349,2025-02-01,9,Campus,Green Tea,Tea,2.5,2,Mobile
+5350,2025-02-01,13,Downtown,Green Tea,Tea,2.5,1,Cash
+5351,2025-02-01,16,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5352,2025-02-01,18,Campus,Cappuccino,Coffee,3.5,1,Card
+5353,2025-02-01,19,Campus,Latte,Coffee,3.5,1,Card
+5354,2025-02-02,7,Downtown,Latte,Coffee,3.5,3,Card
+5355,2025-02-02,7,Downtown,Cookie,Pastry,1.5,3,Card
+5356,2025-02-02,8,Campus,Cookie,Pastry,1.5,1,Card
+5357,2025-02-02,8,Downtown,Green Tea,Tea,2.5,2,Card
+5358,2025-02-02,8,Campus,Cappuccino,Coffee,3.5,2,Card
+5359,2025-02-02,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5360,2025-02-02,9,Campus,Espresso,Coffee,2.5,1,Card
+5361,2025-02-02,12,Campus,Latte,Coffee,3.5,1,Card
+5362,2025-02-02,13,Campus,Mocha,Coffee,4.0,2,Mobile
+5363,2025-02-02,17,Downtown,Croissant,Pastry,2.8,3,Card
+5364,2025-02-02,18,Mall,Muffin,Pastry,3.0,2,Mobile
+5365,2025-02-02,19,Mall,Cookie,Pastry,1.5,1,Cash
+5366,2025-02-02,19,Campus,Croissant,Pastry,2.8,1,Cash
+5367,2025-02-02,19,Mall,Muffin,Pastry,3.0,2,Card
+5368,2025-02-02,20,Downtown,Veggie Sandwich,Sandwich,5.5,1,Cash
+5369,2025-02-02,20,Campus,Cookie,Pastry,1.5,1,Card
+5370,2025-02-02,20,Mall,Cappuccino,Coffee,3.5,1,Card
+5371,2025-02-03,8,Campus,Muffin,Pastry,3.0,1,Mobile
+5372,2025-02-03,9,Mall,Latte,Coffee,3.5,1,Card
+5373,2025-02-03,10,Mall,Cappuccino,Coffee,3.5,1,Card
+5374,2025-02-03,11,Downtown,Espresso,Coffee,2.5,1,Card
+5375,2025-02-03,11,Campus,Cappuccino,Coffee,3.5,2,Card
+5376,2025-02-03,12,Mall,Orange Juice,Juice,3.8,2,Cash
+5377,2025-02-03,12,Downtown,Espresso,Coffee,2.5,1,Cash
+5378,2025-02-03,16,Downtown,Black Tea,Tea,2.0,1,Cash
+5379,2025-02-03,17,Mall,Cappuccino,Coffee,3.5,1,Card
+5380,2025-02-03,18,Downtown,Latte,Coffee,3.5,2,Card
+5381,2025-02-03,18,Campus,Orange Juice,Juice,3.8,1,Cash
+5382,2025-02-04,9,Downtown,Latte,Coffee,3.5,1,Cash
+5383,2025-02-04,9,Downtown,Orange Juice,Juice,3.8,1,Card
+5384,2025-02-04,9,Campus,Green Tea,Tea,2.5,2,Mobile
+5385,2025-02-04,10,Downtown,Latte,Coffee,3.5,2,Card
+5386,2025-02-04,14,Campus,Cappuccino,Coffee,3.5,2,Mobile
+5387,2025-02-04,14,Mall,Cappuccino,Coffee,3.5,2,Card
+5388,2025-02-04,17,Campus,Chicken Sandwich,Sandwich,6.5,3,Cash
+5389,2025-02-04,17,Downtown,Muffin,Pastry,3.0,2,Card
+5390,2025-02-04,17,Downtown,Cappuccino,Coffee,3.5,1,Card
+5391,2025-02-04,17,Downtown,Orange Juice,Juice,3.8,3,Card
+5392,2025-02-04,18,Downtown,Mocha,Coffee,4.0,2,Card
+5393,2025-02-04,19,Campus,Orange Juice,Juice,3.8,1,Cash
+5394,2025-02-04,19,Mall,Croissant,Pastry,2.8,1,Cash
+5395,2025-02-05,7,Campus,Orange Juice,Juice,3.8,2,Card
+5396,2025-02-05,8,Campus,Latte,Coffee,3.5,1,Cash
+5397,2025-02-05,8,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5398,2025-02-05,9,Campus,Latte,Coffee,3.5,2,Cash
+5399,2025-02-05,9,Campus,Latte,Coffee,3.5,3,Card
+5400,2025-02-05,10,Mall,Latte,Coffee,3.5,3,Mobile
+5401,2025-02-05,10,Campus,Green Tea,Tea,2.5,1,Card
+5402,2025-02-05,11,Mall,Chicken Sandwich,Sandwich,6.5,1,Cash
+5403,2025-02-05,12,Downtown,Green Tea,Tea,2.5,2,Card
+5404,2025-02-05,12,Downtown,Cappuccino,Coffee,3.5,1,Card
+5405,2025-02-05,12,Campus,Croissant,Pastry,2.8,2,Cash
+5406,2025-02-05,13,Campus,Croissant,Pastry,2.8,3,Cash
+5407,2025-02-05,13,Downtown,Latte,Coffee,3.5,1,Cash
+5408,2025-02-05,16,Mall,Espresso,Coffee,2.5,1,Card
+5409,2025-02-05,19,Mall,Black Tea,Tea,2.0,1,Card
+5410,2025-02-05,20,Downtown,Green Tea,Tea,2.5,1,Card
+5411,2025-02-06,7,Campus,Chicken Sandwich,Sandwich,6.5,2,Cash
+5412,2025-02-06,8,Downtown,Espresso,Coffee,2.5,1,Mobile
+5413,2025-02-06,10,Downtown,Veggie Sandwich,Sandwich,5.5,2,Cash
+5414,2025-02-06,15,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5415,2025-02-06,15,Downtown,Croissant,Pastry,2.8,1,Card
+5416,2025-02-06,15,Mall,Cookie,Pastry,1.5,3,Cash
+5417,2025-02-06,17,Downtown,Muffin,Pastry,3.0,2,Card
+5418,2025-02-06,17,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5419,2025-02-06,20,Campus,Chicken Sandwich,Sandwich,6.5,2,Cash
+5420,2025-02-06,20,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5421,2025-02-06,20,Campus,Cappuccino,Coffee,3.5,2,Card
+5422,2025-02-07,8,Campus,Latte,Coffee,3.5,1,Card
+5423,2025-02-07,8,Campus,Black Tea,Tea,2.0,3,Card
+5424,2025-02-07,12,Campus,Croissant,Pastry,2.8,1,Card
+5425,2025-02-07,13,Downtown,Veggie Sandwich,Sandwich,5.5,3,Cash
+5426,2025-02-07,13,Campus,Orange Juice,Juice,3.8,1,Card
+5427,2025-02-07,15,Downtown,Espresso,Coffee,2.5,3,Cash
+5428,2025-02-07,16,Mall,Cookie,Pastry,1.5,1,Cash
+5429,2025-02-07,16,Campus,Black Tea,Tea,2.0,2,Cash
+5430,2025-02-07,16,Campus,Mocha,Coffee,4.0,3,Card
+5431,2025-02-07,17,Downtown,Latte,Coffee,3.5,1,Mobile
+5432,2025-02-07,19,Downtown,Chicken Sandwich,Sandwich,6.5,1,Mobile
+5433,2025-02-07,20,Downtown,Muffin,Pastry,3.0,1,Cash
+5434,2025-02-07,20,Mall,Mocha,Coffee,4.0,2,Card
+5435,2025-02-08,9,Downtown,Orange Juice,Juice,3.8,2,Cash
+5436,2025-02-08,9,Mall,Cappuccino,Coffee,3.5,2,Card
+5437,2025-02-08,10,Campus,Green Tea,Tea,2.5,2,Cash
+5438,2025-02-08,11,Campus,Cappuccino,Coffee,3.5,1,Mobile
+5439,2025-02-08,14,Downtown,Orange Juice,Juice,3.8,1,Card
+5440,2025-02-08,14,Downtown,Black Tea,Tea,2.0,2,Cash
+5441,2025-02-08,15,Downtown,Espresso,Coffee,2.5,1,Mobile
+5442,2025-02-08,16,Campus,Espresso,Coffee,2.5,2,Mobile
+5443,2025-02-08,16,Mall,Black Tea,Tea,2.0,3,Card
+5444,2025-02-08,16,Downtown,Orange Juice,Juice,3.8,1,Cash
+5445,2025-02-08,17,Downtown,Green Tea,Tea,2.5,1,Cash
+5446,2025-02-09,8,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5447,2025-02-09,9,Downtown,Green Tea,Tea,2.5,2,Card
+5448,2025-02-09,9,Downtown,Espresso,Coffee,2.5,1,Cash
+5449,2025-02-09,12,Mall,Orange Juice,Juice,3.8,2,Card
+5450,2025-02-09,12,Downtown,Espresso,Coffee,2.5,3,Card
+5451,2025-02-09,13,Downtown,Veggie Sandwich,Sandwich,5.5,3,Cash
+5452,2025-02-09,13,Downtown,Cookie,Pastry,1.5,2,Card
+5453,2025-02-09,14,Mall,Orange Juice,Juice,3.8,2,Card
+5454,2025-02-09,14,Mall,Croissant,Pastry,2.8,2,Mobile
+5455,2025-02-09,15,Campus,Cappuccino,Coffee,3.5,2,Card
+5456,2025-02-09,16,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5457,2025-02-09,16,Downtown,Veggie Sandwich,Sandwich,5.5,1,Card
+5458,2025-02-09,18,Downtown,Croissant,Pastry,2.8,1,Card
+5459,2025-02-10,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5460,2025-02-10,10,Campus,Green Tea,Tea,2.5,2,Card
+5461,2025-02-10,10,Mall,Mocha,Coffee,4.0,1,Cash
+5462,2025-02-10,11,Campus,Latte,Coffee,3.5,1,Card
+5463,2025-02-10,11,Downtown,Veggie Sandwich,Sandwich,5.5,1,Card
+5464,2025-02-10,13,Downtown,Latte,Coffee,3.5,3,Card
+5465,2025-02-10,13,Downtown,Cappuccino,Coffee,3.5,2,Card
+5466,2025-02-10,13,Campus,Latte,Coffee,3.5,2,Card
+5467,2025-02-10,14,Campus,Latte,Coffee,3.5,2,Cash
+5468,2025-02-10,15,Campus,Espresso,Coffee,2.5,1,Cash
+5469,2025-02-10,15,Downtown,Croissant,Pastry,2.8,1,Mobile
+5470,2025-02-10,15,Campus,Latte,Coffee,3.5,2,Card
+5471,2025-02-10,15,Campus,Muffin,Pastry,3.0,2,Cash
+5472,2025-02-11,9,Mall,Latte,Coffee,3.5,1,Card
+5473,2025-02-11,9,Campus,Cappuccino,Coffee,3.5,1,Cash
+5474,2025-02-11,9,Mall,Espresso,Coffee,2.5,1,Cash
+5475,2025-02-11,11,Mall,Latte,Coffee,3.5,3,Card
+5476,2025-02-11,12,Downtown,Espresso,Coffee,2.5,1,Card
+5477,2025-02-11,13,Campus,Espresso,Coffee,2.5,2,Mobile
+5478,2025-02-11,14,Mall,Orange Juice,Juice,3.8,1,Card
+5479,2025-02-11,14,Downtown,Mocha,Coffee,4.0,2,Mobile
+5480,2025-02-11,15,Campus,Espresso,Coffee,2.5,2,Cash
+5481,2025-02-11,15,Campus,Latte,Coffee,3.5,2,Cash
+5482,2025-02-11,15,Campus,Espresso,Coffee,2.5,1,Card
+5483,2025-02-11,17,Mall,Black Tea,Tea,2.0,2,Mobile
+5484,2025-02-11,19,Downtown,Cappuccino,Coffee,3.5,1,Mobile
+5485,2025-02-12,8,Campus,Latte,Coffee,3.5,1,Card
+5486,2025-02-12,8,Campus,Cappuccino,Coffee,3.5,2,Card
+5487,2025-02-12,10,Downtown,Green Tea,Tea,2.5,2,Card
+5488,2025-02-12,12,Downtown,Cookie,Pastry,1.5,1,Cash
+5489,2025-02-12,15,Downtown,Black Tea,Tea,2.0,2,Cash
+5490,2025-02-12,17,Downtown,Cookie,Pastry,1.5,1,Card
+5491,2025-02-12,18,Downtown,Green Tea,Tea,2.5,1,Mobile
+5492,2025-02-13,7,Campus,Cappuccino,Coffee,3.5,1,Mobile
+5493,2025-02-13,7,Campus,Mocha,Coffee,4.0,2,Cash
+5494,2025-02-13,8,Mall,Latte,Coffee,3.5,1,Card
+5495,2025-02-13,8,Campus,Mocha,Coffee,4.0,1,Card
+5496,2025-02-13,9,Downtown,Cappuccino,Coffee,3.5,1,Card
+5497,2025-02-13,9,Campus,Veggie Sandwich,Sandwich,5.5,1,Cash
+5498,2025-02-13,10,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5499,2025-02-13,11,Campus,Cappuccino,Coffee,3.5,1,Cash
+5500,2025-02-13,13,Campus,Black Tea,Tea,2.0,1,Card
+5501,2025-02-13,14,Mall,Cappuccino,Coffee,3.5,3,Card
+5502,2025-02-13,15,Downtown,Muffin,Pastry,3.0,2,Card
+5503,2025-02-13,15,Downtown,Latte,Coffee,3.5,2,Card
+5504,2025-02-13,17,Campus,Cookie,Pastry,1.5,2,Card
+5505,2025-02-13,18,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5506,2025-02-13,18,Downtown,Chicken Sandwich,Sandwich,6.5,2,Cash
+5507,2025-02-13,19,Downtown,Cookie,Pastry,1.5,3,Mobile
+5508,2025-02-14,9,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5509,2025-02-14,9,Campus,Latte,Coffee,3.5,1,Card
+5510,2025-02-14,10,Downtown,Espresso,Coffee,2.5,2,Cash
+5511,2025-02-14,12,Downtown,Croissant,Pastry,2.8,1,Card
+5512,2025-02-14,13,Mall,Orange Juice,Juice,3.8,1,Card
+5513,2025-02-14,13,Mall,Muffin,Pastry,3.0,2,Cash
+5514,2025-02-14,14,Downtown,Espresso,Coffee,2.5,2,Cash
+5515,2025-02-14,16,Campus,Mocha,Coffee,4.0,3,Cash
+5516,2025-02-14,19,Mall,Cappuccino,Coffee,3.5,2,Card
+5517,2025-02-15,7,Downtown,Croissant,Pastry,2.8,1,Mobile
+5518,2025-02-15,7,Downtown,Latte,Coffee,3.5,2,Card
+5519,2025-02-15,7,Mall,Cookie,Pastry,1.5,2,Card
+5520,2025-02-15,10,Mall,Cappuccino,Coffee,3.5,2,Cash
+5521,2025-02-15,10,Campus,Espresso,Coffee,2.5,1,Cash
+5522,2025-02-15,11,Mall,Muffin,Pastry,3.0,2,Card
+5523,2025-02-15,11,Mall,Espresso,Coffee,2.5,3,Card
+5524,2025-02-15,18,Downtown,Croissant,Pastry,2.8,1,Cash
+5525,2025-02-15,20,Campus,Green Tea,Tea,2.5,2,Card
+5526,2025-02-16,7,Mall,Cookie,Pastry,1.5,1,Card
+5527,2025-02-16,8,Downtown,Croissant,Pastry,2.8,1,Card
+5528,2025-02-16,8,Downtown,Orange Juice,Juice,3.8,2,Card
+5529,2025-02-16,8,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5530,2025-02-16,8,Campus,Orange Juice,Juice,3.8,2,Mobile
+5531,2025-02-16,9,Campus,Veggie Sandwich,Sandwich,5.5,2,Cash
+5532,2025-02-16,9,Downtown,Croissant,Pastry,2.8,1,Card
+5533,2025-02-16,10,Downtown,Green Tea,Tea,2.5,3,Mobile
+5534,2025-02-16,10,Mall,Muffin,Pastry,3.0,1,Mobile
+5535,2025-02-16,10,Mall,Latte,Coffee,3.5,1,Mobile
+5536,2025-02-16,10,Campus,Cappuccino,Coffee,3.5,1,Card
+5537,2025-02-16,12,Mall,Orange Juice,Juice,3.8,2,Cash
+5538,2025-02-16,13,Downtown,Latte,Coffee,3.5,2,Mobile
+5539,2025-02-16,14,Downtown,Espresso,Coffee,2.5,1,Card
+5540,2025-02-16,14,Campus,Cookie,Pastry,1.5,1,Card
+5541,2025-02-16,15,Mall,Green Tea,Tea,2.5,1,Card
+5542,2025-02-16,17,Downtown,Black Tea,Tea,2.0,2,Cash
+5543,2025-02-16,17,Downtown,Espresso,Coffee,2.5,2,Card
+5544,2025-02-16,18,Campus,Croissant,Pastry,2.8,1,Cash
+5545,2025-02-16,19,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5546,2025-02-17,8,Downtown,Cappuccino,Coffee,3.5,3,Card
+5547,2025-02-17,9,Mall,Latte,Coffee,3.5,2,Cash
+5548,2025-02-17,10,Downtown,Latte,Coffee,3.5,1,Mobile
+5549,2025-02-17,10,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5550,2025-02-17,13,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5551,2025-02-17,13,Downtown,Latte,Coffee,3.5,2,Card
+5552,2025-02-17,15,Downtown,Orange Juice,Juice,3.8,1,Card
+5553,2025-02-17,15,Downtown,Muffin,Pastry,3.0,1,Cash
+5554,2025-02-17,17,Campus,Muffin,Pastry,3.0,2,Card
+5555,2025-02-18,7,Mall,Mocha,Coffee,4.0,1,Cash
+5556,2025-02-18,9,Campus,Latte,Coffee,3.5,1,Card
+5557,2025-02-18,9,Downtown,Orange Juice,Juice,3.8,3,Card
+5558,2025-02-18,12,Mall,Muffin,Pastry,3.0,1,Card
+5559,2025-02-18,16,Campus,Cappuccino,Coffee,3.5,1,Card
+5560,2025-02-18,16,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5561,2025-02-18,17,Campus,Croissant,Pastry,2.8,2,Cash
+5562,2025-02-18,17,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5563,2025-02-18,18,Mall,Cookie,Pastry,1.5,1,Mobile
+5564,2025-02-18,19,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5565,2025-02-19,9,Downtown,Green Tea,Tea,2.5,2,Cash
+5566,2025-02-19,9,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5567,2025-02-19,10,Mall,Green Tea,Tea,2.5,2,Mobile
+5568,2025-02-19,12,Mall,Latte,Coffee,3.5,1,Card
+5569,2025-02-19,16,Campus,Green Tea,Tea,2.5,2,Card
+5570,2025-02-19,16,Campus,Orange Juice,Juice,3.8,1,Mobile
+5571,2025-02-19,17,Campus,Veggie Sandwich,Sandwich,5.5,1,Cash
+5572,2025-02-19,18,Mall,Muffin,Pastry,3.0,1,Card
+5573,2025-02-19,20,Downtown,Cookie,Pastry,1.5,2,Cash
+5574,2025-02-20,7,Mall,Green Tea,Tea,2.5,1,Cash
+5575,2025-02-20,7,Mall,Muffin,Pastry,3.0,1,Cash
+5576,2025-02-20,7,Downtown,Latte,Coffee,3.5,1,Cash
+5577,2025-02-20,8,Downtown,Black Tea,Tea,2.0,3,Card
+5578,2025-02-20,9,Mall,Croissant,Pastry,2.8,1,Cash
+5579,2025-02-20,9,Downtown,Mocha,Coffee,4.0,3,Mobile
+5580,2025-02-20,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Mobile
+5581,2025-02-20,10,Mall,Chicken Sandwich,Sandwich,6.5,1,Mobile
+5582,2025-02-20,11,Mall,Croissant,Pastry,2.8,1,Card
+5583,2025-02-20,13,Campus,Mocha,Coffee,4.0,2,Card
+5584,2025-02-20,13,Mall,Chicken Sandwich,Sandwich,6.5,3,Cash
+5585,2025-02-20,15,Campus,Latte,Coffee,3.5,2,Card
+5586,2025-02-20,15,Campus,Green Tea,Tea,2.5,2,Mobile
+5587,2025-02-20,17,Downtown,Croissant,Pastry,2.8,3,Mobile
+5588,2025-02-20,17,Campus,Latte,Coffee,3.5,3,Card
+5589,2025-02-20,17,Campus,Cappuccino,Coffee,3.5,1,Cash
+5590,2025-02-20,18,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5591,2025-02-21,7,Downtown,Latte,Coffee,3.5,3,Card
+5592,2025-02-21,8,Downtown,Latte,Coffee,3.5,1,Cash
+5593,2025-02-21,8,Campus,Espresso,Coffee,2.5,2,Cash
+5594,2025-02-21,10,Downtown,Espresso,Coffee,2.5,1,Card
+5595,2025-02-21,11,Mall,Cookie,Pastry,1.5,3,Cash
+5596,2025-02-21,11,Downtown,Espresso,Coffee,2.5,1,Card
+5597,2025-02-21,12,Campus,Green Tea,Tea,2.5,1,Mobile
+5598,2025-02-21,13,Downtown,Cookie,Pastry,1.5,1,Card
+5599,2025-02-21,14,Downtown,Cappuccino,Coffee,3.5,2,Card
+5600,2025-02-21,17,Campus,Cappuccino,Coffee,3.5,3,Mobile
+5601,2025-02-21,19,Downtown,Green Tea,Tea,2.5,1,Card
+5602,2025-02-22,9,Downtown,Orange Juice,Juice,3.8,2,Cash
+5603,2025-02-22,10,Downtown,Cookie,Pastry,1.5,3,Cash
+5604,2025-02-22,10,Downtown,Chicken Sandwich,Sandwich,6.5,2,Cash
+5605,2025-02-22,11,Downtown,Green Tea,Tea,2.5,2,Mobile
+5606,2025-02-22,12,Campus,Green Tea,Tea,2.5,3,Card
+5607,2025-02-22,13,Downtown,Orange Juice,Juice,3.8,2,Card
+5608,2025-02-22,14,Campus,Muffin,Pastry,3.0,1,Card
+5609,2025-02-22,15,Downtown,Veggie Sandwich,Sandwich,5.5,1,Cash
+5610,2025-02-22,15,Downtown,Croissant,Pastry,2.8,1,Cash
+5611,2025-02-22,15,Mall,Cookie,Pastry,1.5,1,Mobile
+5612,2025-02-22,15,Campus,Mocha,Coffee,4.0,3,Mobile
+5613,2025-02-22,16,Campus,Cappuccino,Coffee,3.5,1,Cash
+5614,2025-02-22,20,Campus,Latte,Coffee,3.5,2,Card
+5615,2025-02-23,7,Mall,Veggie Sandwich,Sandwich,5.5,1,Card
+5616,2025-02-23,8,Downtown,Green Tea,Tea,2.5,1,Cash
+5617,2025-02-23,10,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5618,2025-02-23,10,Mall,Orange Juice,Juice,3.8,1,Card
+5619,2025-02-23,13,Downtown,Croissant,Pastry,2.8,2,Card
+5620,2025-02-23,15,Downtown,Cappuccino,Coffee,3.5,1,Mobile
+5621,2025-02-23,19,Campus,Mocha,Coffee,4.0,1,Card
+5622,2025-02-23,19,Mall,Cappuccino,Coffee,3.5,1,Card
+5623,2025-02-23,19,Downtown,Mocha,Coffee,4.0,1,Card
+5624,2025-02-24,7,Mall,Espresso,Coffee,2.5,1,Card
+5625,2025-02-24,7,Campus,Muffin,Pastry,3.0,2,Card
+5626,2025-02-24,8,Mall,Orange Juice,Juice,3.8,2,Mobile
+5627,2025-02-24,9,Downtown,Latte,Coffee,3.5,2,Card
+5628,2025-02-24,9,Mall,Cappuccino,Coffee,3.5,3,Card
+5629,2025-02-24,11,Downtown,Latte,Coffee,3.5,1,Card
+5630,2025-02-24,12,Mall,Espresso,Coffee,2.5,2,Card
+5631,2025-02-24,13,Mall,Latte,Coffee,3.5,2,Card
+5632,2025-02-24,13,Campus,Green Tea,Tea,2.5,3,Card
+5633,2025-02-24,15,Mall,Croissant,Pastry,2.8,2,Cash
+5634,2025-02-24,16,Mall,Croissant,Pastry,2.8,2,Card
+5635,2025-02-24,17,Downtown,Cappuccino,Coffee,3.5,1,Card
+5636,2025-02-24,18,Mall,Cookie,Pastry,1.5,1,Card
+5637,2025-02-24,18,Campus,Espresso,Coffee,2.5,2,Cash
+5638,2025-02-25,8,Campus,Cappuccino,Coffee,3.5,2,Cash
+5639,2025-02-25,9,Campus,Espresso,Coffee,2.5,3,Card
+5640,2025-02-25,11,Campus,Orange Juice,Juice,3.8,2,Card
+5641,2025-02-25,11,Mall,Cappuccino,Coffee,3.5,1,Card
+5642,2025-02-25,11,Campus,Cappuccino,Coffee,3.5,1,Card
+5643,2025-02-25,12,Mall,Black Tea,Tea,2.0,1,Card
+5644,2025-02-25,13,Campus,Cookie,Pastry,1.5,2,Cash
+5645,2025-02-25,14,Downtown,Muffin,Pastry,3.0,1,Card
+5646,2025-02-25,15,Campus,Latte,Coffee,3.5,1,Card
+5647,2025-02-25,15,Downtown,Green Tea,Tea,2.5,2,Card
+5648,2025-02-25,17,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5649,2025-02-25,19,Mall,Chicken Sandwich,Sandwich,6.5,3,Card
+5650,2025-02-25,19,Downtown,Orange Juice,Juice,3.8,1,Cash
+5651,2025-02-26,7,Campus,Espresso,Coffee,2.5,1,Cash
+5652,2025-02-26,7,Mall,Latte,Coffee,3.5,2,Card
+5653,2025-02-26,7,Downtown,Cookie,Pastry,1.5,3,Cash
+5654,2025-02-26,8,Downtown,Cappuccino,Coffee,3.5,2,Mobile
+5655,2025-02-26,8,Downtown,Green Tea,Tea,2.5,1,Cash
+5656,2025-02-26,10,Campus,Mocha,Coffee,4.0,1,Card
+5657,2025-02-26,10,Downtown,Latte,Coffee,3.5,1,Cash
+5658,2025-02-26,14,Mall,Croissant,Pastry,2.8,1,Card
+5659,2025-02-26,14,Mall,Chicken Sandwich,Sandwich,6.5,1,Mobile
+5660,2025-02-26,15,Mall,Latte,Coffee,3.5,3,Card
+5661,2025-02-26,16,Downtown,Black Tea,Tea,2.0,1,Card
+5662,2025-02-26,17,Campus,Mocha,Coffee,4.0,1,Cash
+5663,2025-02-26,18,Downtown,Espresso,Coffee,2.5,1,Card
+5664,2025-02-26,19,Campus,Cappuccino,Coffee,3.5,1,Cash
+5665,2025-02-26,20,Downtown,Mocha,Coffee,4.0,2,Mobile
+5666,2025-02-27,8,Campus,Espresso,Coffee,2.5,2,Cash
+5667,2025-02-27,8,Downtown,Mocha,Coffee,4.0,1,Mobile
+5668,2025-02-27,9,Campus,Latte,Coffee,3.5,2,Card
+5669,2025-02-27,9,Downtown,Mocha,Coffee,4.0,2,Cash
+5670,2025-02-27,10,Campus,Espresso,Coffee,2.5,2,Mobile
+5671,2025-02-27,12,Downtown,Cookie,Pastry,1.5,1,Card
+5672,2025-02-27,12,Campus,Espresso,Coffee,2.5,3,Card
+5673,2025-02-27,13,Mall,Latte,Coffee,3.5,2,Cash
+5674,2025-02-27,14,Campus,Veggie Sandwich,Sandwich,5.5,1,Card
+5675,2025-02-27,15,Campus,Orange Juice,Juice,3.8,1,Card
+5676,2025-02-27,15,Mall,Veggie Sandwich,Sandwich,5.5,3,Card
+5677,2025-02-27,16,Downtown,Cookie,Pastry,1.5,2,Card
+5678,2025-02-27,17,Campus,Veggie Sandwich,Sandwich,5.5,2,Card
+5679,2025-02-27,17,Mall,Espresso,Coffee,2.5,1,Card
+5680,2025-02-27,19,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5681,2025-02-27,20,Campus,Orange Juice,Juice,3.8,1,Card
+5682,2025-02-28,9,Campus,Latte,Coffee,3.5,3,Card
+5683,2025-02-28,12,Downtown,Muffin,Pastry,3.0,1,Card
+5684,2025-02-28,13,Downtown,Croissant,Pastry,2.8,1,Card
+5685,2025-02-28,13,Mall,Cappuccino,Coffee,3.5,2,Cash
+5686,2025-02-28,14,Campus,Chicken Sandwich,Sandwich,6.5,2,Cash
+5687,2025-02-28,14,Campus,Latte,Coffee,3.5,1,Mobile
+5688,2025-02-28,15,Downtown,Espresso,Coffee,2.5,2,Card
+5689,2025-02-28,17,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5690,2025-02-28,20,Downtown,Green Tea,Tea,2.5,1,Mobile
+5691,2025-03-01,7,Mall,Croissant,Pastry,2.8,2,Card
+5692,2025-03-01,8,Mall,Croissant,Pastry,2.8,1,Cash
+5693,2025-03-01,8,Campus,Croissant,Pastry,2.8,2,Card
+5694,2025-03-01,9,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5695,2025-03-01,11,Campus,Latte,Coffee,3.5,2,Card
+5696,2025-03-01,11,Campus,Cookie,Pastry,1.5,1,Cash
+5697,2025-03-01,12,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5698,2025-03-01,13,Downtown,Latte,Coffee,3.5,1,Card
+5699,2025-03-01,13,Downtown,Croissant,Pastry,2.8,2,Cash
+5700,2025-03-01,15,Campus,Black Tea,Tea,2.0,3,Card
+5701,2025-03-01,17,Downtown,Espresso,Coffee,2.5,1,Mobile
+5702,2025-03-02,7,Mall,Black Tea,Tea,2.0,3,Card
+5703,2025-03-02,7,Mall,Croissant,Pastry,2.8,1,Card
+5704,2025-03-02,7,Campus,Veggie Sandwich,Sandwich,5.5,1,Card
+5705,2025-03-02,8,Mall,Black Tea,Tea,2.0,2,Card
+5706,2025-03-02,9,Campus,Mocha,Coffee,4.0,1,Card
+5707,2025-03-02,9,Mall,Black Tea,Tea,2.0,1,Card
+5708,2025-03-02,9,Mall,Muffin,Pastry,3.0,1,Card
+5709,2025-03-02,11,Campus,Espresso,Coffee,2.5,1,Cash
+5710,2025-03-02,15,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5711,2025-03-02,16,Mall,Mocha,Coffee,4.0,1,Card
+5712,2025-03-02,16,Mall,Cappuccino,Coffee,3.5,1,Cash
+5713,2025-03-02,18,Downtown,Mocha,Coffee,4.0,2,Card
+5714,2025-03-02,20,Mall,Mocha,Coffee,4.0,1,Card
+5715,2025-03-02,20,Downtown,Veggie Sandwich,Sandwich,5.5,2,Card
+5716,2025-03-02,20,Campus,Green Tea,Tea,2.5,2,Cash
+5717,2025-03-02,20,Downtown,Cappuccino,Coffee,3.5,2,Cash
+5718,2025-03-03,8,Downtown,Cookie,Pastry,1.5,1,Card
+5719,2025-03-03,8,Mall,Latte,Coffee,3.5,2,Cash
+5720,2025-03-03,10,Downtown,Espresso,Coffee,2.5,2,Mobile
+5721,2025-03-03,13,Campus,Green Tea,Tea,2.5,1,Cash
+5722,2025-03-03,13,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5723,2025-03-03,13,Campus,Orange Juice,Juice,3.8,2,Card
+5724,2025-03-03,13,Campus,Latte,Coffee,3.5,2,Card
+5725,2025-03-03,14,Downtown,Cappuccino,Coffee,3.5,3,Cash
+5726,2025-03-03,14,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5727,2025-03-04,8,Campus,Cookie,Pastry,1.5,3,Card
+5728,2025-03-04,10,Campus,Muffin,Pastry,3.0,1,Card
+5729,2025-03-04,10,Campus,Orange Juice,Juice,3.8,1,Card
+5730,2025-03-04,11,Campus,Cappuccino,Coffee,3.5,2,Card
+5731,2025-03-04,13,Downtown,Black Tea,Tea,2.0,2,Cash
+5732,2025-03-04,16,Mall,Espresso,Coffee,2.5,3,Cash
+5733,2025-03-04,16,Mall,Veggie Sandwich,Sandwich,5.5,1,Cash
+5734,2025-03-04,18,Downtown,Latte,Coffee,3.5,1,Cash
+5735,2025-03-04,19,Downtown,Green Tea,Tea,2.5,2,Card
+5736,2025-03-04,20,Campus,Mocha,Coffee,4.0,1,Card
+5737,2025-03-05,7,Campus,Orange Juice,Juice,3.8,2,Card
+5738,2025-03-05,8,Downtown,Latte,Coffee,3.5,1,Cash
+5739,2025-03-05,8,Campus,Cappuccino,Coffee,3.5,3,Card
+5740,2025-03-05,8,Downtown,Veggie Sandwich,Sandwich,5.5,1,Card
+5741,2025-03-05,8,Campus,Croissant,Pastry,2.8,1,Card
+5742,2025-03-05,9,Downtown,Cappuccino,Coffee,3.5,2,Cash
+5743,2025-03-05,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5744,2025-03-05,10,Downtown,Cappuccino,Coffee,3.5,1,Card
+5745,2025-03-05,10,Downtown,Latte,Coffee,3.5,2,Card
+5746,2025-03-05,10,Downtown,Cappuccino,Coffee,3.5,3,Card
+5747,2025-03-05,13,Campus,Mocha,Coffee,4.0,3,Cash
+5748,2025-03-05,14,Downtown,Cookie,Pastry,1.5,3,Cash
+5749,2025-03-05,17,Mall,Chicken Sandwich,Sandwich,6.5,1,Cash
+5750,2025-03-05,17,Mall,Espresso,Coffee,2.5,1,Card
+5751,2025-03-05,17,Downtown,Veggie Sandwich,Sandwich,5.5,3,Cash
+5752,2025-03-06,8,Downtown,Cappuccino,Coffee,3.5,2,Card
+5753,2025-03-06,9,Mall,Cookie,Pastry,1.5,1,Cash
+5754,2025-03-06,13,Campus,Black Tea,Tea,2.0,3,Card
+5755,2025-03-06,15,Downtown,Muffin,Pastry,3.0,1,Mobile
+5756,2025-03-06,19,Mall,Latte,Coffee,3.5,2,Cash
+5757,2025-03-07,8,Campus,Cappuccino,Coffee,3.5,1,Card
+5758,2025-03-07,9,Downtown,Croissant,Pastry,2.8,1,Cash
+5759,2025-03-07,10,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5760,2025-03-07,12,Downtown,Chicken Sandwich,Sandwich,6.5,2,Cash
+5761,2025-03-07,12,Mall,Orange Juice,Juice,3.8,1,Card
+5762,2025-03-07,13,Downtown,Mocha,Coffee,4.0,3,Mobile
+5763,2025-03-07,13,Downtown,Latte,Coffee,3.5,3,Cash
+5764,2025-03-07,13,Mall,Cappuccino,Coffee,3.5,1,Card
+5765,2025-03-07,14,Mall,Green Tea,Tea,2.5,2,Card
+5766,2025-03-07,18,Mall,Latte,Coffee,3.5,2,Cash
+5767,2025-03-08,8,Campus,Espresso,Coffee,2.5,3,Cash
+5768,2025-03-08,9,Campus,Chicken Sandwich,Sandwich,6.5,1,Cash
+5769,2025-03-08,10,Downtown,Veggie Sandwich,Sandwich,5.5,2,Cash
+5770,2025-03-08,10,Campus,Croissant,Pastry,2.8,1,Cash
+5771,2025-03-08,12,Downtown,Orange Juice,Juice,3.8,1,Card
+5772,2025-03-08,14,Downtown,Cappuccino,Coffee,3.5,2,Card
+5773,2025-03-08,17,Campus,Mocha,Coffee,4.0,2,Mobile
+5774,2025-03-08,19,Downtown,Espresso,Coffee,2.5,1,Cash
+5775,2025-03-09,9,Campus,Cookie,Pastry,1.5,1,Card
+5776,2025-03-09,10,Campus,Latte,Coffee,3.5,2,Cash
+5777,2025-03-09,11,Mall,Espresso,Coffee,2.5,1,Cash
+5778,2025-03-09,12,Downtown,Croissant,Pastry,2.8,3,Card
+5779,2025-03-09,13,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5780,2025-03-09,14,Campus,Latte,Coffee,3.5,2,Cash
+5781,2025-03-09,15,Mall,Croissant,Pastry,2.8,1,Card
+5782,2025-03-09,17,Downtown,Cappuccino,Coffee,3.5,3,Mobile
+5783,2025-03-10,7,Downtown,Espresso,Coffee,2.5,1,Card
+5784,2025-03-10,7,Campus,Cookie,Pastry,1.5,3,Mobile
+5785,2025-03-10,7,Mall,Muffin,Pastry,3.0,2,Card
+5786,2025-03-10,8,Campus,Cappuccino,Coffee,3.5,1,Card
+5787,2025-03-10,9,Downtown,Chicken Sandwich,Sandwich,6.5,1,Card
+5788,2025-03-10,9,Campus,Muffin,Pastry,3.0,2,Cash
+5789,2025-03-10,10,Mall,Latte,Coffee,3.5,2,Card
+5790,2025-03-10,17,Downtown,Croissant,Pastry,2.8,1,Mobile
+5791,2025-03-10,17,Campus,Chicken Sandwich,Sandwich,6.5,1,Card
+5792,2025-03-11,9,Campus,Espresso,Coffee,2.5,1,Mobile
+5793,2025-03-11,13,Campus,Croissant,Pastry,2.8,2,Card
+5794,2025-03-11,13,Mall,Croissant,Pastry,2.8,2,Card
+5795,2025-03-11,15,Campus,Espresso,Coffee,2.5,3,Cash
+5796,2025-03-11,16,Mall,Croissant,Pastry,2.8,3,Card
+5797,2025-03-11,17,Mall,Cookie,Pastry,1.5,3,Card
+5798,2025-03-11,18,Downtown,Muffin,Pastry,3.0,2,Card
+5799,2025-03-11,19,Mall,Latte,Coffee,3.5,1,Card
+5800,2025-03-12,8,Campus,Espresso,Coffee,2.5,2,Card
+5801,2025-03-12,8,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5802,2025-03-12,9,Campus,Espresso,Coffee,2.5,3,Card
+5803,2025-03-12,11,Campus,Latte,Coffee,3.5,2,Card
+5804,2025-03-12,11,Downtown,Muffin,Pastry,3.0,1,Mobile
+5805,2025-03-12,12,Mall,Latte,Coffee,3.5,2,Cash
+5806,2025-03-12,17,Downtown,Latte,Coffee,3.5,1,Card
+5807,2025-03-12,17,Downtown,Croissant,Pastry,2.8,1,Card
+5808,2025-03-12,20,Campus,Cappuccino,Coffee,3.5,1,Card
+5809,2025-03-13,7,Downtown,Espresso,Coffee,2.5,1,Cash
+5810,2025-03-13,9,Mall,Latte,Coffee,3.5,1,Card
+5811,2025-03-13,10,Mall,Green Tea,Tea,2.5,1,Mobile
+5812,2025-03-13,10,Campus,Veggie Sandwich,Sandwich,5.5,2,Card
+5813,2025-03-13,11,Mall,Croissant,Pastry,2.8,2,Cash
+5814,2025-03-13,13,Downtown,Cookie,Pastry,1.5,3,Cash
+5815,2025-03-13,15,Campus,Croissant,Pastry,2.8,2,Mobile
+5816,2025-03-13,15,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5817,2025-03-14,8,Mall,Espresso,Coffee,2.5,2,Card
+5818,2025-03-14,8,Campus,Croissant,Pastry,2.8,2,Card
+5819,2025-03-14,12,Mall,Latte,Coffee,3.5,1,Cash
+5820,2025-03-14,13,Downtown,Muffin,Pastry,3.0,2,Card
+5821,2025-03-14,14,Campus,Cappuccino,Coffee,3.5,1,Mobile
+5822,2025-03-14,16,Downtown,Cappuccino,Coffee,3.5,3,Cash
+5823,2025-03-14,17,Downtown,Green Tea,Tea,2.5,1,Card
+5824,2025-03-14,20,Mall,Cookie,Pastry,1.5,1,Card
+5825,2025-03-15,7,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5826,2025-03-15,9,Campus,Croissant,Pastry,2.8,3,Card
+5827,2025-03-15,9,Campus,Croissant,Pastry,2.8,1,Cash
+5828,2025-03-15,10,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5829,2025-03-15,13,Campus,Latte,Coffee,3.5,3,Card
+5830,2025-03-15,14,Downtown,Croissant,Pastry,2.8,2,Cash
+5831,2025-03-15,15,Mall,Cappuccino,Coffee,3.5,1,Cash
+5832,2025-03-15,17,Mall,Veggie Sandwich,Sandwich,5.5,3,Cash
+5833,2025-03-15,19,Mall,Croissant,Pastry,2.8,3,Mobile
+5834,2025-03-15,20,Campus,Cappuccino,Coffee,3.5,2,Card
+5835,2025-03-15,20,Downtown,Croissant,Pastry,2.8,1,Card
+5836,2025-03-16,7,Mall,Espresso,Coffee,2.5,3,Card
+5837,2025-03-16,8,Downtown,Latte,Coffee,3.5,1,Card
+5838,2025-03-16,8,Downtown,Green Tea,Tea,2.5,1,Card
+5839,2025-03-16,9,Campus,Espresso,Coffee,2.5,3,Mobile
+5840,2025-03-16,10,Campus,Orange Juice,Juice,3.8,2,Cash
+5841,2025-03-16,14,Downtown,Espresso,Coffee,2.5,2,Card
+5842,2025-03-16,17,Downtown,Orange Juice,Juice,3.8,1,Card
+5843,2025-03-17,7,Campus,Mocha,Coffee,4.0,2,Card
+5844,2025-03-17,8,Mall,Cookie,Pastry,1.5,1,Card
+5845,2025-03-17,8,Downtown,Cookie,Pastry,1.5,3,Card
+5846,2025-03-17,14,Downtown,Black Tea,Tea,2.0,1,Card
+5847,2025-03-17,14,Downtown,Latte,Coffee,3.5,1,Cash
+5848,2025-03-17,15,Mall,Chicken Sandwich,Sandwich,6.5,3,Card
+5849,2025-03-17,15,Downtown,Croissant,Pastry,2.8,2,Cash
+5850,2025-03-17,17,Mall,Mocha,Coffee,4.0,3,Card
+5851,2025-03-17,17,Mall,Cappuccino,Coffee,3.5,3,Cash
+5852,2025-03-18,7,Campus,Latte,Coffee,3.5,1,Card
+5853,2025-03-18,10,Downtown,Mocha,Coffee,4.0,1,Card
+5854,2025-03-18,11,Downtown,Muffin,Pastry,3.0,1,Cash
+5855,2025-03-18,11,Campus,Croissant,Pastry,2.8,1,Cash
+5856,2025-03-18,17,Downtown,Cookie,Pastry,1.5,3,Mobile
+5857,2025-03-18,18,Mall,Latte,Coffee,3.5,1,Cash
+5858,2025-03-18,18,Downtown,Espresso,Coffee,2.5,2,Card
+5859,2025-03-18,19,Campus,Cappuccino,Coffee,3.5,1,Card
+5860,2025-03-18,20,Campus,Latte,Coffee,3.5,2,Mobile
+5861,2025-03-19,8,Downtown,Latte,Coffee,3.5,3,Mobile
+5862,2025-03-19,9,Campus,Cookie,Pastry,1.5,1,Card
+5863,2025-03-19,9,Downtown,Cookie,Pastry,1.5,1,Card
+5864,2025-03-19,10,Downtown,Mocha,Coffee,4.0,1,Card
+5865,2025-03-19,10,Downtown,Espresso,Coffee,2.5,3,Card
+5866,2025-03-19,10,Downtown,Chicken Sandwich,Sandwich,6.5,1,Cash
+5867,2025-03-19,11,Downtown,Cappuccino,Coffee,3.5,1,Card
+5868,2025-03-19,11,Mall,Veggie Sandwich,Sandwich,5.5,1,Card
+5869,2025-03-19,13,Mall,Cappuccino,Coffee,3.5,1,Card
+5870,2025-03-19,16,Mall,Mocha,Coffee,4.0,1,Card
+5871,2025-03-19,17,Downtown,Cookie,Pastry,1.5,3,Card
+5872,2025-03-19,18,Downtown,Muffin,Pastry,3.0,1,Cash
+5873,2025-03-19,20,Campus,Orange Juice,Juice,3.8,1,Cash
+5874,2025-03-20,8,Mall,Chicken Sandwich,Sandwich,6.5,2,Card
+5875,2025-03-20,8,Downtown,Black Tea,Tea,2.0,1,Card
+5876,2025-03-20,9,Downtown,Cappuccino,Coffee,3.5,2,Card
+5877,2025-03-20,12,Downtown,Espresso,Coffee,2.5,1,Card
+5878,2025-03-20,14,Campus,Muffin,Pastry,3.0,2,Card
+5879,2025-03-20,15,Mall,Cappuccino,Coffee,3.5,1,Card
+5880,2025-03-20,15,Downtown,Mocha,Coffee,4.0,1,Cash
+5881,2025-03-20,15,Campus,Green Tea,Tea,2.5,1,Card
+5882,2025-03-20,19,Downtown,Latte,Coffee,3.5,2,Card
+5883,2025-03-20,19,Downtown,Latte,Coffee,3.5,1,Card
+5884,2025-03-20,20,Campus,Cookie,Pastry,1.5,2,Card
+5885,2025-03-21,8,Downtown,Black Tea,Tea,2.0,2,Cash
+5886,2025-03-21,8,Campus,Cappuccino,Coffee,3.5,3,Cash
+5887,2025-03-21,9,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5888,2025-03-21,10,Downtown,Croissant,Pastry,2.8,3,Card
+5889,2025-03-21,14,Downtown,Latte,Coffee,3.5,3,Card
+5890,2025-03-22,7,Downtown,Espresso,Coffee,2.5,3,Mobile
+5891,2025-03-22,8,Downtown,Orange Juice,Juice,3.8,2,Cash
+5892,2025-03-22,9,Downtown,Latte,Coffee,3.5,1,Card
+5893,2025-03-22,11,Campus,Orange Juice,Juice,3.8,1,Card
+5894,2025-03-22,11,Campus,Cookie,Pastry,1.5,1,Cash
+5895,2025-03-22,14,Mall,Green Tea,Tea,2.5,1,Card
+5896,2025-03-22,19,Mall,Espresso,Coffee,2.5,2,Mobile
+5897,2025-03-22,20,Campus,Muffin,Pastry,3.0,1,Card
+5898,2025-03-23,8,Mall,Croissant,Pastry,2.8,1,Card
+5899,2025-03-23,8,Downtown,Orange Juice,Juice,3.8,2,Mobile
+5900,2025-03-23,10,Mall,Mocha,Coffee,4.0,1,Card
+5901,2025-03-23,10,Downtown,Latte,Coffee,3.5,2,Cash
+5902,2025-03-23,11,Campus,Mocha,Coffee,4.0,1,Cash
+5903,2025-03-23,11,Campus,Latte,Coffee,3.5,1,Card
+5904,2025-03-23,14,Campus,Cappuccino,Coffee,3.5,2,Cash
+5905,2025-03-23,14,Campus,Cappuccino,Coffee,3.5,1,Card
+5906,2025-03-23,14,Campus,Mocha,Coffee,4.0,3,Mobile
+5907,2025-03-23,14,Downtown,Green Tea,Tea,2.5,3,Cash
+5908,2025-03-23,14,Downtown,Mocha,Coffee,4.0,1,Mobile
+5909,2025-03-23,16,Campus,Espresso,Coffee,2.5,1,Cash
+5910,2025-03-23,18,Downtown,Latte,Coffee,3.5,1,Card
+5911,2025-03-23,20,Downtown,Mocha,Coffee,4.0,3,Card
+5912,2025-03-23,20,Campus,Espresso,Coffee,2.5,1,Card
+5913,2025-03-24,7,Downtown,Orange Juice,Juice,3.8,1,Mobile
+5914,2025-03-24,8,Downtown,Cappuccino,Coffee,3.5,1,Cash
+5915,2025-03-24,14,Mall,Chicken Sandwich,Sandwich,6.5,1,Card
+5916,2025-03-24,14,Campus,Cappuccino,Coffee,3.5,3,Cash
+5917,2025-03-24,14,Mall,Chicken Sandwich,Sandwich,6.5,1,Cash
+5918,2025-03-24,17,Mall,Chicken Sandwich,Sandwich,6.5,2,Cash
+5919,2025-03-24,18,Mall,Cookie,Pastry,1.5,2,Cash
+5920,2025-03-24,20,Downtown,Cappuccino,Coffee,3.5,2,Cash
+5921,2025-03-25,7,Mall,Black Tea,Tea,2.0,3,Card
+5922,2025-03-25,7,Campus,Orange Juice,Juice,3.8,3,Card
+5923,2025-03-25,8,Downtown,Green Tea,Tea,2.5,1,Card
+5924,2025-03-25,9,Downtown,Green Tea,Tea,2.5,2,Card
+5925,2025-03-25,9,Downtown,Chicken Sandwich,Sandwich,6.5,2,Cash
+5926,2025-03-25,10,Downtown,Mocha,Coffee,4.0,1,Cash
+5927,2025-03-25,11,Downtown,Muffin,Pastry,3.0,1,Cash
+5928,2025-03-25,11,Campus,Green Tea,Tea,2.5,2,Card
+5929,2025-03-25,13,Campus,Mocha,Coffee,4.0,2,Cash
+5930,2025-03-25,15,Downtown,Croissant,Pastry,2.8,3,Cash
+5931,2025-03-25,17,Downtown,Black Tea,Tea,2.0,2,Card
+5932,2025-03-26,8,Mall,Orange Juice,Juice,3.8,2,Card
+5933,2025-03-26,8,Downtown,Latte,Coffee,3.5,2,Card
+5934,2025-03-26,8,Campus,Croissant,Pastry,2.8,1,Mobile
+5935,2025-03-26,8,Downtown,Cookie,Pastry,1.5,1,Card
+5936,2025-03-26,9,Downtown,Latte,Coffee,3.5,2,Card
+5937,2025-03-26,9,Campus,Espresso,Coffee,2.5,3,Cash
+5938,2025-03-26,10,Downtown,Latte,Coffee,3.5,2,Card
+5939,2025-03-26,10,Downtown,Veggie Sandwich,Sandwich,5.5,2,Cash
+5940,2025-03-26,12,Campus,Espresso,Coffee,2.5,2,Card
+5941,2025-03-26,13,Downtown,Black Tea,Tea,2.0,2,Cash
+5942,2025-03-26,13,Campus,Orange Juice,Juice,3.8,3,Card
+5943,2025-03-26,19,Campus,Latte,Coffee,3.5,3,Cash
+5944,2025-03-27,7,Downtown,Latte,Coffee,3.5,2,Card
+5945,2025-03-27,7,Mall,Cappuccino,Coffee,3.5,1,Card
+5946,2025-03-27,8,Campus,Cappuccino,Coffee,3.5,3,Card
+5947,2025-03-27,8,Mall,Espresso,Coffee,2.5,3,Card
+5948,2025-03-27,8,Downtown,Latte,Coffee,3.5,1,Card
+5949,2025-03-27,8,Mall,Latte,Coffee,3.5,1,Mobile
+5950,2025-03-27,9,Campus,Mocha,Coffee,4.0,3,Cash
+5951,2025-03-27,10,Downtown,Espresso,Coffee,2.5,2,Card
+5952,2025-03-27,11,Downtown,Muffin,Pastry,3.0,2,Mobile
+5953,2025-03-27,11,Mall,Latte,Coffee,3.5,2,Cash
+5954,2025-03-27,12,Downtown,Cappuccino,Coffee,3.5,1,Mobile
+5955,2025-03-27,13,Campus,Latte,Coffee,3.5,2,Mobile
+5956,2025-03-27,14,Campus,Veggie Sandwich,Sandwich,5.5,3,Card
+5957,2025-03-27,14,Campus,Muffin,Pastry,3.0,1,Card
+5958,2025-03-27,20,Downtown,Mocha,Coffee,4.0,1,Card
+5959,2025-03-28,7,Downtown,Muffin,Pastry,3.0,2,Cash
+5960,2025-03-28,8,Downtown,Muffin,Pastry,3.0,1,Card
+5961,2025-03-28,8,Downtown,Espresso,Coffee,2.5,2,Cash
+5962,2025-03-28,10,Campus,Espresso,Coffee,2.5,1,Cash
+5963,2025-03-28,10,Downtown,Cappuccino,Coffee,3.5,2,Card
+5964,2025-03-28,10,Mall,Muffin,Pastry,3.0,2,Mobile
+5965,2025-03-28,12,Campus,Latte,Coffee,3.5,2,Cash
+5966,2025-03-28,13,Mall,Latte,Coffee,3.5,1,Cash
+5967,2025-03-28,14,Mall,Latte,Coffee,3.5,1,Cash
+5968,2025-03-28,16,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5969,2025-03-28,20,Campus,Croissant,Pastry,2.8,3,Mobile
+5970,2025-03-29,7,Downtown,Veggie Sandwich,Sandwich,5.5,1,Mobile
+5971,2025-03-29,9,Mall,Green Tea,Tea,2.5,1,Card
+5972,2025-03-29,9,Downtown,Chicken Sandwich,Sandwich,6.5,2,Card
+5973,2025-03-29,9,Downtown,Black Tea,Tea,2.0,2,Cash
+5974,2025-03-29,10,Campus,Veggie Sandwich,Sandwich,5.5,1,Mobile
+5975,2025-03-29,10,Campus,Veggie Sandwich,Sandwich,5.5,2,Card
+5976,2025-03-29,10,Mall,Mocha,Coffee,4.0,2,Cash
+5977,2025-03-29,11,Campus,Orange Juice,Juice,3.8,3,Cash
+5978,2025-03-29,13,Campus,Espresso,Coffee,2.5,2,Cash
+5979,2025-03-29,13,Downtown,Black Tea,Tea,2.0,2,Cash
+5980,2025-03-29,14,Downtown,Latte,Coffee,3.5,1,Mobile
+5981,2025-03-29,14,Downtown,Cappuccino,Coffee,3.5,1,Card
+5982,2025-03-29,14,Downtown,Orange Juice,Juice,3.8,3,Card
+5983,2025-03-29,20,Campus,Muffin,Pastry,3.0,1,Card
+5984,2025-03-30,7,Downtown,Chicken Sandwich,Sandwich,6.5,2,Mobile
+5985,2025-03-30,9,Downtown,Latte,Coffee,3.5,2,Card
+5986,2025-03-30,9,Campus,Mocha,Coffee,4.0,1,Card
+5987,2025-03-30,12,Downtown,Espresso,Coffee,2.5,2,Card
+5988,2025-03-30,13,Mall,Black Tea,Tea,2.0,2,Card
+5989,2025-03-30,14,Mall,Cappuccino,Coffee,3.5,3,Card
+5990,2025-03-30,15,Downtown,Cookie,Pastry,1.5,1,Card
+5991,2025-03-30,15,Campus,Cappuccino,Coffee,3.5,2,Cash
+5992,2025-03-30,16,Mall,Mocha,Coffee,4.0,2,Cash
+5993,2025-03-30,18,Campus,Latte,Coffee,3.5,1,Card
+5994,2025-03-30,18,Campus,Croissant,Pastry,2.8,1,Card
+5995,2025-03-31,10,Campus,Green Tea,Tea,2.5,3,Cash
+5996,2025-03-31,13,Downtown,Cookie,Pastry,1.5,2,Card
+5997,2025-03-31,14,Campus,Chicken Sandwich,Sandwich,6.5,2,Card
+5998,2025-03-31,14,Mall,Muffin,Pastry,3.0,1,Card
+5999,2025-03-31,15,Campus,Muffin,Pastry,3.0,2,Cash
+6000,2025-03-31,17,Campus,Muffin,Pastry,3.0,1,Cash

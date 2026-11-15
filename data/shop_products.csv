@@ -1,0 +1,41 @@
+product_id,product,category,price
+P001,Python Basics,Books,13.51
+P002,Data Science Handbook,Books,22.93
+P003,Statistics Made Simple,Books,11.77
+P004,Machine Learning Guide,Books,10.44
+P005,SQL in a Week,Books,14.5
+P006,Clean Code Notes,Books,17.46
+P007,Linear Algebra Primer,Books,20.34
+P008,Visual Thinking,Books,17.44
+P009,Deep Learning Intro,Books,15.5
+P010,Excel to Python,Books,12.43
+P011,USB Hub,Electronics,289.36
+P012,Wireless Mouse,Electronics,46.78
+P013,Keyboard,Electronics,97.05
+P014,Headphones,Electronics,242.62
+P015,Webcam,Electronics,134.87
+P016,Power Bank,Electronics,288.46
+P017,Monitor Stand,Electronics,154.68
+P018,SSD 512GB,Electronics,34.79
+P019,Desk Lamp,Electronics,60.91
+P020,Speaker,Electronics,119.8
+P021,Notebook A5,Stationery,3.8
+P022,Pen Set,Stationery,6.29
+P023,Highlighters,Stationery,1.42
+P024,Sticky Notes,Stationery,1.09
+P025,Pencil Case,Stationery,11.05
+P026,Ruler,Stationery,2.19
+P027,Planner,Stationery,11.04
+P028,Markers,Stationery,11.99
+P029,Index Cards,Stationery,1.48
+P030,Stapler,Stationery,8.45
+P031,Laptop Bag,Bags,57.19
+P032,Backpack,Bags,38.09
+P033,Tote Bag,Bags,15.32
+P034,Sleeve 13in,Bags,25.61
+P035,Sleeve 15in,Bags,28.26
+P036,Messenger Bag,Bags,16.77
+P037,Gym Bag,Bags,58.15
+P038,Travel Pouch,Bags,46.0
+P039,Cable Organiser,Bags,34.02
+P040,Pencil Bag,Bags,20.78
