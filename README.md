@@ -1,6 +1,6 @@
 # Data Science with Python: course website
 
-Teknova training course by Mohammad Labania. 52 sessions in 3 levels and 8 stages.
+Teknova training course by Mohammad Labania. 40 sessions of 90 minutes in 2 levels and 6 stages.
 
 This repository is a static website. For every session it offers the slide deck (PPTX and PDF),
 the lecture, exercises and solutions notebooks with an "Open in Colab" button, and three ready

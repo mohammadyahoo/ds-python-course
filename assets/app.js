@@ -171,7 +171,7 @@
     return lines.join("\n");
   }
   function projectAr(n) {
-    return { 14: "المشروع الأول", 25: "المشروع الثاني", 44: "المشروع الثالث", 52: "المشروع الرابع، مشروع التخرج" }[n] || "مشروع";
+    return { 9: "المشروع الأول", 16: "المشروع الثاني", 23: "المشروع الثالث", 32: "المشروع الرابع", 40: "المشروع الخامس، مشروع التخرج" }[n] || "مشروع";
   }
 
   /* ---------- views ---------- */
@@ -187,8 +187,8 @@
     var r = repoInfo();
     var html = '<section class="hero"><h1>Data Science with Python</h1>' +
       '<p>كل مواد الكورس بمكان واحد: دفاتر Colab، العروض التقديمية، والرسائل الجاهزة للنشر لكل جلسة، من أول جلسة لآخر جلسة.</p>' +
-      '<div class="stats"><div class="stat"><b>52</b><span>جلسة</span></div><div class="stat"><b>3</b><span>مستويات</span></div>' +
-      '<div class="stat"><b>8</b><span>مراحل</span></div><div class="stat"><b>4</b><span>مشاريع</span></div>' +
+      '<div class="stats"><div class="stat"><b>40</b><span>جلسة</span></div><div class="stat"><b>2</b><span>مستويات</span></div>' +
+      '<div class="stat"><b>6</b><span>مراحل</span></div><div class="stat"><b>5</b><span>مشاريع</span></div>' +
       '<div class="stat"><b>' + COURSE.datasets.length + '</b><span>ملف داتا</span></div></div></section>';
 
     if (DRIVE.root) {
@@ -267,7 +267,7 @@
     var sch = schedule(), d = sch[s.n], prev = byNum(n - 1), next = byNum(n + 1);
     var pdf = file(s, "slides.pdf");
     var html = '<div class="crumbs"><a href="#/">الجلسات</a> / المرحلة ' + s.stage + ' · <span class="en">' + esc(s.stageName) + '</span></div>';
-    html += '<div class="s-head"><div><div class="eyebrow">الجلسة ' + pad(s.n) + ' من 52 · المستوى ' + s.level + (d ? " · " + esc(fmtDate(d)) : "") + '</div>' +
+    html += '<div class="s-head"><div><div class="eyebrow">الجلسة ' + pad(s.n) + ' من ' + COURSE.sessions.length + ' · المستوى ' + s.level + (d ? " · " + esc(fmtDate(d)) : "") + '</div>' +
       '<h1>' + esc(s.title) + '</h1>' + (s.project ? '<span class="pill project">' + projectAr(s.n) + '</span>' : "") + '</div>' +
       '<div class="s-nav">' + (DRIVE.sessions && DRIVE.sessions[String(s.n)] ? '<a class="btn" target="_blank" rel="noopener" href="' + driveFolder(DRIVE.sessions[String(s.n)].folder) + '">مجلد الجلسة بـ Drive</a>' : "") + (prev ? '<a class="btn" href="#/s/' + pad(prev.n) + '">السابقة</a>' : "") + (next ? '<a class="btn" href="#/s/' + pad(next.n) + '">التالية</a>' : "") + '</div></div>';
 
@@ -393,7 +393,7 @@
     }).join("");
     app.innerHTML = '<div class="prose"><h2>الإعدادات</h2><p class="muted">بتنحفظ بهالمتصفح وبتستعمل بالرسائل والمواعيد.</p></div>' +
       '<form class="card form" id="settings-form">' +
-      '<div class="field"><label for="f-start">تاريخ أول جلسة</label><input id="f-start" type="date" value="' + esc(settings.start) + '"><div class="hint">من هاد التاريخ بتنحسب مواعيد الـ52 جلسة على الأيام اللي بتختارها.</div></div>' +
+      '<div class="field"><label for="f-start">تاريخ أول جلسة</label><input id="f-start" type="date" value="' + esc(settings.start) + '"><div class="hint">من هاد التاريخ بتنحسب مواعيد الـ40 جلسة على الأيام اللي بتختارها.</div></div>' +
       '<div class="field"><label>أيام الجلسات</label><div class="days">' + dayBoxes + '</div><div class="hint">الكورس 3 جلسات بالأسبوع.</div></div>' +
       '<div class="field"><label for="f-time">ساعة الجلسة</label><input id="f-time" type="text" placeholder="مثلاً 6 المسا" value="' + esc(settings.time) + '"></div>' +
       '<div class="field"><label for="f-form">رابط فورم تسليم الوظائف</label><input id="f-form" type="url" placeholder="https://forms.gle/..." value="' + esc(settings.form) + '"></div>' +
